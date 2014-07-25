@@ -1,0 +1,300 @@
+--- file = ../run/3gram/dev.far, fsm = 1 ---
+list the airlines that have nonstop afternoon flights from boston to oakland 
+list the airlines that have nonstop afternoon flights from boston to oakland 
+--- file = ../run/3gram/dev.far, fsm = 2 ---
+what is the first-class fare from indianapolis to orlando 
+what is the first-class fare from indianapolis to orlando 
+--- file = ../run/3gram/dev.far, fsm = 3 ---
+now show me the flights from pittsburgh to baltimore 
+now show me the flights from pittsburgh to baltimore 
+--- file = ../run/3gram/dev.far, fsm = 4 ---
+show me all the flights on northwest-airlines from new-york to milwaukee to los-angeles 
+show me all the flights on northwest-airlines from new-york to milwaukee to los-angeles 
+--- file = ../run/3gram/dev.far, fsm = 5 ---
+what is the earliest flight that has <unk> from washington to san-francisco on friday 
+what is the earliest flight that has <unk> from washington to san-francisco on friday 
+--- file = ../run/3gram/dev.far, fsm = 6 ---
+show me first-class fares from dallas to baltimore 
+show me first-class fares from dallas to baltimore 
+--- file = ../run/3gram/dev.far, fsm = 7 ---
+fly from denver to philadelphia on continental 
+fly from denver to philadelphia on continental 
+--- file = ../run/3gram/dev.far, fsm = 8 ---
+please show me again the first-class fares from baltimore to dallas 
+please show me again the first-class fares from baltimore to dallas 
+--- file = ../run/3gram/dev.far, fsm = 9 ---
+show me all midwest express flights from detroit to chicago 
+show me all midwest express flights from detroit to chicago 
+--- file = ../run/3gram/dev.far, fsm = 10 ---
+list flights from atlanta to boston leaving between 6pm and 10pm on august eighth 
+list flights from atlanta to boston leaving between 6pm and 10pm on august eighth 
+--- file = ../run/3gram/dev.far, fsm = 11 ---
+information on afternoon flights from philadelphia to denver 
+information on afternoon flights from philadelphia to denver 
+--- file = ../run/3gram/dev.far, fsm = 12 ---
+<unk> now what i want to find out is on april twentieth from washington to denver do you have a flight least-expensive fare around <unk> in the morning 
+<unk> now what i want to find out is on april twentieth from washington to denver do you have a flight least-expensive fare around <unk> in the morning 
+--- file = ../run/3gram/dev.far, fsm = 13 ---
+i need a flight from denver to philadelphia on saturday 
+i need a flight from denver to philadelphia on saturday 
+--- file = ../run/3gram/dev.far, fsm = 14 ---
+show me the flights from westchester-county to cincinnati 
+show me the flights from westchester-county to cincinnati 
+--- file = ../run/3gram/dev.far, fsm = 15 ---
+what flights are available from denver to philadelphia on monday 
+what flights are available from denver to philadelphia on monday 
+--- file = ../run/3gram/dev.far, fsm = 16 ---
+what are the coach fares for flights from newark to la leaving after 3pm 
+what are the coach fares for flights from newark to la leaving after 3pm 
+--- file = ../run/3gram/dev.far, fsm = 17 ---
+what delta flights fly from washington to dallas in the morning 
+what delta flights fly from washington to dallas in the morning 
+--- file = ../run/3gram/dev.far, fsm = 18 ---
+i'd like to make a trip between atlanta and boston i wish to know the cheapest fare 
+i'd like to make a trip between atlanta and boston i wish to know the cheapest fare 
+--- file = ../run/3gram/dev.far, fsm = 19 ---
+give me the first flight from boston to atlanta 
+give me the first flight from boston to atlanta 
+--- file = ../run/3gram/dev.far, fsm = 20 ---
+does american-airlines fly from boston to san-francisco 
+does american-airlines fly from boston to san-francisco 
+--- file = ../run/3gram/dev.far, fsm = 21 ---
+what flights go from dallas to tampa 
+what flights go from dallas to tampa 
+--- file = ../run/3gram/dev.far, fsm = 22 ---
+thank you i also need to travel next wednesday evening from dallas to san-francisco 
+thank you i also need to travel next wednesday evening from dallas to san-francisco 
+--- file = ../run/3gram/dev.far, fsm = 23 ---
+show me airports in washington dc 
+show me airports in washington dc 
+--- file = ../run/3gram/dev.far, fsm = 24 ---
+what is the cheapest fare from dallas to denver round-trip 
+what is the cheapest fare from dallas to denver round-trip 
+--- file = ../run/3gram/dev.far, fsm = 25 ---
+okay and on may four i would like to go from atlanta to denver leaving early in the morning around 8 
+okay and on may four i would like to go from atlanta to denver leaving early in the morning around 8 
+--- file = ../run/3gram/dev.far, fsm = 26 ---
+list the flights from san-francisco to philadelphia on american-airlines 
+list the flights from san-francisco to philadelphia on american-airlines 
+--- file = ../run/3gram/dev.far, fsm = 27 ---
+what does fare code qo mean 
+what does fare code qo mean 
+--- file = ../run/3gram/dev.far, fsm = 28 ---
+do you have an <unk> flight from denver to san-francisco 
+do you have an <unk> flight from denver to san-francisco 
+--- file = ../run/3gram/dev.far, fsm = 29 ---
+what is the earliest united-airlines flight flying from denver to baltimore and arriving on july fourth 
+what is the earliest united-airlines flight flying from denver to baltimore and arriving on july fourth 
+--- file = ../run/3gram/dev.far, fsm = 30 ---
+i would like to book an early-morning flight from tampa to charlotte on april sixth 
+i would like to book an early-morning flight from tampa to charlotte on april sixth 
+--- file = ../run/3gram/dev.far, fsm = 31 ---
+morning flight from oakland to dallas 
+morning flight from oakland to dallas 
+--- file = ../run/3gram/dev.far, fsm = 32 ---
+show me flights from new-york to miami 
+show me flights from new-york to miami 
+--- file = ../run/3gram/dev.far, fsm = 33 ---
+list the flights and <unk> for flights leaving dallas-fort-worth for boston after 6pm 
+list the flights and <unk> for flights leaving dallas-fort-worth for boston after 6pm 
+--- file = ../run/3gram/dev.far, fsm = 34 ---
+list flights from pittsburgh to los-angeles which leave on thursday after 5pm 
+list flights from pittsburgh to los-angeles which leave on thursday after 5pm 
+--- file = ../run/3gram/dev.far, fsm = 35 ---
+i'd like a flight from baltimore to boston as early in the morning as i can 
+i'd like a flight from baltimore to boston as early in the morning as i can 
+--- file = ../run/3gram/dev.far, fsm = 36 ---
+show me all flights from oakland to philadelphia on saturday which serve a meal and arrive in philadelphia before noon 
+show me all flights from oakland to philadelphia on saturday which serve a meal and arrive in philadelphia before noon 
+--- file = ../run/3gram/dev.far, fsm = 37 ---
+i would like to book a flight from chicago to seattle on june first 
+i would like to book a flight from chicago to seattle on june first 
+--- file = ../run/3gram/dev.far, fsm = 38 ---
+show me economy fares from dallas to baltimore 
+show me economy fares from dallas to baltimore 
+--- file = ../run/3gram/dev.far, fsm = 39 ---
+please list the prices for a <unk> in pittsburgh 
+please list the prices for a <unk> in pittsburgh 
+--- file = ../run/3gram/dev.far, fsm = 40 ---
+are there any flights from pittsburgh to boston that leave between noon and <unk> 
+are there any flights from pittsburgh to boston that leave between noon and <unk> 
+--- file = ../run/3gram/dev.far, fsm = 41 ---
+daily flights from newark to cleveland departing 5-o'clock-pm 
+daily flights from newark to cleveland departing 5-o'clock-pm 
+--- file = ../run/3gram/dev.far, fsm = 42 ---
+show me the flights from boston to oakland 
+show me the flights from boston to oakland 
+--- file = ../run/3gram/dev.far, fsm = 43 ---
+show me the flights from st.-petersburg to toronto that leave monday 
+show me the flights from st.-petersburg to toronto that leave monday 
+--- file = ../run/3gram/dev.far, fsm = 44 ---
+please list all flights between boston and atlanta 
+please list all flights between boston and atlanta 
+--- file = ../run/3gram/dev.far, fsm = 45 ---
+is there a flight on delta-airlines from boston to denver 
+is there a flight on delta-airlines from boston to denver 
+--- file = ../run/3gram/dev.far, fsm = 46 ---
+give me the flights and fares on december twenty-seventh from orlando to indianapolis 
+give me the flights and fares on december twenty-seventh from orlando to indianapolis 
+--- file = ../run/3gram/dev.far, fsm = 47 ---
+give me all <unk> from new-york to <unk> that arrive on a sunday 
+give me all <unk> from new-york to <unk> that arrive on a sunday 
+--- file = ../run/3gram/dev.far, fsm = 48 ---
+what flights leave boston and arrive in philadelphia before 7am 
+what flights leave boston and arrive in philadelphia before 7am 
+--- file = ../run/3gram/dev.far, fsm = 49 ---
+i'd like a flight from boston to san-francisco leaving in the afternoon any time please 
+i'd like a flight from boston to san-francisco leaving in the afternoon any time please 
+--- file = ../run/3gram/dev.far, fsm = 50 ---
+flight <unk> from cincinnati to dallas 
+flight <unk> from cincinnati to dallas 
+--- file = ../run/3gram/dev.far, fsm = 51 ---
+list flights from houston to memphis june twenty-ninth 
+list flights from houston to memphis june twenty-ninth 
+--- file = ../run/3gram/dev.far, fsm = 52 ---
+list flights from dallas to san-francisco 
+list flights from dallas to san-francisco 
+--- file = ../run/3gram/dev.far, fsm = 53 ---
+please <unk> the flight departures for monday august nineteenth from denver to pittsburgh 
+please <unk> the flight departures for monday august nineteenth from denver to pittsburgh 
+--- file = ../run/3gram/dev.far, fsm = 54 ---
+where does continental fly to from chicago 
+where does continental fly to from chicago 
+--- file = ../run/3gram/dev.far, fsm = 55 ---
+what ground transportation is available from the denver-airport to downtown denver 
+what ground transportation is available from the denver-airport to downtown denver 
+--- file = ../run/3gram/dev.far, fsm = 56 ---
+from kansas-city to salt-lake-city on delta arrive around 8pm tomorrow 
+from kansas-city to salt-lake-city on delta arrive around 8pm tomorrow 
+--- file = ../run/3gram/dev.far, fsm = 57 ---
+is there a flight on twa from baltimore to san-francisco with a stop in denver 
+is there a flight on twa from baltimore to san-francisco with a stop in denver 
+--- file = ../run/3gram/dev.far, fsm = 58 ---
+phoenix to newark wednesday 
+phoenix to newark wednesday 
+--- file = ../run/3gram/dev.far, fsm = 59 ---
+newark to cleveland 
+newark to cleveland 
+--- file = ../run/3gram/dev.far, fsm = 60 ---
+what flights leave from phoenix 
+what flights leave from phoenix 
+--- file = ../run/3gram/dev.far, fsm = 61 ---
+flight information from pittsburgh to denver 
+flight information from pittsburgh to denver 
+--- file = ../run/3gram/dev.far, fsm = 62 ---
+show me flights from denver to philadelphia 
+show me flights from denver to philadelphia 
+--- file = ../run/3gram/dev.far, fsm = 63 ---
+show me ground transportation in denver 
+show me ground transportation in denver 
+--- file = ../run/3gram/dev.far, fsm = 64 ---
+which airlines fly from boston to washington dc 
+which airlines fly from boston to washington dc 
+--- file = ../run/3gram/dev.far, fsm = 65 ---
+okay and can you tell me for flights departing from dallas to philadelphia the latest flight you would have departing from dallas to philadelphia 
+okay and can you tell me for flights departing from dallas to philadelphia the latest flight you would have departing from dallas to philadelphia 
+--- file = ../run/3gram/dev.far, fsm = 66 ---
+show me the flights from boston to denver on august second 
+show me the flights from boston to denver on august second 
+--- file = ../run/3gram/dev.far, fsm = 67 ---
+show me all the flights on united leaving from boston 
+show me all the flights on united leaving from boston 
+--- file = ../run/3gram/dev.far, fsm = 68 ---
+could you please tell me the first flight leaving baltimore to san-francisco on a <unk> on august twenty-seventh 
+could you please tell me the first flight leaving baltimore to san-francisco on a <unk> on august twenty-seventh 
+--- file = ../run/3gram/dev.far, fsm = 69 ---
+please give me flights from atlanta to boston on wednesday afternoon and thursday morning 
+please give me flights from atlanta to boston on wednesday afternoon and thursday morning 
+--- file = ../run/3gram/dev.far, fsm = 70 ---
+show all flights leaving monday morning from boston to pittsburgh 
+show all flights leaving monday morning from boston to pittsburgh 
+--- file = ../run/3gram/dev.far, fsm = 71 ---
+show me the delta flights from san-francisco to boston 
+show me the delta flights from san-francisco to boston 
+--- file = ../run/3gram/dev.far, fsm = 72 ---
+show me the flights from baltimore to oakland 
+show me the flights from baltimore to oakland 
+--- file = ../run/3gram/dev.far, fsm = 73 ---
+what type of aircraft are used on flights from cleveland to dallas that leave before noon 
+what type of aircraft are used on flights from cleveland to dallas that leave before noon 
+--- file = ../run/3gram/dev.far, fsm = 74 ---
+<unk> <unk> i'm <unk> on <unk> <unk> i'm interested in a flight on a <unk> from washington dc to atlanta <unk> 
+<unk> <unk> i'm <unk> on <unk> <unk> i'm interested in a flight on a <unk> from washington dc to atlanta <unk> 
+--- file = ../run/3gram/dev.far, fsm = 75 ---
+flight from dc to salt-lake-city 
+flight from dc to salt-lake-city 
+--- file = ../run/3gram/dev.far, fsm = 76 ---
+i'd like to make a trip from washington to san-francisco 
+i'd like to make a trip from washington to san-francisco 
+--- file = ../run/3gram/dev.far, fsm = 77 ---
+is there an airline that services boston dc and dallas 
+is there an airline that services boston dc and dallas 
+--- file = ../run/3gram/dev.far, fsm = 78 ---
+airline that <unk> for dl 
+airline that <unk> for dl 
+--- file = ../run/3gram/dev.far, fsm = 79 ---
+i would like to see the flights from denver to philadelphia 
+i would like to see the flights from denver to philadelphia 
+--- file = ../run/3gram/dev.far, fsm = 80 ---
+show me the cheapest one-way flights from pittsburgh to dallas leaving pittsburgh between noon and 2pm 
+show me the cheapest one-way flights from pittsburgh to dallas leaving pittsburgh between noon and 2pm 
+--- file = ../run/3gram/dev.far, fsm = 81 ---
+show all flights with first-class from baltimore to dallas 
+show all flights with first-class from baltimore to dallas 
+--- file = ../run/3gram/dev.far, fsm = 82 ---
+i'd like the earliest flight from dallas to boston 
+i'd like the earliest flight from dallas to boston 
+--- file = ../run/3gram/dev.far, fsm = 83 ---
+what are the coach fares for flights from pittsburgh to denver 
+what are the coach fares for flights from pittsburgh to denver 
+--- file = ../run/3gram/dev.far, fsm = 84 ---
+what flights can i take between boston and atlanta so that when i leave boston i will have the <unk> <unk> of time on the ground in atlanta and <unk> return in the same day 
+what flights can i take between boston and atlanta so that when i leave boston i will have the <unk> <unk> of time on the ground in atlanta and <unk> return in the same day 
+--- file = ../run/3gram/dev.far, fsm = 85 ---
+show me the flights from philadelphia to atlanta <unk> 
+show me the flights from philadelphia to atlanta <unk> 
+--- file = ../run/3gram/dev.far, fsm = 86 ---
+<unk> going from denver to san-francisco 
+<unk> going from denver to san-francisco 
+--- file = ../run/3gram/dev.far, fsm = 87 ---
+what airlines have flights from baltimore to seattle 
+what airlines have flights from baltimore to seattle 
+--- file = ../run/3gram/dev.far, fsm = 88 ---
+show me all the flights from milwaukee to orlando that leave after noon on wednesday and before noon on thursday 
+show me all the flights from milwaukee to orlando that leave after noon on wednesday and before noon on thursday 
+--- file = ../run/3gram/dev.far, fsm = 89 ---
+what airlines go to pittsburgh 
+what airlines go to pittsburgh 
+--- file = ../run/3gram/dev.far, fsm = 90 ---
+i'd like to fly from philadelphia to san-francisco with a stopover in dallas 
+i'd like to fly from philadelphia to san-francisco with a stopover in dallas 
+--- file = ../run/3gram/dev.far, fsm = 91 ---
+what is the ground transportation available in the city of fort-worth 
+what is the ground transportation available in the city of fort-worth 
+--- file = ../run/3gram/dev.far, fsm = 92 ---
+what are your flights from dallas to baltimore 
+what are your flights from dallas to baltimore 
+--- file = ../run/3gram/dev.far, fsm = 93 ---
+show me round-trips from houston to las-vegas nonstop 
+show me round-trips from houston to las-vegas nonstop 
+--- file = ../run/3gram/dev.far, fsm = 94 ---
+please list all flights from san-francisco to pittsburgh on sunday 
+please list all flights from san-francisco to pittsburgh on sunday 
+--- file = ../run/3gram/dev.far, fsm = 95 ---
+i want a flight from philadelphia to dallas with a stop in atlanta 
+i want a flight from philadelphia to dallas with a stop in atlanta 
+--- file = ../run/3gram/dev.far, fsm = 96 ---
+what is the airfare for flights from denver to pittsburgh on delta-airline 
+what is the airfare for flights from denver to pittsburgh on delta-airline 
+--- file = ../run/3gram/dev.far, fsm = 97 ---
+do you have any flights from denver to baltimore via dallas 
+do you have any flights from denver to baltimore via dallas 
+--- file = ../run/3gram/dev.far, fsm = 98 ---
+which airlines fly into and out of denver 
+which airlines fly into and out of denver 
+--- file = ../run/3gram/dev.far, fsm = 99 ---
+does continental fly from boston to san-francisco with a stop in denver 
+does continental fly from boston to san-francisco with a stop in denver 
+--- file = ../run/3gram/dev.far, fsm = 100 ---
+is there a delta flight from denver to san-francisco 
+is there a delta flight from denver to san-francisco 

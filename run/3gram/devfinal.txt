@@ -1,0 +1,795 @@
+--- file = ../run/3gram/devfinal.far, fsm = 1 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 2 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 3 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 4 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 5 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 6 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 7 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 8 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 9 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 10 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 11 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 12 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 13 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 14 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 15 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 16 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 17 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 18 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 19 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 20 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 21 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 22 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 23 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 24 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 25 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 26 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 27 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 28 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 29 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 30 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 31 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 32 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 33 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 34 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 35 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 36 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 37 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 38 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 39 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 40 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 41 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 42 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 43 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 44 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 45 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 46 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 47 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 48 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 49 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 50 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 51 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 52 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 53 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 54 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 55 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 56 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 57 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 58 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 59 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 60 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 61 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 62 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 63 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 64 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 65 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 66 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 67 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 68 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 69 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 70 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 71 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 72 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 73 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 74 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 75 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 76 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 77 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 78 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 79 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 80 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 81 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 82 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 83 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 84 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 85 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 86 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 87 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 88 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 89 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 90 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 91 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 92 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 93 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 94 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 95 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 96 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 97 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 98 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 99 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 100 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 101 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 102 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 103 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 104 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 105 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 106 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 107 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 108 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 109 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 110 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 111 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 112 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 113 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 114 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 115 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 116 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 117 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 118 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 119 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 120 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 121 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 122 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 123 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 124 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 125 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 126 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 127 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 128 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 129 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 130 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 131 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 132 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 133 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 134 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 135 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 136 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 137 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 138 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 139 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 140 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 141 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 142 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 143 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 144 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 145 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 146 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 147 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 148 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 149 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 150 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 151 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 152 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 153 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 154 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 155 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 156 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 157 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 158 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 159 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 160 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 161 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 162 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 163 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 164 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 165 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 166 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 167 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 168 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 169 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 170 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 171 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 172 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 173 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 174 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 175 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 176 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 177 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 178 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 179 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 180 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 181 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 182 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 183 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 184 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 185 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 186 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 187 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 188 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 189 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 190 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 191 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 192 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 193 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 194 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 195 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 196 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 197 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 198 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 199 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 200 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 201 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 202 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 203 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 204 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 205 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 206 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 207 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 208 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 209 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 210 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 211 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 212 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 213 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 214 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 215 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 216 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 217 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 218 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 219 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 220 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 221 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 222 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 223 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 224 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 225 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 226 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 227 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 228 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 229 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 230 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 231 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 232 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 233 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 234 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 235 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 236 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 237 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 238 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 239 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 240 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 241 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 242 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 243 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 244 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 245 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 246 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 247 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 248 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 249 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 250 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 251 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 252 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 253 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 254 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 255 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 256 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 257 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 258 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 259 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 260 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 261 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 262 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 263 ---
+
+
+--- file = ../run/3gram/devfinal.far, fsm = 264 ---
+chicago 
+chicago 
+--- file = ../run/3gram/devfinal.far, fsm = 265 ---
+
+

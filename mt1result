@@ -1,0 +1,750 @@
+--- file = out.far, fsm = 1 ---
+i would like to find a flight from charlotte to las-vegas that makes a stop in st.-louis 
+null null null null null null null null fromloc.city_name null toloc.city_name null null null null null stoploc.city_name 
+--- file = out.far, fsm = 2 ---
+on april first i need a ticket from tacoma to san-jose departing before 7am 
+null depart_date.month_name depart_date.day_number null null null null null fromloc.city_name null toloc.city_name null depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 3 ---
+on april first i need a flight going from phoenix to san-diego 
+null depart_date.month_name depart_date.day_number null null null null null null null null toloc.city_name 
+--- file = out.far, fsm = 4 ---
+i would like a flight <unk> one-way from phoenix to san-diego on april first 
+null null null null null depart_time.time round_trip null null null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 5 ---
+i would like a flight from orlando to salt-lake-city for april first on delta-airlines 
+null null null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number null airline_name 
+--- file = out.far, fsm = 6 ---
+i need a flight from toronto to newark one-way leaving wednesday evening or thursday morning 
+null null null null null null null toloc.city_name round_trip null depart_date.day_name depart_time.period_of_day null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 7 ---
+monday morning i would like to fly from columbus to indianapolis 
+depart_date.day_name depart_time.period_of_day null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 8 ---
+on wednesday april sixth i would like to fly from long-beach to columbus after 3pm 
+null depart_date.day_name depart_date.month_name depart_date.day_number null null null null null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 9 ---
+after 12pm on wednesday april sixth i would like to fly from long-beach to columbus 
+depart_time.time_relative depart_time.time null depart_date.day_name depart_date.month_name depart_date.day_number null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 10 ---
+are there any flights from long-beach to columbus on wednesday april sixth 
+null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 11 ---
+find a flight from memphis to tacoma dinner 
+null null null null fromloc.city_name null toloc.city_name null 
+--- file = out.far, fsm = 12 ---
+on next wednesday flight from kansas-city to chicago should arrive in chicago around 7pm return flight on thursday 
+null depart_date.date_relative depart_date.day_name null null fromloc.city_name null toloc.city_name null null null toloc.city_name null depart_time.time null null null depart_date.day_name 
+--- file = out.far, fsm = 13 ---
+
+
+--- file = out.far, fsm = 14 ---
+flight on american from miami to chicago arrive in chicago about 5pm 
+null null null null fromloc.city_name null toloc.city_name null null toloc.city_name null depart_time.time 
+--- file = out.far, fsm = 15 ---
+find flights arriving new-york-city next saturday 
+null null null toloc.city_name depart_date.date_relative depart_date.day_name 
+--- file = out.far, fsm = 16 ---
+find nonstop flights from salt-lake-city to new-york on saturday april ninth 
+null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 17 ---
+show flights from burbank to milwaukee for today 
+null null null fromloc.city_name null toloc.city_name null null 
+--- file = out.far, fsm = 18 ---
+show flights tomorrow evening from milwaukee to st.-louis 
+null null depart_date.today_relative depart_time.period_of_day null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 19 ---
+show flights saturday evening from st.-louis to burbank 
+null null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 20 ---
+show flights from burbank to st.-louis on monday 
+null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+--- file = out.far, fsm = 21 ---
+show flights from burbank to milwaukee on monday 
+null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+--- file = out.far, fsm = 22 ---
+show flights tuesday evening from milwaukee to st.-louis 
+null null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 23 ---
+show flights wednesday evening from st.-louis to burbank 
+null null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 24 ---
+which flights travel from kansas-city to los-angeles 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 25 ---
+what flights travel from las-vegas to los-angeles 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 26 ---
+which flights travel from kansas-city to los-angeles on april ninth 
+null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 27 ---
+which flights travel from las-vegas to los-angeles california and arrive on april ninth between 4 and 5pm 
+null null null null fromloc.city_name null toloc.city_name null null null null depart_date.month_name depart_date.day_number null depart_time.time null depart_time.time 
+--- file = out.far, fsm = 28 ---
+which flights on us-air go from orlando to cleveland 
+null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 29 ---
+which flights travel from cleveland to indianapolis on april fifth 
+null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 30 ---
+which flights travel from indianapolis to san-diego on april fifth 
+null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 31 ---
+which flights go from cleveland to indianapolis on april fifth 
+null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 32 ---
+which flights travel from nashville to tacoma 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 33 ---
+does <unk> offer transportation from the airport to the downtown area 
+null depart_time.time null null null null null null null null null 
+--- file = out.far, fsm = 34 ---
+which flights travel from tacoma to san-jose 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 35 ---
+what day of the week do flights from nashville to tacoma fly on 
+null null null null null null null null fromloc.city_name null toloc.city_name null null 
+--- file = out.far, fsm = 36 ---
+what are the flights from tacoma to san-jose 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 37 ---
+what days of the week do flights from san-jose to nashville fly on 
+null null null null null null null null fromloc.city_name null toloc.city_name null null 
+--- file = out.far, fsm = 38 ---
+what are the flights from tacoma to san-jose 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 39 ---
+i need a flight that goes from boston to orlando 
+null null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 40 ---
+
+
+--- file = out.far, fsm = 41 ---
+
+
+--- file = out.far, fsm = 42 ---
+does this flight serve dinner 
+null null null null null 
+--- file = out.far, fsm = 43 ---
+i need a flight from charlotte to miami 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 44 ---
+i need a nonstop flight from miami to toronto 
+null null null null null null fromloc.city_name null null 
+--- file = out.far, fsm = 45 ---
+i need a nonstop flight from toronto to st.-louis 
+null null null null null null null null toloc.city_name 
+--- file = out.far, fsm = 46 ---
+i need a flight from toronto to st.-louis 
+null null null null null null null toloc.city_name 
+--- file = out.far, fsm = 47 ---
+i need a flight from st.-louis to charlotte 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 48 ---
+i need a flight on united-airlines from la-guardia to san-jose 
+null null null null null airline_name null fromloc.airport_name null toloc.city_name 
+--- file = out.far, fsm = 49 ---
+i need a flight from tampa to milwaukee 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 50 ---
+i need a flight from milwaukee to seattle 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 51 ---
+what meals are served on american flight <unk> from tampa to milwaukee 
+null null null null null null null depart_time.time null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 52 ---
+what meals are served on american flight <unk> from milwaukee to seattle 
+null null null null null null null depart_time.time null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 53 ---
+i need a flight from memphis to las-vegas 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 54 ---
+i need a flight from las-vegas to ontario 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 55 ---
+i need a flight from ontario to memphis 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 56 ---
+which flights go from milwaukee to tampa and stop in nashville 
+null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name 
+--- file = out.far, fsm = 57 ---
+which flights leave newark after noon next saturday and arrive in los-angeles 
+null null null fromloc.city_name depart_time.time_relative depart_time.time depart_date.date_relative depart_date.day_name null null null toloc.city_name 
+--- file = out.far, fsm = 58 ---
+which flights leave detroit and arrive at st.-petersburg around 9am 
+null null null fromloc.city_name null null null toloc.city_name null depart_time.time 
+--- file = out.far, fsm = 59 ---
+which flights on <unk> leave detroit and arrive at st.-petersburg 
+null null null depart_time.time null fromloc.city_name null null null toloc.city_name 
+--- file = out.far, fsm = 60 ---
+which flights leave chicago next tuesday and arrive in detroit around 6pm 
+null null null fromloc.city_name depart_date.date_relative depart_date.day_name null null null toloc.city_name null depart_time.time 
+--- file = out.far, fsm = 61 ---
+
+
+--- file = out.far, fsm = 62 ---
+
+
+--- file = out.far, fsm = 63 ---
+
+
+--- file = out.far, fsm = 64 ---
+which flights leave on monday from montreal and arrive in chicago in the morning 
+null null null null depart_date.day_name null null null null null toloc.city_name null null depart_time.period_of_day 
+--- file = out.far, fsm = 65 ---
+which flights leave chicago on april twelfth and arrive in indianapolis in the morning 
+null null null fromloc.city_name null depart_date.month_name depart_date.day_number null null null toloc.city_name null null depart_time.period_of_day 
+--- file = out.far, fsm = 66 ---
+which flights leave on wednesday april thirteenth from indianapolis and arrive in montreal in the morning 
+null null null null depart_date.day_name depart_date.month_name depart_date.day_number null fromloc.city_name null null null null null null depart_time.period_of_day 
+--- file = out.far, fsm = 67 ---
+which flights leave april twelfth from indianapolis and arrive in montreal around 10pm 
+null null null depart_date.month_name depart_date.day_number null fromloc.city_name null null null null null depart_time.time 
+--- file = out.far, fsm = 68 ---
+i'd like to go from long-beach to st.-louis and i'd like to stop in dallas i'd also like to have lunch during my flight 
+null null null null null fromloc.city_name null toloc.city_name null null null null null null stoploc.city_name null null null null null null null null null 
+--- file = out.far, fsm = 69 ---
+next wednesday i would like to leave kansas-city on a trip to chicago which arrives in chicago around 7pm 
+depart_date.date_relative depart_date.day_name null null null null null fromloc.city_name null null null null toloc.city_name null null null toloc.city_name null depart_time.time 
+--- file = out.far, fsm = 70 ---
+i would like to return from chicago around 7pm to kansas-city 
+null null null null null null fromloc.city_name null depart_time.time null toloc.city_name 
+--- file = out.far, fsm = 71 ---
+i would like to leave this afternoon on an american flight from cincinnati to burbank 
+null null null null null null depart_time.period_of_day null null null null null null null toloc.city_name 
+--- file = out.far, fsm = 72 ---
+on sunday evening i would like to leave montreal quebec on a flight to san-diego california 
+null depart_date.day_name depart_time.period_of_day null null null null null null null null null null null toloc.city_name null 
+--- file = out.far, fsm = 73 ---
+what are the flights on sunday from montreal quebec to san-diego california 
+null null null null null depart_date.day_name null null null null toloc.city_name null 
+--- file = out.far, fsm = 74 ---
+on tuesday are the flights from san-diego california to indianapolis <unk> i would like the flight to be in the afternoon 
+null depart_date.day_name null null null null fromloc.city_name null null toloc.city_name depart_time.time null null null null null null null null null depart_time.period_of_day 
+--- file = out.far, fsm = 75 ---
+on thursday morning i would like a nonstop flight from indianapolis to toronto 
+null depart_date.day_name depart_time.period_of_day null null null null null null null fromloc.city_name null null 
+--- file = out.far, fsm = 76 ---
+on friday morning i would like to fly from toronto to montreal 
+null depart_date.day_name depart_time.period_of_day null null null null null null null null null 
+--- file = out.far, fsm = 77 ---
+i would like an early-morning flight today from los-angeles to charlotte 
+null null null null depart_time.period_of_day null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 78 ---
+on wednesday night i would like a flight from charlotte to newark 
+null depart_date.day_name depart_time.period_of_day null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 79 ---
+on friday night i would like a flight from newark to los-angeles 
+null depart_date.day_name depart_time.period_of_day null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 80 ---
+
+
+--- file = out.far, fsm = 81 ---
+please find a flight from miami florida to las-vegas <unk> arriving before 4-o'clock-pm 
+null null null null null fromloc.city_name null null toloc.city_name depart_time.time null depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 82 ---
+please find a flight from las-vegas to <unk> 
+null null null null null fromloc.city_name null depart_time.time 
+--- file = out.far, fsm = 83 ---
+please find a flight from detroit <unk> to st.-petersburg arriving before 10pm 
+null null null null null fromloc.city_name depart_time.time null toloc.city_name null depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 84 ---
+please find a flight from st.-petersburg to miami on thursday 
+null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+--- file = out.far, fsm = 85 ---
+please find a flight from san-diego to toronto on alaska-airlines 
+null null null null null fromloc.city_name null null null airline_name 
+--- file = out.far, fsm = 86 ---
+
+
+--- file = out.far, fsm = 87 ---
+please give me the flights from nashville to houston nonstop with dinner served 
+null null null null null null fromloc.city_name null toloc.city_name null null null null 
+--- file = out.far, fsm = 88 ---
+please find flights available from kansas-city to newark 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 89 ---
+please find a flight that goes from kansas-city to newark to orlando back to kansas-city 
+null null null null null null null fromloc.city_name null toloc.city_name null toloc.city_name null null toloc.city_name 
+--- file = out.far, fsm = 90 ---
+please find a flight from kansas-city to newark 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 91 ---
+please find a flight from newark to orlando 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 92 ---
+please find a flight from orlando to kansas-city 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 93 ---
+i would like to fly from columbus to phoenix through cincinnati in the afternoon 
+null null null null null null fromloc.city_name null null null null null null depart_time.period_of_day 
+--- file = out.far, fsm = 94 ---
+
+
+--- file = out.far, fsm = 95 ---
+
+
+--- file = out.far, fsm = 96 ---
+which flights arrive in burbank from kansas-city on saturdays in the afternoon 
+null null null null toloc.city_name null fromloc.city_name null depart_date.day_name null null depart_time.period_of_day 
+--- file = out.far, fsm = 97 ---
+which flights arrive in burbank from las-vegas on saturday april twenty-third in the afternoon 
+null null null null toloc.city_name null fromloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number null null depart_time.period_of_day 
+--- file = out.far, fsm = 98 ---
+which flights are available from orlando to cleveland that arrive around 10pm 
+null null null null null fromloc.city_name null toloc.city_name null null null depart_time.time 
+--- file = out.far, fsm = 99 ---
+what flights are available from indianapolis to san-diego on april twenty-first in the <unk> 
+null null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number null null depart_time.time 
+--- file = out.far, fsm = 100 ---
+what flights leave cleveland going to indianapolis on april twenty-first in the morning 
+null null null fromloc.city_name null null toloc.city_name null depart_date.month_name depart_date.day_number null null depart_time.period_of_day 
+--- file = out.far, fsm = 101 ---
+which flights are available on april twenty-first in the morning from nashville to tacoma 
+null null null null null depart_date.month_name depart_date.day_number null null depart_time.period_of_day null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 102 ---
+which flights are available from tacoma to san-jose in the morning on april twenty-second 
+null null null null null fromloc.city_name null toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 103 ---
+which flights are available from san-jose to nashville leaving in the morning on april <unk> 
+null null null null null fromloc.city_name null toloc.city_name null null null depart_time.period_of_day null depart_date.month_name depart_time.time 
+--- file = out.far, fsm = 104 ---
+
+
+--- file = out.far, fsm = 105 ---
+
+
+--- file = out.far, fsm = 106 ---
+what are the <unk> from detroit to westchester-county 
+null null null depart_time.time null fromloc.city_name null null 
+--- file = out.far, fsm = 107 ---
+what is the latest flight from baltimore to oakland that serves dinner 
+null null null flight_mod null null fromloc.city_name null toloc.city_name null null null 
+--- file = out.far, fsm = 108 ---
+what is the earliest flight between baltimore and oakland that serves breakfast 
+null null null null null null fromloc.city_name null toloc.city_name null null null 
+--- file = out.far, fsm = 109 ---
+to what <unk> from boston does america-west fly first-class 
+null null depart_time.time null fromloc.city_name null null null class_type 
+--- file = out.far, fsm = 110 ---
+what airline flies from boston to san-diego 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 111 ---
+what is the latest breakfast flight from dallas to tampa 
+null null null flight_mod null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 112 ---
+show me all lufthansa flights from seattle to boston with stopovers in minneapolis 
+null null null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name 
+--- file = out.far, fsm = 113 ---
+show me all flights from seattle to boston with stopovers in minneapolis 
+null null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name 
+--- file = out.far, fsm = 114 ---
+
+
+--- file = out.far, fsm = 115 ---
+show me the connecting flights between boston and denver and the types of aircraft used 
+null null null null null null fromloc.city_name null toloc.city_name null null null null null null 
+--- file = out.far, fsm = 116 ---
+show me all the morning flights from philadelphia to fort-worth 
+null null null null depart_time.period_of_day null null fromloc.city_name null null 
+--- file = out.far, fsm = 117 ---
+show me all the flights from kansas-city to st.-paul 
+null null null null null null fromloc.city_name null null 
+--- file = out.far, fsm = 118 ---
+show me northwest flight <unk> from kansas-city to st.-paul 
+null null null null depart_time.time null fromloc.city_name null null 
+--- file = out.far, fsm = 119 ---
+show me all the flights from indianapolis to charlotte on monday 
+null null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+--- file = out.far, fsm = 120 ---
+
+
+--- file = out.far, fsm = 121 ---
+show me all the flights from charlotte to minneapolis that leave at 2pm or <unk> on monday 
+null null null null null null fromloc.city_name null toloc.city_name null null null depart_time.time null depart_time.time null depart_date.day_name 
+--- file = out.far, fsm = 122 ---
+show me all the flights from charlotte to minneapolis on tuesday morning 
+null null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 123 ---
+show me the direct flights from charlotte to minneapolis on tuesday morning 
+null null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 124 ---
+show me flight us <unk> on monday from charlotte to minneapolis please 
+null null null null depart_time.time null depart_date.day_name null fromloc.city_name null toloc.city_name null 
+--- file = out.far, fsm = 125 ---
+show me all the flights from minneapolis to indianapolis on tuesday that leave after 2pm 
+null null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name null null depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 126 ---
+show me the flights from minneapolis to <unk> 
+null null null null null fromloc.city_name null depart_time.time 
+--- file = out.far, fsm = 127 ---
+show me the flights in from minneapolis to indianapolis on tuesday afternoon 
+null null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 128 ---
+show me flight us <unk> from indianapolis to charlotte on monday and flight us <unk> from charlotte to minneapolis on monday and flight twa <unk> from minneapolis to indianapolis 
+null null null null depart_time.time null fromloc.city_name null toloc.city_name null depart_date.day_name null null null depart_time.time null fromloc.city_name null toloc.city_name null depart_date.day_name null null null depart_time.time null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 129 ---
+show me all the flights from las-vegas to new-york-city 
+null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 130 ---
+which <unk> airlines go from las-vegas to new-york-city 
+null depart_time.time null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 131 ---
+show me all the flights on america-west and twa from las-vegas to jfk on a friday 
+null null null null null null null null null null fromloc.city_name null null null null depart_date.day_name 
+--- file = out.far, fsm = 132 ---
+what are the flights from tacoma to miami that leave after 6pm tomorrow 
+null null null null null fromloc.city_name null toloc.city_name null null depart_time.time_relative depart_time.time depart_date.today_relative 
+--- file = out.far, fsm = 133 ---
+i'd like to fly from san-diego to houston on june tenth 
+null null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 134 ---
+is there an american-airlines flight from houston to newark on june tenth after 6pm 
+null null null airline_name null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 135 ---
+is there an american-airlines flight from houston to newark on june tenth after 3pm 
+null null null airline_name null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 136 ---
+i need to get from cincinnati to denver on june sixth by 6pm 
+null null null null null null null toloc.city_name null depart_date.month_name depart_date.day_number null depart_time.time 
+--- file = out.far, fsm = 137 ---
+
+
+--- file = out.far, fsm = 138 ---
+what's the fare for a taxi to denver 
+null null null null null null null toloc.city_name 
+--- file = out.far, fsm = 139 ---
+
+
+--- file = out.far, fsm = 140 ---
+i need to fly from denver to westchester-county on june seventh after 3pm 
+null null null null null fromloc.city_name null null null depart_date.month_name depart_date.day_number depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 141 ---
+what's the ground transportation in westchester-county 
+null null null null null null 
+--- file = out.far, fsm = 142 ---
+i need to take a united-airlines flight on june eighth from westchester-county to cincinnati after 3pm 
+null null null null null airline_name null null depart_date.month_name null null null null null depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 143 ---
+what united-airlines flights on june eighth go from westchester-county to cincinnati 
+null airline_name null null depart_date.month_name null null null null null null 
+--- file = out.far, fsm = 144 ---
+on june eighth what flights go from westchester-county to cincinnati 
+null depart_date.month_name null null null null null null null null 
+--- file = out.far, fsm = 145 ---
+does us-air fly from cincinnati to denver on june sixth 
+null null null null null null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 146 ---
+list the flights from cincinnati to denver on june sixth 
+null null null null null null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 147 ---
+list the flights from denver to westchester-county on june seventh 
+null null null null fromloc.city_name null null null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 148 ---
+list the flights from westchester-county to cincinnati on june eighth 
+null null null null null null null null depart_date.month_name null 
+--- file = out.far, fsm = 149 ---
+list the flights from cincinnati to westchester-county on june sixth 
+null null null null null null null null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 150 ---
+list the flights from westchester-county to denver on june seventh 
+null null null null null null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 151 ---
+list the flights from denver to cincinnati on june eighth 
+null null null null fromloc.city_name null null null depart_date.month_name null 
+--- file = out.far, fsm = 152 ---
+list the flights from denver to cincinnati on june sixth after 4pm 
+null null null null fromloc.city_name null null null depart_date.month_name depart_date.day_number depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 153 ---
+list the flights from cincinnati to westchester-county on june seventh 
+null null null null null null null null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 154 ---
+list the flights from westchester-county to cincinnati on june seventh leaving after 5pm 
+null null null null null null null null depart_date.month_name depart_date.day_number null depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 155 ---
+what airlines <unk> from love-field between 6 and 10am on june sixth 
+null null depart_time.time null null null depart_time.time null depart_time.time null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 156 ---
+what flights arrive at love-field on june sixth 
+null null null null null null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 157 ---
+list the flights from montreal to <unk> before 9am 
+null null null null null null depart_time.time depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 158 ---
+list the flights from cleveland to memphis 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 159 ---
+list the flights from memphis to cleveland 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 160 ---
+list the flights from denver to baltimore arriving on july first 
+null null null null fromloc.city_name null toloc.city_name null null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 161 ---
+list the flights from dallas to baltimore arriving july first 
+null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 162 ---
+list the flights from pittsburgh to baltimore arriving on july first 
+null null null null fromloc.city_name null toloc.city_name null null depart_date.month_name depart_date.day_number 
+--- file = out.far, fsm = 163 ---
+list the flights on canadian-airlines-international 
+null null null null null 
+--- file = out.far, fsm = 164 ---
+how many canadian-airlines-international flights <unk> <unk> 
+null null null null depart_time.time depart_time.time 
+--- file = out.far, fsm = 165 ---
+how many canadian-airlines-international flights <unk> aircraft <unk> 
+null null null null depart_time.time null depart_time.time 
+--- file = out.far, fsm = 166 ---
+how many <unk> flights <unk> aircraft <unk> 
+null null depart_time.time null depart_time.time null depart_time.time 
+--- file = out.far, fsm = 167 ---
+show me the flights on american-airlines which fly from st.-petersburg to ontario canada with a stopover in st.-louis 
+null null null null null airline_name null null null fromloc.city_name null toloc.city_name null null null null null stoploc.city_name 
+--- file = out.far, fsm = 168 ---
+
+
+--- file = out.far, fsm = 169 ---
+which airport is <unk> to ontario california 
+null null null depart_time.time null toloc.city_name null 
+--- file = out.far, fsm = 170 ---
+show me the flights from houston to orlando 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 171 ---
+show me the flights from orlando to houston 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 172 ---
+show me the flights from detroit to las-vegas 
+null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 173 ---
+
+
+--- file = out.far, fsm = 174 ---
+
+
+--- file = out.far, fsm = 175 ---
+show me the delta flights which serve a snack to coach passengers 
+null null null airline_name null null null null null null class_type null 
+--- file = out.far, fsm = 176 ---
+what is meal code <unk> 
+null null null null fare_basis_code 
+--- file = out.far, fsm = 177 ---
+what meals are available on dl <unk> which <unk> arrives in san-francisco at <unk> 
+null null null null null null depart_time.time null depart_time.time null null toloc.city_name null depart_time.time 
+--- file = out.far, fsm = 178 ---
+show me the delta flights from tampa to san-francisco 
+null null null airline_name null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 179 ---
+show me delta flight <unk> 
+null null airline_name null depart_time.time 
+--- file = out.far, fsm = 180 ---
+list the tower-air flights on mondays 
+null null null null null depart_date.day_name 
+--- file = out.far, fsm = 181 ---
+list all tower-air flights with meals 
+null null null null null null 
+--- file = out.far, fsm = 182 ---
+what flights depart from baltimore 
+null null null null fromloc.city_name 
+--- file = out.far, fsm = 183 ---
+what flights depart from baltimore and arrive at san-francisco on a friday 
+null null null null fromloc.city_name null null null toloc.city_name null null depart_date.day_name 
+--- file = out.far, fsm = 184 ---
+what flights leave from cincinnati in the morning and arrive in tampa 
+null null null null null null null depart_time.period_of_day null null null toloc.city_name 
+--- file = out.far, fsm = 185 ---
+which flights depart from tampa and arrive in cincinnati in the evening 
+null null null null fromloc.city_name null null null null null null depart_time.period_of_day 
+--- file = out.far, fsm = 186 ---
+which flights depart from tampa in the <unk> and arrive in cincinnati 
+null null null null fromloc.city_name null null depart_time.time null null null null 
+--- file = out.far, fsm = 187 ---
+which flights depart from philadelphia and arrive in atlanta 
+null null null null fromloc.city_name null null null toloc.city_name 
+--- file = out.far, fsm = 188 ---
+which flights depart from a atlanta and arrive in toronto 
+null null null null null fromloc.city_name null null null null 
+--- file = out.far, fsm = 189 ---
+which flights depart from toronto and arrive in washington dc 
+null null null null null null null null toloc.city_name null 
+--- file = out.far, fsm = 190 ---
+which flights depart from new-york and arrive in los-angeles after 10am 
+null null null null fromloc.city_name null null null toloc.city_name depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 191 ---
+
+
+--- file = out.far, fsm = 192 ---
+how far is <unk> from downtown 
+null null null depart_time.time null null 
+--- file = out.far, fsm = 193 ---
+
+
+--- file = out.far, fsm = 194 ---
+how far is <unk> from downtown 
+null null null depart_time.time null null 
+--- file = out.far, fsm = 195 ---
+
+
+--- file = out.far, fsm = 196 ---
+
+
+--- file = out.far, fsm = 197 ---
+how much is a limousine service in <unk> 
+null null null null null null null depart_time.time 
+--- file = out.far, fsm = 198 ---
+
+
+--- file = out.far, fsm = 199 ---
+
+
+--- file = out.far, fsm = 200 ---
+
+
+--- file = out.far, fsm = 201 ---
+
+
+--- file = out.far, fsm = 202 ---
+what are the fares for all flights between washington and columbus 
+null null null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 203 ---
+at the <unk> how many <unk> types of aircraft are there for us-air 
+null null depart_time.time null null depart_time.time null null null null null null null 
+--- file = out.far, fsm = 204 ---
+list all us-air flights arriving in charlotte on saturday at 1pm 
+null null null null null null toloc.city_name null depart_date.day_name null depart_time.time 
+--- file = out.far, fsm = 205 ---
+
+
+--- file = out.far, fsm = 206 ---
+list all flights from memphis to miami 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 207 ---
+list all flights and their fares from indianapolis to memphis on a monday morning 
+null null null null null null null fromloc.city_name null toloc.city_name null null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 208 ---
+list all flights and their fares from memphis to miami on a wednesday evening 
+null null null null null null null fromloc.city_name null toloc.city_name null null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 209 ---
+list all flights and their fares for all flights between miami and indianapolis 
+null null null null null null null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 210 ---
+list all flights from cleveland to kansas-city on monday 
+null null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+--- file = out.far, fsm = 211 ---
+list all flights from kansas-city to cleveland 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 212 ---
+list all flights from cleveland to nashville 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 213 ---
+list all flights from nashville to cleveland on sunday 
+null null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+--- file = out.far, fsm = 214 ---
+list all sunday flights from cleveland to nashville and their fares 
+null null depart_date.day_name null null fromloc.city_name null toloc.city_name null null null 
+--- file = out.far, fsm = 215 ---
+what airlines are departing from baltimore 
+null null null null null fromloc.city_name 
+--- file = out.far, fsm = 216 ---
+which airlines fly from baltimore to san-francisco 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 217 ---
+how long does a flight from baltimore to san-francisco take 
+null null null null null null fromloc.city_name null toloc.city_name null 
+--- file = out.far, fsm = 218 ---
+which flights are leaving from kansas-city to atlanta early monday morning 
+null null null null null fromloc.city_name null toloc.city_name depart_time.period_mod depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 219 ---
+which flights are leaving atlanta and arriving in st.-louis close to 230pm on tuesday 
+null null null null fromloc.city_name null null null toloc.city_name null null depart_time.time null depart_date.day_name 
+--- file = out.far, fsm = 220 ---
+please list flights from st.-louis to st.-paul which depart after 10am thursday morning 
+null null null null fromloc.city_name null null null null depart_time.time_relative depart_time.time depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 221 ---
+list flights from st.-paul to kansas-city friday in the evening with a meal <unk> 
+null null null null null toloc.city_name depart_date.day_name null null depart_time.period_of_day null null null depart_time.time 
+--- file = out.far, fsm = 222 ---
+list early-morning flights from cincinnati to tampa 
+null depart_time.period_of_day null null null null toloc.city_name 
+--- file = out.far, fsm = 223 ---
+list <unk> flights from tampa to cincinnati 
+null depart_time.time null null fromloc.city_name null null 
+--- file = out.far, fsm = 224 ---
+list evening flights from tampa to cincinnati 
+null depart_time.period_of_day null null fromloc.city_name null null 
+--- file = out.far, fsm = 225 ---
+list flights from philadelphia to atlanta friday am 
+null null null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.time 
+--- file = out.far, fsm = 226 ---
+list flights from atlanta to toronto friday afternoon 
+null null null fromloc.city_name null null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 227 ---
+list flights from toronto to washington dc saturday am 
+null null null null null toloc.city_name null depart_date.day_name depart_time.time 
+--- file = out.far, fsm = 228 ---
+list flights from washington dc to philadelphia saturday <unk> 
+null null null fromloc.city_name null null toloc.city_name depart_date.day_name depart_time.time 
+--- file = out.far, fsm = 229 ---
+list direct flights from new-york-city to los-angeles after 10am 
+null null null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time 
+--- file = out.far, fsm = 230 ---
+list the airfare for american-airlines flight 19 from jfk to <unk> 
+null null null null airline_name null null null null null depart_time.time 
+--- file = out.far, fsm = 231 ---
+what is fare code m 
+null null null null fare_basis_code 
+--- file = out.far, fsm = 232 ---
+
+
+--- file = out.far, fsm = 233 ---
+list the distance in <unk> from <unk> <unk> to downtown new-york-city 
+null null null null depart_time.time null depart_time.time depart_time.time null null toloc.city_name 
+--- file = out.far, fsm = 234 ---
+list the distance in <unk> from <unk> to downtown toronto 
+null null null null depart_time.time null depart_time.time null null null 
+--- file = out.far, fsm = 235 ---
+list the distance in <unk> from <unk> to san-francisco downtown 
+null null null null depart_time.time null depart_time.time null toloc.city_name null 
+--- file = out.far, fsm = 236 ---
+list limousine rates for the <unk> 
+null null null null null depart_time.time 
+--- file = out.far, fsm = 237 ---
+list american-airlines flights from houston to milwaukee departing friday <unk> 
+null airline_name null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.time 
+--- file = out.far, fsm = 238 ---
+list flights from houston to milwaukee friday <unk> 
+null null null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.time 
+--- file = out.far, fsm = 239 ---
+list american-airlines flights from milwaukee to san-jose wednesday 
+null airline_name null null fromloc.city_name null toloc.city_name depart_date.day_name 
+--- file = out.far, fsm = 240 ---
+list american-airlines flights from san-jose to dallas friday afternoon 
+null airline_name null null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 241 ---
+list flights from dallas to houston arriving sunday afternoon 
+null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day 
+--- file = out.far, fsm = 242 ---
+list airlines flying from seattle to salt-lake-city 
+null null null null fromloc.city_name null toloc.city_name 
+--- file = out.far, fsm = 243 ---
+what is the seating capacity for aircraft <unk> 
+null null null null null null null depart_time.time 
+--- file = out.far, fsm = 244 ---
+what is the seating capacity for delta <unk> 
+null null null null null null airline_name depart_time.time 
+--- file = out.far, fsm = 245 ---
+list flights from seattle to salt-lake-city on delta <unk> 
+null null null fromloc.city_name null toloc.city_name null airline_name depart_time.time 
+--- file = out.far, fsm = 246 ---
+list flights from seattle to salt-lake-city on delta <unk> 
+null null null fromloc.city_name null toloc.city_name null airline_name depart_time.time 
+--- file = out.far, fsm = 247 ---
+list flights from boston to pittsburgh daily 
+null null null fromloc.city_name null toloc.city_name null 
+--- file = out.far, fsm = 248 ---
+list flights from pittsburgh to newark daily 
+null null null fromloc.city_name null toloc.city_name null 
+--- file = out.far, fsm = 249 ---
+list flights from newark to boston daily 
+null null null fromloc.city_name null toloc.city_name null 
+--- file = out.far, fsm = 250 ---
+list us-air flights leaving saturday from <unk> at 1pm 
+null null null null depart_date.day_name null depart_time.time null depart_time.time 
