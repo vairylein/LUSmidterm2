@@ -2,14 +2,14 @@ list the airlines that have flight_stop depart_time.period_of_day flights from f
 what is the class_type fare from fromloc.city_name to toloc.city_name 
 now show me the flights from fromloc.city_name to toloc.city_name 
 show me all the flights on airline_name from fromloc.city_name to toloc.city_name to toloc.city_name 
-
+what is the flight_mod flight that has <unk> from fromloc.city_name to toloc.city_name on depart_date.day_name 
 show me class_type fares from fromloc.city_name to toloc.city_name 
 fly from fromloc.city_name to toloc.city_name on airline_name 
 please show me depart_date.day_number the class_type fares from fromloc.city_name to toloc.city_name 
-show me all airline_name express flights from fromloc.city_name to toloc.city_name 
-list flights from fromloc.city_name to toloc.city_name leaving between depart_time.start_time and depart_time.end_time on depart_date.month_name depart_date.day_number 
-information on depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
 
+list flights from fromloc.city_name to toloc.city_name leaving between arrive_time.start_time and arrive_time.end_time on arrive_date.month_name arrive_date.day_number 
+information on depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
+<unk> now what i want to find out is on arrive_date.month_name arrive_date.day_number from fromloc.city_name to toloc.city_name do you have a flight cost_relative fare arrive_time.time_relative <unk> in the depart_time.period_of_day 
 i need a flight from fromloc.city_name to toloc.city_name on depart_date.day_name 
 show me the flights from fromloc.city_name to toloc.city_name 
 what flights are available from fromloc.city_name to toloc.city_name on depart_date.day_name 
@@ -19,38 +19,38 @@ i'd like to make a trip between fromloc.city_name and toloc.city_name i depart_d
 give me the flight_mod flight from fromloc.city_name to toloc.city_name 
 does airline_name fly from fromloc.city_name to toloc.city_name 
 what flights go from fromloc.city_name to toloc.city_name 
-thank you i also need to travel arrive_date.date_relative arrive_date.day_name arrive_time.period_of_day from fromloc.city_name to toloc.city_name 
+thank you i also need to travel depart_date.date_relative depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name 
 show me airports in city_name state_code 
 what is the cost_relative fare from fromloc.city_name to toloc.city_name round_trip 
-okay and on depart_date.month_name depart_date.day_number i would like to go from fromloc.city_name to toloc.city_name leaving depart_time.period_mod in the depart_time.period_of_day depart_time.time_relative depart_time.time 
+okay and on depart_date.month_name depart_date.day_number i would like to go from fromloc.city_name to toloc.city_name leaving depart_time.period_mod in the arrive_time.period_of_day depart_time.time_relative depart_time.time 
 list the flights from fromloc.city_name to toloc.city_name on airline_name 
 what does fare code fare_basis_code mean 
-
+do you have an <unk> flight from fromloc.city_name to toloc.city_name 
 what is the flight_mod airline_name flight flying from fromloc.city_name to toloc.city_name and arriving on arrive_date.month_name arrive_date.day_number 
-i would like to book an depart_time.period_of_day flight from fromloc.city_name to toloc.city_name on depart_date.month_name depart_date.day_number 
+i would like to book an depart_time.period_of_day flight from fromloc.city_name to toloc.city_name on arrive_date.month_name arrive_date.day_number 
 depart_time.period_of_day flight from fromloc.city_name to toloc.city_name 
 show me flights from fromloc.city_name to toloc.city_name 
-
+list the flights and <unk> for flights leaving fromloc.city_name for toloc.city_name depart_time.time_relative depart_time.time 
 list flights from fromloc.city_name to toloc.city_name which leave on depart_date.day_name depart_time.time_relative depart_time.time 
-i'd like a flight from fromloc.city_name to toloc.city_name airline_code depart_time.period_mod in the depart_time.period_of_day airline_code i can 
+i'd like a flight from fromloc.city_name to toloc.city_name airline_code depart_time.period_mod in the arrive_time.period_of_day airline_code i can 
 show me all flights from fromloc.city_name to toloc.city_name on depart_date.day_name which serve a meal and arrive in toloc.city_name arrive_time.time_relative arrive_time.time 
 i would like to book a flight from fromloc.city_name to toloc.city_name on depart_date.month_name depart_date.day_number 
 show me economy fares from fromloc.city_name to toloc.city_name 
-
-
+please list the prices for a <unk> in toloc.city_name 
+are there any flights from fromloc.city_name to toloc.city_name that leave between arrive_time.start_time and <unk> 
 flight_days flights from fromloc.city_name to toloc.city_name departing depart_time.time 
 show me the flights from fromloc.city_name to toloc.city_name 
 show me the flights from fromloc.city_name to toloc.city_name that leave depart_date.day_name 
 please list all flights between fromloc.city_name and toloc.city_name 
 is there a flight on airline_name from fromloc.city_name to toloc.city_name 
-give me the flights and fares on depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name 
-
+give me the flights and fares on arrive_date.month_name arrive_date.day_number from fromloc.city_name to toloc.city_name 
+give me all <unk> from fromloc.city_name to <unk> that arrive on a depart_date.day_name 
 what flights leave fromloc.city_name and arrive in toloc.city_name arrive_time.time_relative arrive_time.time 
-i'd like a flight from fromloc.city_name to toloc.city_name leaving in the depart_time.period_of_day any depart_time.time please 
-
+i'd like a flight from fromloc.city_name to toloc.city_name leaving in the arrive_time.period_of_day any depart_time.time please 
+flight <unk> from fromloc.city_name to toloc.city_name 
 list flights from fromloc.city_name to toloc.city_name depart_date.month_name depart_date.day_number 
 list flights from fromloc.city_name to toloc.city_name 
-
+please <unk> the flight meal_description for arrive_date.day_name arrive_date.month_name arrive_date.day_number from fromloc.city_name to toloc.city_name 
 where does airline_name fly to from fromloc.city_name 
 what ground transportation is available from the fromloc.airport_name to downtown toloc.city_name 
 from fromloc.city_name to toloc.city_name on airline_name arrive arrive_time.time_relative arrive_time.time depart_date.today_relative 
@@ -63,27 +63,27 @@ show me flights from fromloc.city_name to toloc.city_name
 show me ground transportation in city_name 
 which airlines fly from fromloc.city_name to toloc.city_name toloc.state_code 
 okay and can you tell me for flights departing from fromloc.city_name to toloc.city_name the flight_mod flight you would have departing from fromloc.city_name to toloc.city_name 
-show me the flights from fromloc.city_name to toloc.city_name on depart_date.month_name depart_date.day_number 
+show me the flights from fromloc.city_name to toloc.city_name on arrive_date.month_name arrive_date.day_number 
 show me all the flights on airline_name leaving from fromloc.city_name 
-
+could you please tell me the flight_mod flight leaving fromloc.city_name to toloc.city_name on a <unk> on arrive_date.month_name arrive_date.day_number 
 please give me flights from fromloc.city_name to toloc.city_name on depart_date.day_name depart_time.period_of_day and depart_date.day_name depart_time.period_of_day 
 show all flights leaving depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name 
 show me the airline_name flights from fromloc.city_name to toloc.city_name 
 show me the flights from fromloc.city_name to toloc.city_name 
 what type of aircraft are used on flights from fromloc.city_name to toloc.city_name that leave depart_time.time_relative depart_time.time 
-
+<unk> <unk> i'm <unk> on <unk> <unk> i'm interested in a flight on a <unk> from fromloc.city_name fromloc.state_code to toloc.city_name <unk> 
 flight from fromloc.state_code to toloc.city_name 
 i'd like to make a trip from fromloc.city_name to toloc.city_name 
 is there an airline that services fromloc.city_name fromloc.state_code and toloc.city_name 
-
+airline that <unk> for airline_code 
 i would like to see the flights from fromloc.city_name to toloc.city_name 
 show me the cost_relative round_trip flights from fromloc.city_name to toloc.city_name leaving fromloc.city_name between arrive_time.start_time and arrive_time.end_time 
 show all flights with class_type from fromloc.city_name to toloc.city_name 
 i'd like the flight_mod flight from fromloc.city_name to toloc.city_name 
 what are the class_type fares for flights from fromloc.city_name to toloc.city_name 
 
-
-
+show me the flights from fromloc.city_name to toloc.city_name <unk> 
+<unk> going from fromloc.city_name to toloc.city_name 
 what airlines have flights from fromloc.city_name to toloc.city_name 
 show me all the flights from fromloc.city_name to toloc.city_name that leave depart_time.time_relative depart_time.time on depart_date.day_name and depart_time.time_relative depart_time.time on depart_date.day_name 
 what airlines go to toloc.city_name 

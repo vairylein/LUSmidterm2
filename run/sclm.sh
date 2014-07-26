@@ -9,7 +9,7 @@ mkdir "../run/${folda}/"
 
 dirc="../run/${folda}"
 
-train_data="../splitted/train.nonull"
+train_data="../splitted/train.mix"
 far="${data}.far"
 test_data="../splitted/dev.word"
 
