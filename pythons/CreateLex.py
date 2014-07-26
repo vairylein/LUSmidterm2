@@ -1,3 +1,5 @@
+# get lexicon either cutoff (without the stopwords) or not
+
 def get_lexicon(textdoc, name, cutoff = False, stopdoc = None):
 	
 	if stopdoc is None:
@@ -31,3 +33,8 @@ def get_lexicon(textdoc, name, cutoff = False, stopdoc = None):
 		i+= 1
 
 	f.close()
+
+def addwords(adddoc, lex):
+	
+	with open (textdoc,"r") as myfile:
+		txt1 = myfile.readlines()
