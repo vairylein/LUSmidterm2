@@ -54,7 +54,7 @@ def split3(textdoc, name):
 def split2(textdoc, name):
 	f = open(name + ".word","w")
 	g = open(name + ".concept","w")
-	i = open(name + ".nonull","w")
+	j = open(name + ".nonull","w")
 
 	with open (textdoc,"r") as myfile:
 		i = 1
@@ -73,7 +73,7 @@ def split2(textdoc, name):
 				if newline:
 					f.write("\n" + words[0])
 					g.write("\n" + words[1])
-					if words[2] == "null":
+					if words[1] == "null":
 						j.write("\n" + words[0])
 					else:
 						j.write("\n" + words[1])
@@ -82,7 +82,7 @@ def split2(textdoc, name):
 				else:
 					f.write(" " + words[0])
 					g.write(" " + words[1])
-					if words[2] == "null":
+					if words[1] == "null":
 						j.write(" " + words[0])
 					else:
 						j.write(" " + words[1])
@@ -94,4 +94,4 @@ def split2(textdoc, name):
 	
 	f.close()
 	g.close()
-	i.close()
+	j.close()

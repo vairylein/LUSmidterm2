@@ -1,0 +1,1000 @@
+null null to fly from city_name at time null arrive null city_name at integer null null period_of_day
+null flights null null from city_name to city_name null day_name period_of_day
+null null null flight_time null city_name null null time flight leaving city_name
+cost_relative airfare from city_name to city_name
+round_trip fares from city_name to city_name null fare_amount
+null null null flight today_relative from city_name to city_name
+null kind null aircraft null null null null flight from city_name to city_name
+show null null flights from city_name to city_name null day_name
+null flights from city_name to city_name
+null kind null ground transportation null null null city_name
+show null null flights from city_name to city_name
+show null null flights from city_name to city_name null null null city_name
+null null airport at city_name
+null null null cost_relative flight from city_name to airport_code
+null flights to city_name after time
+show null null class_type fares from city_name to city_name
+show null null ground transportation null city_name
+null flights from city_name to city_name leaving after time null before time
+null null information null flights null day_name leaving city_name null city_name city_name to city_name null city_name to city_name
+null give null null flights from city_name to city_name null day_name null null week
+null null null to fly from city_name to city_name null airline_name
+show null null flights from city_name to city_name
+null list null class_type flights null airline_name from city_name to city_name
+null kinds null planes null null null airline_name
+null null to null null information null null ticket from city_name to city_name null city_name
+null null to book null flight from city_name to city_name
+null airline serves city_name city_name null city_name
+show null null flights from city_name to city_name null day_name null null week null leave city_name after time
+city_name ground transportation
+null null null service from city_name to city_name arriving null time
+show null null cost_relative round_trip fare from city_name to city_name
+show null null flights from city_name to city_name null airline_name departing at time
+flights from city_name to city_name
+null find null flight null airline_name from city_name to city_name null give null null flight numbers
+null null null flight from city_name to city_name
+fares null flights from city_name to city_name
+show null null airlines null class_type flights
+null null null flights from city_name to city_name day_name period_of_day
+null null to arrange null flight from city_name to city_name
+show flights from city_name to city_name between time null time null day_name
+null null null null from airport_name to city_name
+null null null null list null round_trip flights between city_name null city_name state_name null null day_number null null day_number null month_name
+null airline null null null arrivals null city_name
+null airlines fly from city_name to city_name to city_name
+city_name to city_name
+null airlines serve city_name
+show null information null ground transportation null city_name
+null null fare code fare_basis_code
+show null null flights from city_name to city_name null direct null connecting null arrive before time
+null null null flight from city_name to city_name leaving today_relative period_of_day
+null null null times null null null planes leaving from city_name going to city_name null month_name day_number
+flights from city_name to city_name
+null flights go from city_name to city_name after time null day_name
+null null null null transport_type service cost RARE city_name
+null airline_name null null flights null null city_name to city_name
+null null booking class fare_basis_code
+null null to null null flight_mod trip between city_name null city_name
+null null null to null information null flights from city_name leaving after time to city_name null day_name
+null null null cost_relative flight from city_name to city_name
+null null to null information null flights leaving city_name null day_name period_of_day null returning to city_name
+null flight goes from city_name to city_name class_type null airline_name arriving null month_name day_number
+null null null null null null airlines null fly from city_name to city_name
+null flights null null null from city_name to city_name city_name
+null null null ground transportation from airport_name to null city RARE
+null airlines null class_type flights today_relative
+find null flight_mod flight from city_name to city_name null serves null meal
+null null null to make null reservation null null flight to city_name from city_name null null coming day_name
+give null null list null airports null city_name
+show null flights from city_name to city_name null day_name
+show null null flights from city_name to city_name
+null null fare code fare_basis_code null
+null give null null flights from city_name to city_name state_code
+null null information from city_name to city_name
+from city_name to city_name
+null null null flight_mod flight from city_name to airport_code null serves null meal_description
+null types null aircraft null airline_name fly
+null null null cost null null round_trip flight from city_name to city_name RARE null month_name day_number null returning null month_name day_number
+give null null flights leaving city_name month_name day_number coming back to city_name
+list null null flights null fly null airport_name
+null flights fly from city_name to city_name null day_name day_name day_name day_name null day_name
+list null flights from city_name to city_name
+null flight meal city_name to city_name day_name
+show null null flights null airline_code from city_name null null period_of_day
+null null to find null null flight from city_name to city_name null serves null meal
+null null airlines null airline null null null arrivals null city_name
+display null flights from city_name to city_name null month_name day_number
+null null to travel from city_name to city_name early null null period_of_day null flight
+null null null null flight from city_name to city_name leaving null day_name null day_number
+null null null flights null after time between city_name null city_name
+null flights depart city_name null day_name null arrive null city_name null time
+show null flights from city_name to city_name
+list null airline_name flights from city_name to city_name
+show null null fares from city_name to city_name
+null flight_stop flights between city_name null city_name arrive after time
+null null null RARE from airport_name to city_name
+ground transportation null city_name
+null null null null null flight_stop flights null null from city_name to city_name
+null null flight_mod flight from city_name to city_name null airline_name null null meal RARE served
+null null airline_name fly
+null flights from city_name to city_name arrive before integer null null period_of_day
+find null null flight_mod flight from city_name to city_name
+list flight_stop flights from city_name to city_name null arrive before period_of_day
+show null null flights from city_name to city_name null stop null city_name
+show null flights to city_name from city_name stopping null city_name
+null city null null airport airport_code null
+null null null null cost to rent null transport_type null city_name
+show null flights from city_name to city_name
+show null null list null ground transportation at city_name
+null null null flight from city_name to city_name stopping null city_name null serving meal_description null null
+null show null flights from city_name to city_name null day_name
+show flights from city_name to city_name
+give null null cost_relative flight from city_name to city_name
+show null null flights from city_name to city_name
+find null null flight null airline_name from city_name to city_name null null stopover null city_name
+show null null null flight from airport_name
+null flights go from city_name to city_name after time
+null null null null flights from city_name to city_name
+null null null flight_mod flight departing city_name null arriving null city_name null month_name day_number
+null null null flight_mod flight flying from city_name to city_name null month_name day_number
+null list null flights null null day_name from city_name to city_name
+null flights leave city_name null arrive null city_name after time null day_name
+null null null transportation time from null airport to city_name
+null airline null null smallest plane leaving city_name null arriving null city_name null month_name day_number
+null null null flight_stop flights null airline_name null airline_name air from city_name to city_name null day_name month_name day_number
+null null null classes null service null airline_name
+null null null to find null null flights null null null day_name month_name day_number from city_name to city_name null null from city_name to city_name null null
+null flights from city_name to city_name state_code null month_name day_number
+null null null flights from city_name to city_name
+null null time flight from city_name to city_name null type null aircraft null null
+null flight null null round_trip fare at fare_amount from city_name to city_name
+null flights leave city_name null city_name after time null day_name
+null null null to null null flight from city_name to city_name
+null list flights between city_name null city_name
+find null null flights null null flight_stop between city_name null city_name null leave between integer null integer null null period_of_day
+null null null null information null flights leaving city_name to city_name
+show null null flight_mod flight_stop flight from city_name to city_name state_code
+null null null flights from city_name to city_name
+null null null null flight_stop flight from city_name to city_name null month_name null
+RARE null null to go from city_name to city_name
+show null null null period_of_day fares between city_name null city_name
+null kinds null ground transportation null null null city_name
+null null show null economy round_trip fares null flights from city_name to city_name null month_name day_number
+null null fare code fare_basis_code
+null null null flight null month_name day_number from city_name to city_name null null period_of_day
+null null null class_type fares from city_name to city_name day_name period_of_day
+null null ground transportation null null city_name
+show null flights from city_name to city_name null day_name
+null null null to null null flights null from city_name to city_name arriving null city_name null time day_name period_of_day
+null null null to fly null cost_relative RARE null from city_name to city_name null day_name period_of_day
+list null flight from city_name to city_name null airline_name
+flights from city_name to city_name null day_name
+null null null null flight from city_name to city_name null day_name month_name day_number null leaves after time
+null null null class_type fare null airline_name flight integer from city_name to city_name
+flight from city_name to city_name arriving before time null day_name
+list flights today_relative from city_name to city_name
+show null null flights from city_name to city_name state_code RARE
+RARE null null to go from city_name to city_name
+show null null null airline_name flights leaving city_name
+null null list null null flights between city_name null city_name
+list null flights from city_name to city_name
+round_trip flights from city_name to city_name class_type economy fare
+null null to fly from city_name to city_name null null RARE null null stopovers null null null to fly null null null period_of_day
+flights from city_name to city_name between time null time
+show null null flights from city_name to city_name
+null flights null null null airline_name from city_name to city_name
+null kind null ground transportation null null offer null null city_name
+leaving city_name going to city_name null flight_mod flight
+show null null flights null from city_name to city_name leaving city_name null null period_of_day
+round_trip fares city_name to city_name
+null flights null RARE null airline_name
+null null null null from airport_name to downtown city_name
+null airline_name express serve city_name
+null flights from city_name to city_name null day_name null null period_of_day null airline_name
+null null null flight_mod flight going from city_name to city_name null day_name month_name day_number
+null flights from city_name to city_name null day_name arriving around time
+null null null flight from city_name to city_name null leaves day_name null arrives null city_name around time
+null null null information null null flights from city_name to city_name leaving day_name period_of_day
+null null null cost_relative flight from city_name to city_name
+null null null cost null null class_type ticket from city_name to city_name
+null null null economy class_type fare from city_name to city_name
+list null flight_stop flights early day_name period_of_day from city_name to city_name
+null null null flight_mod flight null null null leaves city_name to city_name
+null null null flights from city_name to city_name leaving before time
+show null null null flights to city_name after time
+null null null return flight from city_name to city_name
+airline_name flights stopping null city_name before time
+show null null transport_type null city_name
+null flights go from city_name to city_name after time null null period_of_day
+flight_mod period_of_day flight from city_name to city_name
+null null time null null null to go between null airport null downtown null ground transportation null city_name
+flights from city_name to city_name
+null null to fly airline_name between city_name null city_name
+null null null to book null flight null airline_name from city_name to city_name null month_name null
+null flights from city_name to city_name round_trip after time null null integer
+show null flights null day_name going from city_name to city_name flight_stop class_type leaving after time
+from city_name to city_name
+show null flights from city_name to city_name null day_name period_of_day
+show null null flight null null smallest seating capacity null leaves city_name null arrives null city_name null month_name day_number
+show null flights from city_name to city_name null month_name day_number
+null null null flights before time null month_name day_number from city_name to city_name
+list flight_days flights from city_name to city_name
+null null flight from city_name to city_name null leaves before time null null RARE null flight
+null airline_name give null null flight_time from city_name to city_name
+ground transportation city_name
+show null airline RARE
+null null flights null airline_name null null null class null service code fare_basis_code
+null list null null arriving null departing flights from airport_name
+null null null to null null flights from city_name to city_name null
+null airline_name fly early null null period_of_day between airport_name null airport_code
+null flights leave city_name null airline_name
+null null list null null airlines null null flights from city_name to city_name
+flights from city_name to city_name flight_days
+show null class_type flights from city_name to city_name null day_name
+null null null flight_mod flight from city_name to city_name null serves meal_description
+from city_name to city_name null null period_of_day
+null list null day_name period_of_day flights from city_name to city_name null airline_name
+null null ground transportation null city_name from null airport
+show null flight from city_name to city_name null day_name
+null null null RARE to fly airline_code null null null flight between city_name null city_name null null stopover null city_name null airline_code
+show null null flights from city_name to airport_name flight_stop
+null flights null null from city_name to city_name
+null kind null ground transportation null null null city_name state_code
+null null null cost_relative flight null from city_name to city_name
+null null null fare code fare_basis_code null
+null null cost_relative null null null fly to city_name
+null flights from city_name to city_name null day_name null airline_name
+null null null schedule null ground transportation from null airport null city_name null downtown
+show null null list null flights from city_name to city_name null month_name day_number
+show null null cost_relative flight from city_name to city_name null day_name after time
+null null null null cost to go from downtown to airport_name
+null flights null null from city_name to city_name
+null null null flight from city_name to city_name null at null null flight_stop
+show flights from city_name to city_name arriving between integer null time
+null null null fare from city_name to city_name null airline_name flight integer
+flights from city_name state_name to city_name state_name
+give null flights from city_name to city_name
+show null flights from city_name to city_name
+show null flights city_name to city_name state_code null day_name
+null list null day_name period_of_day flights from city_name to city_name
+null flight null null null from city_name to city_name null null period_of_day null month_name day_number
+null null null flights from city_name to city_name
+null flights from city_name to city_name arrive before time null city_name
+show null null flights from city_name to city_name null day_name period_of_day null day_name
+null null null class_type flight null airline_name to city_name null day_name null week
+ground transportation null city_name
+null flights null null from city_name to city_name
+null null to fly from city_name to city_name at approximately time
+list null fares null airline_name flights from city_name to city_name
+list flights from city_name to city_name null day_name month_name day_number
+null flights from city_name to city_name null day_name
+null show null null flights from city_name to city_name
+null null give null information null null null flights from city_name RARE from city_name to city_name null day_name
+null null find null null flight from city_name to city_name null stops null city_name
+flights from city_name to city_name
+give null null flights from city_name to city_name day_name period_of_day
+null list null null null flights leaving city_name RARE to city_name after time day_name null before time day_name
+show null flights from city_name to city_name null leave after time
+show null null flights null go from city_name to city_name
+null airline null fly null from city_name to city_name to city_name
+null null null flights from city_name to city_name null stops null city_name
+list null null flights null arrive at airport_name
+null null fare code fare_basis_code
+null flights from city_name to city_name arrive null day_name before time
+flights from city_name to city_name
+show null fares from city_name to city_name
+null null null flight from city_name to city_name null city_name
+null null null period_of_day flight from city_name to city_name null null stopover null city_name arriving null null null period_of_day
+show null null cost_relative round_trip flight from city_name to city_name
+show null null flights from city_name to city_name
+from city_name to city_name state_code null day_name month_name day_number year
+null list null null flights from city_name to city_name null serve meals
+list aircraft types null fly between city_name null city_name
+null null fare code fare_basis_code null
+null interested null null flight null airline_name from city_name to city_name
+give null flights from city_name to city_name
+null null null null round_trip fare from city_name to city_name
+null null null cost_relative flight from city_name to city_name
+null airline RARE class_type flights
+city_name to city_name
+null airlines fly between city_name null city_name
+list null flights arriving null city_name from city_name before time null month_name day_number
+give null null flights null airline_name from city_name to city_name
+null null null flight null day_name from city_name to city_name null null null RARE null period_of_day flight
+flights from city_name to city_name
+null flights go from city_name to city_name null null period_of_day
+show null null fares from city_name to city_name
+give null airline_name flights from city_name to city_name null day_name null null day_name
+list null flights null leave from city_name null city_name null city_name null arrive null city_name
+show null null flights from city_name to city_name
+show null null flight_mod flight from city_name to city_name
+show null flights from city_name to city_name null day_name period_of_day
+month_name null null null listing null flights from city_name to city_name city_name departing null null period_of_day
+null period_of_day flights null null null between city_name null city_name
+null null null flight from city_name null stops null city_name null goes null to city_name
+show null null flights from city_name to city_name today_relative
+null round_trip flights between city_name null city_name
+null flights go to city_name from city_name
+null flights null null from city_name to city_name flight_days null economy
+null flights from city_name to city_name null null day_name
+show null null flights from city_name to city_name
+null null null flights from city_name to city_name leaving after time
+show null null flights from city_name to city_name null round_trip fares null null integer
+null null null flight from city_name to city_name null leaves early null null period_of_day
+null null null null flight from city_name to city_name null serves meal_description
+show null null flights from city_name to city_name
+null flights from city_name to city_name
+city_name to city_name day_name
+give null null flight_mod flight today_relative null airline_name from city_name to city_name
+show null flights null day_name from city_name to city_name after time
+show null null null flights leaving city_name
+show null null flights from city_name to city_name
+null null null plane from city_name to city_name
+null null to go from city_name to city_name null back null null null day find null null flight_mod flight from city_name
+null null flights between city_name null city_name null month_name day_number
+null null null schedule null flights from city_name to city_name null month_name null
+show null round_trip flights from city_name to city_name day_name
+show null null flights from city_name to city_name today_relative null serve null meal
+give null flights null airline_name from city_name to city_name
+show null flights from city_name to city_name
+null RARE to fly from city_name to city_name null find null airline null null
+null list null flights from city_name to state_code city_name null month_name day_number
+null flights from city_name to city_name null stop null city_name
+show null null flights null day_name period_of_day from city_name to city_name
+null null integer class_type tickets from city_name to city_name
+null null null flights from city_name to city_name null stop null city_name
+flights to city_name
+null null airport_code stand null
+null null null cost_relative null to fly from city_name to city_name
+list null flight_stop flights from city_name to city_name before time null day_name
+null null booking classes null null
+flight numbers from city_name to city_name today_relative
+give null null airline_name flights from city_name to city_name null day_name
+null null null airline_name flights between city_name null city_name null month_name day_number
+show null null flights null day_name between city_name null city_name
+find null flight null airline_name from city_name to city_name null makes null stopover null city_name
+show null null fares null null flights round_trip from city_name to city_name
+null null RARE between fare code fare_basis_code null fare code fare_basis_code
+flights from city_name to city_name
+ground transportation city_name
+show null flights from city_name to city_name state_code null day_name
+find null flight between city_name null city_name null flight null null null null period_of_day null arrive close to time null flight null null flight_stop
+show null null flights from city_name to city_name null prices
+flights between city_name null city_name
+null list null day_name period_of_day flights from city_name to city_name
+list null airline_name flights from city_name to city_name null arrive null day_name after time
+null round_trip tickets null null from city_name to city_name null airline_name null arrive before time
+null null to go from city_name to city_name at time day_name period_of_day
+show null null airline_name flights from city_name to city_name
+null null null null ground transportation between null airport null city_name null downtown
+null month_name four city_name to city_name airline_name flight integer
+show null null flights from city_name
+null airlines null flights between city_name null city_name
+null null null flights from city_name to city_name null city_name state_code
+list null number null flights leaving city_name null city_name before time null null period_of_day
+null null airline_name flights leaving city_name
+null null list null round_trip flights from city_name to city_name null null to city_name
+null null null to find null flight from city_name to city_name null airline_name null arriving at null time null null period_of_day null null null null null null aircraft null null flight number null null
+null null null null flight from city_name to city_name leaving at integer null month_name day_number
+null null null null flight from city_name to city_name
+show null null flights from city_name to city_name null null manufacturer aircraft_code
+null flights null null null day_name from city_name to city_name
+null null airport_code
+show null null flights from city_name to city_name
+null airline_name flight flies RARE null RARE null leaves from city_name goes to city_name null makes null stopover null city_name
+list flight_days flights null airline_name from city_name to city_name null class_type service
+show null flights from city_name to city_name null day_name period_of_day
+null flights city_name to airport_code
+null null to travel from city_name state_code to city_name null day_name period_of_day
+null null null fare going from city_name to city_name round_trip null month_name day_number
+null null null flight null airline_name from city_name to city_name
+null flights null null from city_name to city_name null day_name period_of_day
+null null null null period_of_day flight leaving null null period_of_day going from city_name to city_name null null stopover null city_name
+show null flights from city_name to city_name RARE null day_name
+show null null list null flights null airline_name from city_name to state_code null month_name day_number
+null null null flights from city_name to city_name leaving between integer null time
+null economy flights null null from city_name to city_name null month_name day_number
+null show null flights from city_name to city_name
+null show null null null flights from city_name to city_name today_relative
+null null flight code airline_code null
+null null null null flight from city_name to city_name
+null null null flight_time null null aircraft_code from city_name to city_name
+null null null flight from state_code to state_name
+null null airline_name flights leave from city_name
+show null times null flights from city_name to city_name
+null flights null null null day_name period_of_day null day_name period_of_day from city_name to airport_code
+null null flights go from city_name to city_name null month_name day_number
+null null show null null null flights from city_name to city_name
+find null null flight from city_name to city_name null layover null city_name null airline_name
+null flights null null between city_name null city_name arriving null city_name at integer
+show null null airlines between city_name null city_name
+null flights null null null between city_name null city_name
+show null null flights from city_name to city_name
+null null information null null flight from city_name to city_name
+null null null cost_relative flight from city_name to city_name
+null null null cost_relative flight from city_name to city_name round_trip
+show null null RARE flights from city_name state_code to city_name null list RARE fares
+round_trip flights between city_name null city_name
+show null null round_trip flight from city_name to city_name null null cost_relative fare
+null flights null null from city_name to city_name null airline_name
+null null to make null RARE between city_name null city_name null airline_name fly between null two
+null null null flight_mod airline_name flight leaving city_name null returning to city_name
+null flights null airline_name null from city_name to city_name null day_name
+null null fly from city_name to city_name city_name
+null null airport_code
+flights from city_name to city_name
+null null null to leave around time null null period_of_day
+show null fares from city_name to city_name
+flights from city_name to city_name
+null show null flights from city_name to city_name null day_name period_of_day serving meal_description
+flights from city_name month_name null
+null airline_name fly from city_name to city_name
+null null null null flight from city_name to city_name null null null city_name
+null null to null null null null null flights from city_name to city_name
+null null null cost_relative round_trip flights from city_name to city_name
+null null null null flight after time from city_name null city_name
+null null airline_name flights leave from city_name
+null list null null null null airline_name flights null flight from city_name to city_name
+from city_name to city_name
+null null interested null null flight null airline_name from city_name to city_name
+null airplane types fly from city_name to city_name
+null null null fare_basis_code code
+null null null null flight_mod period_of_day flight from city_name to city_name null day_name period_of_day
+null null RARE null null integer
+month_name null null null listing null flights from city_name to city_name state_name null day_name
+null flights leave from city_name to city_name null airline_name
+show null null round_trip from city_name to city_name leaving null day_name
+list null flight_stop flights null day_name from city_name to city_name
+list null flights from city_name to city_name
+null null null round_trip fares null flights from city_name to city_name arriving after integer null airline_name
+null null to null flights from city_name to city_name
+null show null null flights from city_name to city_name null null day_number
+null null airport_code
+null type null ground transportation null null between null airport null downtown city_name
+null null airline_name flight integer from city_name to city_name null flight_stop flight
+give null null flights from city_name state_code to city_name null month_name null
+show null connecting flights from city_name to city_name
+list flight_days flights from city_name to city_name null airline_code
+null null null null cost_relative airfare flight null day_name to city_name from city_name
+null null null flight from city_name to city_name leaving null null period_of_day null day_name
+null null give null null period_of_day flight null day_name from city_name to city_name RARE
+null null null to book null flight from city_name to city_name null month_name null
+null flights from city_name to city_name
+show null null flights direct null from city_name to city_name null city_name null arrive before time RARE time
+class_type round_trip airfare from city_name to city_name
+flights from city_name to city_name null airline_name
+list null flights null airline_name leaving city_name null day_name after integer
+show null null flights from city_name
+show null null airline_name flights from city_name
+null null null fares from city_name to city_name day_name null day_name
+show null flights from city_name to city_name null month_name day_number
+null show null round_trip tickets from city_name to city_name
+list null flights null airline_name from city_name to city_name null fare code fare_basis_code
+null null flights null airline_code null null class_type
+list null flights going from city_name to city_name after time null day_name null before time null day_name
+show null null flights to airport_name
+show null flights from city_name to city_name
+show null null flights from city_name to city_name
+city_name to city_name arriving before integer null null period_of_day
+null null null flight from city_name to city_name
+null give null flights leaving city_name null going to city_name
+null null null null from city_name to city_name null day_name period_of_day
+flight leaving from city_name to city_name
+null null null flights null airline_name from city_name to city_name null month_name day_number
+list null flights from city_name to city_name null null flight_stop
+null null null flights from city_name to city_name
+null null null flights city_name to city_name null day_name period_of_day
+show null flights leaving from city_name state_name to city_name state_name null day_name after time
+null null flight information between city_name null city_name
+null null null RARE null flights from city_name to city_name
+null null null cost_relative flight from city_name to city_name
+null airline_name null class service from city_name to city_name
+find null cost_relative flight from city_name to city_name null null stopover null city_name
+null null null cost_relative round_trip fares from city_name to city_name
+null null null flights from city_name to city_name stopping null city_name
+flights from city_name to city_name null day_name
+null null null null round_trip fare from city_name to city_name
+show null null flights null airport_name
+null null to fly from city_name to city_name null city_name
+information null flights from city_name to city_name
+null flights null airline_name fly from city_name to city_name
+null null to travel from city_name to city_name round_trip leaving day_name month_name day_number arriving null city_name at around time null null period_of_day null returning null null day arriving null city_name at around time null null period_of_day null airlines fly null RARE
+null null null null time null null flights from city_name to city_name null day_name
+show null ground transportation null city_name null
+null null null flight_stop flights leaving from city_name arriving null city_name null month_name day_number
+null null null airline_code integer cost
+null null null flight_mod flight from city_name to city_name null airline_name
+null list ground transport null city_name
+null null null flight from city_name to city_name null null day_name
+show null flights from null airports to airport_name
+list null flights from city_name to city_name null day_name
+null flights null null from city_name to city_name class_type null airline_name arriving month_name day_number before time
+null airlines null RARE null null RARE
+null flight between city_name null city_name null month_name day_number null null smallest seating capacity
+list null airline_name flights from city_name to city_name null arrive null city_name between time null time
+null flights null null from city_name to city_name
+null null ground transportation from airport_name to null downtown RARE
+flight_mod period_of_day flights from city_name to city_name
+null null null flight from city_name to city_name
+null null null flight from city_name to city_name null day_name period_of_day
+null null airline airline_code
+null null cost_relative round_trip fare from city_name to city_name
+find null null flight_mod flight from city_name to city_name null day_name null null week
+display null flights from city_name to city_name null month_name day_number
+economy fares city_name to city_name round_trip
+null null to fly from city_name to city_name null to city_name null back
+null RARE to book null flight from city_name to city_name class_type RARE fare
+show null flights to city_name from city_name null city_name null city_name
+null null RARE from airport_name to null city
+null null null to null null flight from city_name to city_name departing before time
+null null null cost_relative fare null null null from city_name to city_name
+null null null null flight from city_name to city_name arrive city_name null time
+airline_name null day_name from city_name to city_name
+null null null find null null cost_relative round_trip fare from city_name to city_name
+null null null flight from city_name to city_name null day_name
+return from city_name to city_name null airline_name null day_name
+show null ground transportation null city_name
+null give null null flight_mod flight today_relative from city_name to city_name
+null null ground transportation null city_name null show null null null
+null fare code fare_basis_code
+null cost_relative flights from city_name to city_name null arrive after time null null day_name
+null null null period_of_day airline_name flight between city_name null city_name
+null flights from city_name to city_name null day_name
+show null null flights null direct null connecting from city_name to null city_name null city_name null depart after time
+give null flights from city_name to city_name null day_name period_of_day
+null null null null null flight_mod flight null null leaves between city_name null city_name
+null null null flight from city_name to city_name null leaves early day_name period_of_day
+null class_type flights null null from city_name to city_name null month_name day_number year
+show null null airlines from airport_name
+null null cost_relative round_trip ticket from city_name to city_name
+null class_type flight null airline_name to city_name null day_name null null null week
+null airlines fly between city_name null city_name null stop null city_name
+RARE null flights from city_name to city_name null arrive null null day_name
+flights null day_name from city_name to city_name
+flights from city_name month_name one
+null null stops null airline_name integer from city_name to city_name
+null flight airline_name integer from city_name to city_name null time null null city null null plane stop null between
+null null null flight from city_name to city_name null null null null null city_name null time null time_mod
+null null null round_trip ticket from city_name to city_name
+find null null flight_mod flight leaving city_name month_name day_number null arriving null city_name
+null null cost_relative round_trip fare from city_name to city_name
+show null flights from city_name to city_name null day_name period_of_day
+show null null flights from city_name to city_name state_code
+show null flights from city_name to city_name
+show null null flight_mod flight from city_name to city_name null arrives null city_name day_name before time
+null null null flights from city_name to city_name
+show null flights from city_name to city_name null day_name
+day_name flights from city_name to city_name
+null null null flight from city_name to city_name leaving at time
+null null smallest plane null flies from city_name to city_name null day_number day_number
+give null null flights null month_name day_number null null fares from city_name to city_name
+show null null null airline_name flights leaving city_name between integer null integer null null period_of_day
+null null null cost_relative from city_name to city_name
+show null flights from city_name to airport_code
+show null null flights from city_name to city_name null null day_name
+show null null flight_mod flight from city_name to city_name
+null null null airline_name flight from city_name to city_name null day_name
+null null null cost_relative round_trip flights from city_name to city_name
+null flights from city_name to city_name state_code after time null month_name day_number economy
+null null ground transportation null city_name
+list airline_name flights from city_name to city_name null day_name
+null null null cost_relative null to fly from city_name to city_name
+city_name to city_name null flight_stop null city_name null
+null null null to fly airline_name from city_name to city_name null null late period_of_day null null null null null
+null null RARE restriction_code null
+null null null flight_mod flights null null null null from city_name to city_name
+list flights from city_name to city_name null city_name
+null null null null airline_name flight integer from city_name to city_name cost
+null flights from city_name to city_name null show RARE null day_name period_of_day
+show null flights from city_name to city_name null null day_name null null round_trip fare null null fare_amount
+flight_stop flights from city_name to city_name
+give null null flights null fares null month_name day_number from city_name to city_name
+null flights null null day_name period_of_day from city_name to city_name
+null null null flights from city_name to city_name null null day_name null day_number null month_name
+null null ground transportation null at city_name
+list flight_days flights from city_name to city_name null airline_name
+null null null two RARE null null to fly from city_name to city_name null to city_name
+null null flights null null airline null null class_type service
+null flights from city_name to city_name null day_name null RARE served
+show flights from city_name to city_name null null day_name null day_number null day_name null day_number
+null null null flights null between time null time between city_name null city_name
+list null flights from city_name to city_name
+airline code null
+show null null flights from city_name to city_name
+show null null flights from city_name to city_name null null manufacturer aircraft_code
+month_name null null null list null flights going from city_name to city_name null null day_number null month_name
+null null null null null cost_relative fare from city_name to city_name null day_number null month_name
+null airline_name flight flies from city_name to city_name null makes null stopover null city_name
+null null null flight_mod flights from city_name to city_name null null period_of_day null month_name day_number
+null null null null null to null from null airport null city_name to downtown
+null null airport_code
+null show null null flights from city_name to city_name
+null null null cost null flight airline_code integer from city_name to city_name
+null stops null airline_code integer make from city_name to city_name
+null null null cost_relative round_trip flights from city_name to city_name
+null null null flights from city_name to city_name
+airline_name flights to city_name null
+null null null to null null flight_mod flight null day_name null null leaving from city_name to city_name null offers null meal
+null null null costs null transport_type null city_name
+null airlines fly from city_name to city_name
+null null null null null flights go from city_name to city_name null make null stop null city_name
+null null null cost_relative round_trip fare between city_name null city_name
+show null ground transportation information null city_name
+null flights null fares from city_name to city_name round_trip after time null null fare_amount
+null null null fare from city_name to city_name null airline_name
+show null null flight_mod flight from city_name to city_name
+show null null null airline_name flights leaving city_name between integer null integer null null period_of_day
+show null flights from city_name to city_name
+flights from city_name to city_name
+null null null null flight from city_name to city_name leaving null day_name month_name day_number
+null airline_name flights null stopovers null city_name
+show flights from city_name to city_name null day_name period_of_day
+show null null null airline_code flights from city_name to city_name null arrive around time
+show null null direct flights from city_name to city_name
+null null to find null cost_relative flight from city_name to city_name
+show null round_trip fares from city_name to city_name
+null null to go from city_name to city_name round_trip null make null stop at city_name null null null
+null null null null airline null null null RARE from city_name
+null null null flights from city_name to city_name
+show null round_trip fares from city_name to city_name
+RARE null RARE restriction_code
+show null null flights from city_name to city_name
+show null airline_name fares null null day_name from city_name to city_name
+list null round_trip fare from city_name to city_name flights
+show null flights from city_name to city_name
+show null null flights from city_name to city_name
+null null show null null cost_relative round_trip flights between city_name null city_name
+null null passengers fit null null aircraft_code
+null null null null flight from city_name to city_name
+show null null flights from city_name to city_name
+null null null flight from city_name to city_name null leaves after time
+null flights from city_name arrive null city_name before time
+null show null ground transportation null city_name
+find travel arrangements null null round_trip flight from city_name to city_name
+null null null class_type fare between city_name null city_name null airline_name
+list flights from city_name to city_name null null period_of_day null month_name day_number
+null null null null rates between city_name null city_name null month_name day_number
+null null null to fly from city_name to city_name early null null period_of_day
+null null null flight from city_name to city_name
+show null null null flights from city_name to city_name
+null flight from city_name to city_name leaving after period_of_day
+null null null abbreviation airline_code null
+null null null null list null flights null class_type null day_name from city_name to city_name RARE at time null RARE
+null null null to fly from city_name to city_name
+null flights from city_name to city_name null day_name arriving around time
+list flight_days flights from city_name to city_name null airline_code
+null null give null null schedule null flights null airline_name null airline_name to airport_code null month_name day_number
+show null class_type flights from city_name to city_name leaving null null day_name
+null show null airfare null flight airline_code integer from city_name to city_name
+null null null airline_name flight from city_name to city_name null stops null city_name
+null list null airline_name flights between city_name null city_name
+find null cost_relative round_trip fare from city_name to city_name
+give null period_of_day flights from city_name to city_name
+null give null round_trip fares from city_name to city_name
+null null null information null ground transportation null null city null city_name from airport to downtown
+null null to fly from city_name to city_name to city_name
+null null null cost_relative flight from city_name to city_name leaving null month_name day_number
+null null null price null airline_name flight integer from city_name to city_name
+null null null flight from city_name to city_name
+null null null information null flights from city_name to city_name leaving after time day_name period_of_day
+null flights go from city_name to city_name leaving after time
+null null null fare code fare_basis_code null null null null fare code fare_basis_code
+RARE null null null airline_name flight from city_name to city_name
+null flights null provided null airline_name
+show null null flights from airport_name to null airports
+show null null class_type fares from city_name to city_name
+null null null flights from city_name to city_name null stop null city_name
+day_name null day_name flights between city_name null city_name airline_name
+list null cost_relative round_trip flight from city_name state_name to city_name state_name
+flights from city_name month_name null
+null null to fly from city_name to city_name null city_name
+list null flights from city_name to city_name null day_name
+city_name airports
+show null null airline_name flights from city_name to city_name null month_name null year
+null null null flight_mod flight departing city_name null arriving null city_name null month_name day_number
+from city_name to city_name null day_name period_of_day
+cost_relative flight from city_name to city_name
+null airlines fly from city_name to city_name state_code null stopover null null null city
+null list null airline flights between city_name null city_name
+null null interested null null flight from city_name to city_name null flight null null airline_name null leave null null period_of_day null null to null null aircraft null flight number
+flights from city_name to city_name
+list flights from city_name to city_name null serve null meal_description
+null null airlines null flights null service class fare_basis_code
+null null null give null null round_trip fare from city_name to city_name
+null null null to fly from city_name to city_name
+null null null flight from city_name to city_name null day_name
+null null null flight from city_name state_name to city_name state_name leaving null day_name
+give null null list null null null flights from city_name to city_name null city_name to city_name null city_name to city_name
+null null null ground transportation null airport_name
+null null airline_name flights null null from city_name null
+null null null listing null flights from city_name to city_name country_name departing day_name null null period_of_day
+show null null null flights from city_name to city_name
+null null null go from null airport_name to downtown city_name
+null null null to fly from city_name to city_name null null null city_name
+give null fares from city_name to city_name
+city_name to city_name
+give null flights from city_name to city_name
+null flight null RARE from city_name
+flights from city_name to city_name null price
+null day_name null flights leave city_name to city_name state_name null leave after time
+null null null cost_relative fare from city_name to city_name null flight airline_name integer null airline_name integer
+list flights from city_name to city_name null day_name
+null flights null null from city_name to city_name
+null flights go from city_name to city_name null null stopover null city_name
+show flights from city_name to city_name null arrive after time
+find null null flight_mod flight from city_name to city_name null day_name null null week
+null null null airfare between city_name null city_name
+show null null flights from city_name to city_name null leave null day_name period_of_day
+show null flights from city_name to city_name city_name null city_name
+round_trip
+list null flights null day_name from city_name to city_name flight_stop
+null null airports null city_name null
+null null give null null list null null flights from city_name to city_name
+null give null null list null flights leaving city_name going to city_name
+RARE leaving city_name to city_name before time null type null aircraft null null
+null null null flight_mod flight from city_name to city_name leaving null day_name month_name day_number
+show null null flights from city_name to city_name round_trip null null fare_amount
+null flights return from city_name to city_name null null day_name
+flights from city_name to city_name null null period_of_day
+null null null flights from city_name to city_name
+null flights null fares from city_name to city_name null null day_name
+null flight_mod flight from city_name to city_name null null null null serving null meal
+null type null aircraft flies from city_name to city_name
+show null null cost_relative round_trip tickets from city_name to city_name
+give null day_name flight_stop flights from city_name to city_name
+null null flight from city_name to city_name null airline_name leaving at integer null type null aircraft null null
+null null null period_of_day flight from city_name to city_name
+null RARE at city_name to city_name RARE
+null null null prices null null flights from city_name to city_name
+null kind null airplane null flight airline_code integer from city_name to city_name
+null null class_type flights null airline_name null today_relative
+null null airline_code stand null
+null null go from city_name to city_name null null stopover null city_name
+null null null null null flight from city_name to city_name null null cost_relative fare
+show null null flight_mod flight to airport_name
+null type null plane null null aircraft_code
+null null null flight_mod flight null null null null from city_name to city_name
+list null flight_stop flights null day_name month_name null from city_name to city_name arriving null city_name between time null time
+null null null to fly from city_name to city_name day_name period_of_day from city_name to city_name day_name period_of_day null from city_name to city_name null day_name period_of_day
+null null fare code RARE
+show null ground transportation null city_name
+null null null null flights null airline_name null null null null city_name
+show null null null flights from city_name to city_name
+null null to fly from city_name to city_name null null null null cost_relative fare null
+null null null null null cost_relative round_trip fare from city_name to city_name
+null null ground transportation from null airport to downtown city_name
+null null airport_name null ground transportation to null from downtown
+give null null flights from city_name to city_name leaving day_name period_of_day
+null null days_code
+null flight null airline_name leaving city_name null going to city_name
+show null null meals null flights from city_name to city_name
+day_name flights from city_name to city_name
+null null null to find null cost_relative flight from city_name to city_name
+show null flights arriving null city_name from city_name between integer null time
+null null null flight airline_name city_name to city_name
+null null list null flights from city_name to city_name
+show null flight_stop flights from city_name to city_name
+show flights between city_name null city_name
+show null null flights between city_name null city_name city_name null city_name city_name null city_name
+ground transportation city_name
+show null null flight_days flights between city_name null city_name
+null flights from city_name to city_name arriving before time null day_name
+null flights leave city_name null city_name null depart before time null airline_name
+airlines null fly to city_name from city_name null day_name
+null flights leave city_name null day_name null airline_name after time
+null null null flight_mod flight from city_name to city_name null day_name null serves meal_description
+null null null null going from city_name to city_name serving meal_description
+null null to null flights from city_name to city_name
+null flights null null null fare_basis_code from city_name to city_name
+null null ground transportation from null airport_name to null downtown RARE
+flights from city_name to city_name
+null null to go between city_name null city_name
+show RARE from city_name null airline_name
+show null null flights null from city_name to city_name month_name day_number
+show null fares from city_name to city_name null day_name period_of_day
+null list null flight_time from city_name to city_name
+null null null downtown from null airport null city_name
+null flights from null city RARE at airport_name
+show null ground transportation information null city_name
+null null find null null cost_relative fare from city_name to city_name
+null list information RARE airport_name
+show null flights between city_name null city_name null day_name null day_name airline_name
+null null null class_type flight from city_name to city_name null month_name null
+null null null null null airport_name
+list null null takeoffs null landings at airport_name
+show null null flights arriving around time null city_name from city_name
+null day_name null null to find null flight from city_name to city_name null arrives before time
+null null null flight today_relative from city_name to city_name null null period_of_day
+list null flights from city_name to city_name null null null layover null city_name
+null null null null flight leaving city_name null arriving null city_name time_relative time null day_name
+flights from city_name to city_name
+null null information null flights from city_name to city_name state_code give null information null flights after time null day_name
+show ground transportation null city_name
+null null null flight_mod flight null null period_of_day from city_name to city_name
+period_of_day flight from city_name to city_name
+null null null cost_relative flights from city_name to city_name
+show period_of_day flights from city_name to city_name
+null null null class_type null class_type fares null flights from city_name to city_name arriving around time null day_name
+show null null flights from city_name to city_name null day_name null leave after time
+find null null cost_relative round_trip fare null null null from city_name to city_name
+show null null flights from city_name to city_name null day_name
+null null cost_relative flight from city_name to city_name
+null list null flight_time from city_name to city_name
+null null null flight between city_name state_code null city_name null airline_name at time
+show null null flights from city_name null leave today_relative null arrive null city_name
+null null RARE null null aircraft_code
+null null fare_basis_code null fare code null
+null null flights departing city_name arriving city_name
+null flights leave after time from city_name to city_name
+show flights from city_name to city_name
+null flights leave city_name null arrive null city_name around time null day_name
+null null null cost to fly from city_name to city_name null airline_name
+null null null null flight from city_name to city_name
+null null transport_type service null at airport_name
+null null null period_of_day flights null null null two RARE from city_name to city_name
+null null null null flight leaving city_name going to city_name null day_name
+null null null flights from city_name to city_name null day_name month_name null
+null airline_name fly from city_name to city_name
+null list null flight_time from city_name to city_name null day_name period_of_day
+flights from city_name to city_name null day_name
+null null null to find null flight null goes from city_name to city_name null null null null to null null stop null city_name null null null null null flight null serves meal_description
+null null null cost_relative round_trip fares from city_name to city_name
+null null null from city_name null null to travel to city_name null month_name day_number
+null flights go from city_name to city_name after time null day_name
+null null null null cost to null downtown from null airport_name null transport_type
+null null null to fly from city_name to city_name
+show null null airfare from city_name to city_name
+null null null flights null month_name day_number from city_name to city_name
+null null airline_code
+show null null type null aircraft null airline_code null
+show null flights from city_name to city_name null day_name
+null type null aircraft null airline_name fly from city_name to city_name before time
+null null list null flights from city_name to city_name
+display null flights from city_name to city_name null month_name RARE
+null null null cost_relative class_type tickets between city_name null city_name
+null null null flights from city_name to city_name null month_name day_number year carries null smallest number null passengers
+show null null null flights to city_name after time
+null airlines go from city_name to city_name
+null null fare code fare_basis_code null
+show null flights from city_name to city_name
+null null null abbreviation airline_code null
+null null list null flights between city_name null city_name
+null null null air RARE null flights from city_name to city_name null null airfare null fare_amount
+null flight_stop flight from city_name to city_name null day_name period_of_day
+null null null flight_mod flight from city_name to city_name
+null null null null period_of_day flight from city_name null city_name null month_name null null airline_name
+null null null cost null null round_trip from city_name to city_name
+show null null flights from city_name to city_name
+give null null flights from city_name to city_name
+null list null flights from city_name to city_name arriving after period_of_day
+null flights null null between city_name null city_name null month_name day_number
+null type null aircraft leaving after time from city_name to city_name
+null null null null cost_relative flight from city_name to city_name
+null null null flights from city_name to city_name null stop
+null null null to find null flight from city_name to city_name null day_name null null null to null null city_name null one null null null null flight null null null time_relative time
+null null information null null flight from city_name to city_name
+null null null null null flights null null from city_name to city_name
+null null null ground transportation services null city_name
+give null flights from city_name to city_name null airline_name null offer class_type
+null airline_name null null flight from city_name to city_name
+null flights null fares from city_name to city_name round_trip after time null null fare_amount
+list flights from city_name to city_name
+null null null null list null null round_trip flights between city_name null city_name null null day_number null null day_number null month_name
+null null null return flight from city_name to city_name
+null null null flight from city_name to city_name city_name
+null flights from city_name to city_name
+null list null flights from city_name to city_name null day_name null day_name
+null null null flight_mod flight between city_name null city_name
+RARE null RARE restriction_code
+null flight_mod flight from city_name to city_name null null null null null meal null null
+null null null flights null month_name null year from city_name to city_name
+null month_name day_number null flights null null between city_name null city_name
+list flight_stop flights null day_name from city_name to city_name null list flight_stop flights null day_name from city_name to city_name
+show null null list null flights from city_name to city_name null airline_name null airline_name
+null null airline_code stand null
+null null show null null weekday flights from city_name to city_name
+show null null airline_name class_type flights
+null null airline_code
+null null null price null null class_type ticket from city_name to city_name round_trip
+find null flight null airline_name from city_name to city_name
+null null to find null flight number from null flight from city_name to city_name null airline_name null null arrives around time
+null null null costs null flights from city_name to city_name today_relative
+null flights go from city_name to city_name null city_name
+null null cost_relative round_trip fare between city_name null city_name
+null null null flights between city_name null city_name null month_name day_number
+show null flights from city_name to city_name null day_name period_of_day
+null flights null null from city_name to city_name
+null null to leave city_name at integer
+RARE give null null type null aircraft null to fly from city_name to city_name
+null null show null flights from city_name to city_name null day_name period_of_day
+null null ground transportation from airport_name to downtown city_name
+null null null transport_type null transport_type services null at null airport_name
+null airline_name flight integer flying from city_name to city_name null null null null null type null aircraft null null null null flight RARE null leaves at integer
+null null null null from null airport to downtown null city_name
+day_name period_of_day flights between city_name null city_name
+show null flights from city_name to city_name
+show null null flights from city_name to city_name null leave city_name after time today_relative
+round_trip fares from city_name to city_name null null fare_amount
+null null to fly from city_name to city_name null day_name period_of_day
+null null flight_days airline_name flights null null between city_name null city_name
+show null null null airline_name flights from city_name to city_name null leave at time
+null long null null null to null from airport_name null null city null city_name
+null null cost_relative null to fly between city_name null city_name
+null null null fares null flights from city_name to city_name leaving day_name period_of_day
+give null null list null flights null airline_name between city_name null city_name
+null null null ground transportation from city_name airport to downtown
+null null null flight from city_name to city_name
+airline_code integer
+null flights null null from city_name to airport_name
+period_of_day flight from city_name to city_name
+show null null null flights from city_name to city_name
+show null null flights null airline_code to city_name null null period_of_day
+null null null flights to city_name RARE at null null RARE
+show null null flights from city_name to city_name null arrive before time
+null null null null class_type ticket from city_name to city_name
+null give null null flights from city_name to city_name
+null null to fly flight_stop from city_name to city_name
+null null null flight_mod flight leaving city_name null month_name null to city_name null month_name null
+null null null flight today_relative period_of_day from city_name to city_name null RARE meal_description null today_relative
+show null null flights from city_name to city_name leaving after time
+null flights go from city_name to city_name null city_name
+null null null null null ground transportation information null null to null from null airport null city_name to downtown city_name
+show null null flight_mod flight null day_name from city_name to city_name
+null null null give null null round_trip fare from city_name to city_name
+show day_name flights from city_name to city_name
+null flights depart from city_name null arrive null city_name state_name
+flights from city_name to city_name departing after time
+null null null null flight from city_name to city_name null month_name day_number
+show null flights from city_name to city_name
+null give null flights from city_name to city_name state_name day_name
+null flights null null day_name period_of_day from city_name to city_name
+show null null flights from city_name to city_name arriving null city_name null month_name day_number
+list null period_of_day flights at null fare_amount from city_name to city_name
+show null null flights from city_name to city_name null null day_name
+null null to fly from city_name to city_name null null to city_name null back to city_name
+null null null cost_relative flight null airline_name from city_name to city_name
+show null flights null from city_name to city_name leaving null day_name period_of_day
+null null flight_mod flight from city_name to city_name null day_name period_of_day
+null ground transportation null null null city_name
+null null null flight_mod flight leaving city_name returning to city_name
+null airline_name fly between city_name null city_name
+show null flights from city_name to city_name leaving month_name day_number
+list null null landings at airport_name
+null null class_type flights null airline_name null today_relative
+null null null flight_stop flights from city_name to city_name null day_name month_name day_number
+null null null flights null depart from city_name fly to city_name null city_name null arrive null time
+null list null flights from city_name to city_name null month_name day_number
+RARE null null null to RARE null flight null airline_name from city_name to city_name
+null null null two airline_name flights null leave from city_name to city_name null null period_of_day
+null flights null null null from city_name to city_name
+null null null flight_stop flight from city_name to city_name null serves meal_description null null
+null times null day_name null null null null plane from city_name to city_name
+show null ground transportation null city_name
+null null null flights from city_name to city_name null stop null city_name
+null airlines null class_type
+null give null null flights from city_name to city_name
+flight from city_name to city_name
+list flights from city_name to city_name
+null null to null null type null plane flies from city_name to city_name after integer
+null null null null times null null flights between city_name null city_name
+find null flight from city_name to city_name null null airline_name
+null null null cost null null ticket going from city_name to city_name month_name day_number year
+flight numbers from city_name to city_name null month_name day_number
+null null null null flight from city_name to city_name null null stopover null city_name
+show null class_type airlines from city_name to city_name null null day_name class_type null
+null flights null null null day_name from city_name to city_name
+null null null flight from city_name to city_name state_code null day_name
+show null null flights from city_name to city_name
+RARE null null null airline_name null null flight from city_name to city_name
+null null null price null class_type from city_name to city_name null airline_code
+flights from city_name to city_name null null period_of_day
+airline_name flight integer from city_name to city_name leaving at integer null type null aircraft null null null null flight
+null null null null flights between city_name null city_name
+define airline airline_code
+null null to fly city_name to city_name null month_name day_number
+find null flight from city_name to city_name null day_name
+give null information null flights from city_name to city_name state_code null day_name after time null day_name before time
+find null flights from city_name to city_name leaving after time
+show null null cost_relative fare from city_name to city_name
+null live null city_name null null null to make null trip to city_name
+give null flights null arrive null city_name from city_name city_name null city_name
+RARE null null to find null flight null goes from city_name to city_name after time
+null airlines fly between city_name null city_name
+code airline_code
+null null null flight_mod flight from city_name to city_name null month_name day_number
+list null flights from city_name to city_name null airline_name
+null null null null list null flights from city_name to city_name
+null month_name day_number null null year year null null to fly from city_name to city_name null null null to fly null airline_name
+null null null null airlines null null stop at city_name null null null from city_name to city_name
+list null flights from city_name state_name to city_name null null null cost_relative round_trip
+list null flight_stop flights null day_name month_name null from city_name to city_name arriving null city_name between time null time
+give null flights from city_name to city_name null day_name period_of_day
+city_name to city_name
+null null null flight leaving from city_name to city_name
+null null airline null null period_of_day flight from city_name to city_name
+null null null null flight from city_name to city_name null null stopover null city_name
+null null to make null trip from city_name to city_name
+null null null information null flights leaving city_name null null period_of_day arriving null city_name
+show null null flights from city_name to city_name flight_stop
+show null null flights null fares from city_name to city_name
+null null null flights from city_name to city_name

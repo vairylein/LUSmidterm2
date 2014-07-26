@@ -1,0 +1,88 @@
+Script started on Sat 26 Jul 2014 01:48:14 PM BST
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ sh[K[Kcd scri[K[K[K[Krun/
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ run process.sh 
+No command 'run' found, did you mean:
+ Command 'zrun' from package 'moreutils' (universe)
+ Command 'runq' from package 'exim4-daemon-heavy' (main)
+ Command 'runq' from package 'sendmail-bin' (universe)
+ Command 'runq' from package 'exim4-daemon-light' (main)
+ Command 'grun' from package 'grun' (universe)
+ Command 'qrun' from package 'torque-client' (universe)
+ Command 'qrun' from package 'torque-client-x11' (universe)
+ Command 'lrun' from package 'lustre-utils' (universe)
+ Command 'rn' from package 'trn' (multiverse)
+ Command 'rn' from package 'trn4' (multiverse)
+ Command 'rup' from package 'rstat-client' (universe)
+ Command 'srun' from package 'slurm-llnl' (universe)
+run: command not found
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+  File "main.py", line 17
+    cl.addwords(,"../fst/trainconn.lex","../fst/trainco.lex")
+                ^
+SyntaxError: invalid syntax
+farcompilestrings: ERROR: can't open "./fst/trainconn.lex" -- fsmsymload.
+  File "main.py", line 17
+    cl.addwords(,"../fst/trainconn.lex","../fst/trainco.lex")
+                ^
+SyntaxError: invalid syntax
+  File "main.py", line 17
+    cl.addwords(,"../fst/trainconn.lex","../fst/trainco.lex")
+                ^
+SyntaxError: invalid syntax
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh [1@run[C[C[C[C[C[C[C[C[C[C[C[C[1Psh[C[C[C[C[C[C[C[C[C[C[C[C
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 34, in main
+    lexicons()	
+  File "main.py", line 17, in lexicons
+    cl.addwords(LEXADD,"../fst/trainconn.lex","../fst/trainco.lex")
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/CreateLex.py", line 41, in addwords
+    with open (adddoc,"r") as myfile:
+IOError: [Errno 2] No such file or directory: '../lexaddtion'
+farcompilestrings: ERROR: can't open "./fst/trainconn.lex" -- fsmsymload.
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 36, in main
+    splitdata()
+  File "main.py", line 24, in splitdata
+    sd.split2(DEV,"../splitted/dev")
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/SplitData.py", line 85, in split2
+    if words[2] == "null":
+IndexError: list index out of range
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/trainconn written
+w2c transducer for ../fst/trainconn written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 34, in main
+    lexicons()	
+  File "main.py", line 17, in lexicons
+    cl.addwords(LEXADD,"../fst/trainconn.lex","../fst/trainco.lex")
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/CreateLex.py", line 41, in addwords
+    with open (adddoc,"r") as myfile:
+IOError: [Errno 2] No such file or directory: '../lexaddtion'
+farcompilestrings: ERROR: can't open "./fst/trainconn.lex" -- fsmsymload.
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 36, in main
+    splitdata()
+  File "main.py", line 24, in splitdata
+    sd.split2(DEV,"../splitted/dev")
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/SplitData.py", line 86, in split2
+    j.write(" " + words[0])
+NameError: global name 'j' is not defined
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer fo

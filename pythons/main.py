@@ -7,23 +7,26 @@ TRAIN = '../MT2_Data/ATIS.train.txt'
 TEST = '../MT2_Data/ATIS.train.txt'
 DEV = '../MT2_Data/ATIS.dev.txt'
 STOPW = '../english.stop.txt'
-LEXADD = '../lexaddtion'
+LEXADD = '../lexaddition'
 TRAINCO= '../MT2_Data/ATIS.train.txt.co' # cutoff lexicon
-TRAINCO= '../MT2_Data/ATIS.train.txt.conn' # cutoff lexicon without nulls
+TRAINCOP= '../MT2_Data/ATIS.train.txt.cop' # cutoff lexicon with additional words
 
 def lexicons():
 	cl.get_lexicon(TRAIN,"../fst/train")
 	cl.get_lexicon(TRAIN,"../fst/trainco",True,STOPW)
-
+	cl.addwords(LEXADD,"../fst/traincop.lex","../fst/trainco.lex")
+	
 def splitdata():
 	sd.split3(TRAIN,"../splitted/train")
 	sd.split3(TRAINCO,"../splitted/trainco")
+	sd.split3(TRAINCOP,"../splitted/traincop")
 	sd.split3(TEST,"../splitted/test")
 	sd.split2(DEV,"../splitted/dev")
 
 def createtrans():
 	ct.maketransducer(TRAIN,"../fst/train")
-	ct.maketransducer(TRAINCO,"../fst/trainco")	
+	ct.maketransducer(TRAINCO,"../fst/trainco")
+	ct.maketransducer(TRAINCOP,"../fst/traincop")	
 	ct.maketransducer(TRAIN,"../fst/test")
 
 def main(function_type):

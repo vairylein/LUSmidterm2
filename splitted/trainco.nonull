@@ -1,0 +1,1000 @@
+null null null fly null fromloc.city_name null depart_time.time null arrive null toloc.city_name null arrive_time.time null null arrive_time.period_of_day
+null flights null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null null flight_time null fromloc.city_name null null depart_time.time flight leaving fromloc.city_name
+cost_relative airfare null fromloc.city_name null toloc.city_name
+round_trip fares null fromloc.city_name null toloc.city_name cost_relative fare_amount
+null null null flight depart_date.today_relative null fromloc.city_name null toloc.city_name
+null kind null aircraft null null null null flight null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null flights null fromloc.city_name null toloc.city_name
+null kind null ground transportation null null null city_name
+show null null flights null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null null null stoploc.city_name
+null null airport null city_name
+null null null cost_relative flight null fromloc.city_name null toloc.airport_code
+null flights null toloc.city_name depart_time.time_relative depart_time.time
+show null null class_type fares null fromloc.city_name null toloc.city_name
+show null null ground transportation null city_name
+null flights null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time null depart_time.time_relative depart_time.time
+null null information null flights null depart_date.day_name leaving fromloc.city_name null toloc.city_name fromloc.city_name null toloc.city_name null fromloc.city_name null toloc.city_name
+null give null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null depart_date.date_relative week
+null null null null fly null fromloc.city_name null toloc.city_name null airline_name
+show null null flights null fromloc.city_name null toloc.city_name
+null list null class_type flights null airline_name null fromloc.city_name null toloc.city_name
+null kinds null planes null null null airline_name
+null null null null null information null null ticket null fromloc.city_name null toloc.city_name null toloc.city_name
+null null null book null flight null fromloc.city_name null toloc.city_name
+null airline serves fromloc.city_name fromloc.city_name null fromloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null depart_date.date_relative week null leave fromloc.city_name depart_time.time_relative depart_time.time
+city_name ground transportation
+null null null service null fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.time
+show null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null airline_name departing null depart_time.time
+flights null fromloc.city_name null toloc.city_name
+null find null flight null airline_name null fromloc.city_name null toloc.city_name null give null null flight numbers
+null null null flight null fromloc.city_name null toloc.city_name
+fares null flights null fromloc.city_name null toloc.city_name
+show null null airlines null class_type flights
+null null null flights null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.period_of_day
+null null null arrange null flight null fromloc.city_name null toloc.city_name
+show flights null fromloc.city_name null toloc.city_name null depart_time.start_time null depart_time.end_time null depart_date.day_name
+null null null null null fromloc.airport_name null toloc.city_name
+null null null null list null round_trip flights null fromloc.city_name null toloc.city_name toloc.state_name null null depart_date.day_number null null depart_date.day_number null depart_date.month_name
+null airline null null mod arrivals null toloc.city_name
+null airlines fly null fromloc.city_name null stoploc.city_name null toloc.city_name
+fromloc.city_name null toloc.city_name
+null airlines serve city_name
+show null information null ground transportation null city_name
+null null fare code fare_basis_code
+show null null flights null fromloc.city_name null toloc.city_name null direct null connecting null arrive arrive_time.time_relative arrive_time.time
+null null null flight null fromloc.city_name null toloc.city_name leaving depart_date.today_relative depart_time.period_of_day
+null null null flight_time null null null planes leaving null fromloc.city_name null null toloc.city_name null depart_date.month_name depart_date.day_number
+flights null fromloc.city_name null toloc.city_name
+null flights null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time depart_date.date_relative depart_date.day_name
+null null null null transport_type service cost null city_name
+null airline_name null null flights null null fromloc.city_name null toloc.city_name
+null null booking class fare_basis_code
+null null null null null flight_mod trip null fromloc.city_name null toloc.city_name
+null null null null null information null flights null fromloc.city_name leaving depart_time.time_relative depart_time.time null toloc.city_name null depart_date.day_name
+null null null cost_relative flight null fromloc.city_name null toloc.city_name
+null null null null information null flights leaving fromloc.city_name null depart_date.day_name depart_time.period_of_day null returning null toloc.city_name
+null flight null null fromloc.city_name null toloc.city_name class_type null airline_name arriving null arrive_date.month_name arrive_date.day_number
+null null null null null null airlines null fly null fromloc.city_name null toloc.city_name
+null flights null null null null fromloc.city_name null toloc.city_name toloc.state_name
+null null null ground transportation null fromloc.airport_name null null city proper
+null airlines null class_type flights depart_date.today_relative
+find null flight_mod flight null fromloc.city_name null toloc.city_name null serves null meal
+null null null null make null reservation null null flight null toloc.city_name null fromloc.city_name null depart_date.date_relative coming depart_date.day_name
+give null null list null airports null city_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null fare code fare_basis_code null
+null give null null flights null fromloc.city_name null toloc.city_name toloc.state_code
+null null information null fromloc.city_name null toloc.city_name
+null fromloc.city_name null toloc.city_name
+null null null flight_mod flight null fromloc.city_name null toloc.airport_code null serves null meal_description
+null types null aircraft null airline_name fly
+null null null cost null null round_trip flight null fromloc.city_name null toloc.city_name beginning null depart_date.month_name depart_date.day_number null return null return_date.month_name return_date.day_number
+give null null flights leaving fromloc.city_name depart_date.month_name depart_date.day_number coming back null toloc.city_name
+list null null flights null fly null fromloc.airport_name
+null flights fly null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.day_name depart_date.day_name depart_date.day_name null depart_date.day_name
+list null flights null fromloc.city_name null toloc.city_name
+null flight meal fromloc.city_name null toloc.city_name depart_date.day_name
+show null null flights null airline_code null fromloc.city_name null null depart_time.period_of_day
+null null null find null flight_mod flight null fromloc.city_name null toloc.city_name null serves null meal
+null null airlines null airline null null mod arrivals null toloc.city_name
+display null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null travel null fromloc.city_name null toloc.city_name depart_time.period_mod null null depart_time.period_of_day flight_mod flight
+null null null null flight null fromloc.city_name null toloc.city_name leaving null depart_date.day_name null depart_date.day_number
+null null null flights null depart_time.time_relative depart_time.time null fromloc.city_name null toloc.city_name
+null flights depart fromloc.city_name null depart_date.day_name null arrive null toloc.city_name arrive_time.time_relative arrive_time.time
+show null flights null fromloc.city_name null toloc.city_name
+list null airline_name flights null fromloc.city_name null toloc.city_name
+show null null fares null fromloc.city_name null toloc.city_name
+null flight_stop flights null fromloc.city_name null toloc.city_name arrive arrive_time.time_relative arrive_time.time
+null null null distance null fromloc.airport_name null toloc.city_name
+ground transportation null city_name
+null null null null null flight_stop flights null null null fromloc.city_name null toloc.city_name
+null null flight_mod flight null fromloc.city_name null toloc.city_name null airline_name null null meal null served
+null null airline_name fly
+null flights null fromloc.city_name null toloc.city_name arrive arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day
+find null null flight_mod flight null fromloc.city_name null toloc.city_name
+list flight_stop flights null fromloc.city_name null toloc.city_name null arrive arrive_time.time_relative arrive_time.period_of_day
+show null null flights null fromloc.city_name null toloc.city_name null stop null stoploc.city_name
+show null flights null toloc.city_name null fromloc.city_name stopping null stoploc.city_name
+null city null null airport fromloc.airport_code null
+null null null null cost null rent null transport_type null city_name
+show null flights null fromloc.city_name null toloc.city_name
+show null null list null ground transportation null city_name
+null null null flight null fromloc.city_name null toloc.city_name stopping null stoploc.city_name null serving meal_description null null
+null show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+show flights null fromloc.city_name null toloc.city_name
+give null null cost_relative flight null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+find null null flight null airline_name null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+show null null flight_mod flight null fromloc.airport_name
+null flights null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time
+null null null null flights null fromloc.city_name null toloc.city_name
+null null null flight_mod flight departing fromloc.city_name null arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number
+null null null flight_mod flight flying null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null list null flights null depart_date.date_relative depart_date.day_name null fromloc.city_name null toloc.city_name
+null flights leave fromloc.city_name null arrive null toloc.city_name arrive_time.time_relative arrive_time.time null arrive_date.day_name
+null null null transportation time null null airport null toloc.city_name
+null airline null null mod plane leaving fromloc.city_name null arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number
+null null null flight_stop flights null airline_name null airline_name air null fromloc.city_name null toloc.city_name null arrive_date.day_name arrive_date.month_name arrive_date.day_number
+null null null classes null service null airline_name
+null null null null find null null flights null null null depart_date.day_name depart_date.month_name depart_date.day_number null fromloc.city_name null toloc.city_name null null null fromloc.city_name null toloc.city_name null null
+null flights null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.month_name depart_date.day_number
+null null null flights null fromloc.city_name null toloc.city_name
+null null depart_time.time flight null fromloc.city_name null toloc.city_name null type null aircraft null null
+null flight null null round_trip fare null fare_amount null fromloc.city_name null toloc.city_name
+null flights leave fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null depart_date.day_name
+null null null null null null flight null fromloc.city_name null toloc.city_name
+null list flights null fromloc.city_name null toloc.city_name
+find null null flights null null flight_stop null fromloc.city_name null toloc.city_name null leave null depart_time.start_time null depart_time.end_time null null depart_time.period_of_day
+null null null null information null flights leaving fromloc.city_name null toloc.city_name
+show null null flight_mod flight_stop flight null fromloc.city_name null toloc.city_name toloc.state_code
+null null null flights null fromloc.city_name null toloc.city_name
+null null null null flight_stop flight null fromloc.city_name null toloc.city_name null arrive_date.month_name arrive_date.day_number
+null null null null null null fromloc.city_name null toloc.city_name
+show null null null depart_time.period_of_day fares null fromloc.city_name null toloc.city_name
+null kinds null ground transportation null null null city_name
+null null show null economy round_trip fares null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null fare code fare_basis_code
+null null null flight null depart_date.month_name depart_date.day_number null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+null null null class_type fares null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.period_of_day
+null null ground transportation null null city_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null null null null flights null null fromloc.city_name null toloc.city_name arriving null toloc.city_name arrive_time.time_relative arrive_time.time arrive_date.day_name arrive_time.period_of_day
+null null null null fly null cost_relative rate null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+list null flight null fromloc.city_name null toloc.city_name null airline_name
+flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null flight_mod flight null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number null leaves depart_time.time_relative depart_time.time
+null null null class_type fare null airline_name flight flight_number null fromloc.city_name null toloc.city_name
+flight null fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.time null arrive_date.day_name
+list flights depart_date.today_relative null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name toloc.state_code area
+null null null null null null fromloc.city_name null toloc.city_name
+show null null null airline_name flights leaving fromloc.city_name
+null null list null null flights null fromloc.city_name null toloc.city_name
+list null flights null fromloc.city_name null toloc.city_name
+round_trip flights null fromloc.city_name null toloc.city_name class_type economy fare
+null null null fly null fromloc.city_name null toloc.city_name null null null null null stopovers null null null null fly null null null depart_time.period_of_day
+flights null fromloc.city_name null toloc.city_name null depart_time.start_time null depart_time.end_time
+show null null flights null fromloc.city_name null toloc.city_name
+null flights null null null airline_name null fromloc.city_name null toloc.city_name
+null kind null ground transportation null null offer null null city_name
+leaving fromloc.city_name null null toloc.city_name null flight_mod flight
+show null null flights null null fromloc.city_name null toloc.city_name leaving fromloc.city_name null null depart_time.period_of_day
+round_trip fares fromloc.city_name null toloc.city_name
+null flights null serviced null airline_name
+null null null null null fromloc.airport_name null downtown toloc.city_name
+null airline_name express serve city_name
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null null depart_time.period_of_day null airline_name
+null null null flight_mod flight null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name arriving arrive_time.time_relative arrive_time.time
+null null null flight null fromloc.city_name null toloc.city_name null leaves depart_date.day_name null arrives null toloc.city_name arrive_time.time_relative arrive_time.time
+null null null information null null flights null fromloc.city_name null toloc.city_name leaving depart_date.day_name depart_time.period_of_day
+null null null flight_mod flight null fromloc.city_name null toloc.city_name
+null null null cost null null class_type ticket null fromloc.city_name null toloc.city_name
+null null null economy class_type fare null fromloc.city_name null toloc.city_name
+list null flight_stop flights arrive_time.period_mod arrive_date.day_name arrive_time.period_of_day null fromloc.city_name null toloc.city_name
+null null null flight_mod flight null null null leaves fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time
+show null null null flights null toloc.city_name depart_time.time_relative depart_time.time
+null null null return flight null fromloc.city_name null toloc.city_name
+airline_name flights stopping null stoploc.city_name depart_time.time_relative depart_time.time
+show null null transport_type null city_name
+null flights null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null null depart_time.period_of_day
+flight_mod depart_time.period_of_day flight null fromloc.city_name null toloc.city_name
+null null time null null null null null null null airport null downtown null ground transportation null city_name
+flights null fromloc.city_name null toloc.city_name
+null null null fly airline_name null fromloc.city_name null toloc.city_name
+null null null null book null flight null airline_name null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null flights null fromloc.city_name null toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount
+show null flights null depart_date.day_name null null fromloc.city_name null toloc.city_name flight_stop class_type leaving depart_time.time_relative depart_time.time
+null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+show null null flight null null mod seating capacity null leaves fromloc.city_name null arrives null toloc.city_name null arrive_date.month_name arrive_date.day_number
+show null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null flights depart_time.time_relative depart_time.time null depart_date.month_name depart_date.day_number null fromloc.city_name null toloc.city_name
+list flight_days flights null fromloc.city_name null toloc.city_name
+null null flight null fromloc.city_name null toloc.city_name null leaves depart_time.time_relative depart_time.time null null null null flight
+null airline_name give null null flight_time null fromloc.city_name null toloc.city_name
+ground transportation city_name
+show null airline abbreviations
+null null flights null airline_name null null null class null service code fare_basis_code
+null list null null arriving null departing flights null fromloc.airport_name
+null null null null null null flights null fromloc.city_name null toloc.city_name null
+null airline_name fly depart_time.period_mod null null depart_time.period_of_day null fromloc.airport_name null toloc.airport_code
+null flights leave fromloc.city_name null airline_name
+null null list null null airlines null null flights null fromloc.city_name null toloc.city_name
+flights null fromloc.city_name null toloc.city_name flight_days
+show null class_type flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null flight_mod flight null fromloc.city_name null toloc.city_name null serves meal_description
+null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+null list null depart_date.day_name depart_time.period_of_day flights null fromloc.city_name null toloc.city_name null airline_name
+null null ground transportation null city_name null null airport
+show flight_mod flight null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null wanted null fly airline_code null null null flight null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name null airline_code
+show null null flights null fromloc.city_name null toloc.airport_name flight_stop
+null flights null null null fromloc.city_name null toloc.city_name
+null kind null ground transportation null null null city_name state_code
+null null null cost_relative flight null null fromloc.city_name null toloc.city_name
+null null null fare code fare_basis_code null
+null null cost_relative null null null fly null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null airline_name
+null null null flight_time null ground transportation null null airport null fromloc.city_name null downtown
+show null null list null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+show null null cost_relative flight null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.time_relative depart_time.time
+null null null null cost null null null downtown null toloc.airport_name
+null flights null null null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null null mod null flight_stop
+show flights null fromloc.city_name null toloc.city_name arriving null arrive_time.start_time null arrive_time.end_time
+null null null fare null fromloc.city_name null toloc.city_name null airline_name flight flight_number
+flights null fromloc.city_name fromloc.state_name null toloc.city_name toloc.state_name
+give null flights null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name
+show null flights fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name
+null list null depart_date.day_name depart_time.period_of_day flights null fromloc.city_name null toloc.city_name
+null flight null null null null fromloc.city_name null toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number
+null null null flights null fromloc.city_name null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name arrive arrive_time.time_relative arrive_time.time null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day null depart_date.day_name
+null null null class_type flight null airline_name null toloc.city_name null depart_date.day_name depart_date.date_relative week
+ground transportation null city_name
+null flights null null null fromloc.city_name null toloc.city_name
+null null null fly null fromloc.city_name null toloc.city_name null depart_time.time_relative depart_time.time
+list null fares null airline_name flights null fromloc.city_name null toloc.city_name
+list flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null show null null flights null fromloc.city_name null toloc.city_name
+null null give null information null null null flights null fromloc.city_name null null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null find null null flight null fromloc.city_name null toloc.city_name null stops null stoploc.city_name
+flights null fromloc.city_name null toloc.city_name
+give null null flights null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.period_of_day
+null list null null null flights leaving fromloc.city_name heading null toloc.city_name depart_time.time_relative depart_time.time depart_date.day_name null depart_time.time_relative depart_time.time depart_date.day_name
+show null flights null fromloc.city_name null toloc.city_name null leave depart_time.time_relative depart_time.time
+show null null flights null null null fromloc.city_name null toloc.city_name
+null airline null fly null null fromloc.city_name null toloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null stops null stoploc.city_name
+list null null flights null arrive null toloc.airport_name
+null null fare code fare_basis_code
+null flights null fromloc.city_name null toloc.city_name arrive arrive_date.date_relative arrive_date.day_name arrive_time.time_relative arrive_time.time
+flights null fromloc.city_name null toloc.city_name
+show null fares null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null stoploc.city_name
+null null null depart_time.period_of_day flight null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name arriving null null arrive_time.time_relative arrive_time.time
+show null null cost_relative round_trip flight null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name depart_date.month_name depart_date.day_number depart_date.year
+null list null null flights null fromloc.city_name null toloc.city_name null serve meal
+list aircraft types null fly null fromloc.city_name null toloc.city_name
+null null fare code fare_basis_code null
+null interested null null flight null airline_name null fromloc.city_name null toloc.city_name
+give null flights null fromloc.city_name null toloc.city_name
+null null null null round_trip fare null fromloc.city_name null toloc.city_name
+null null null cost_relative flight null fromloc.city_name null toloc.city_name
+null airline null class_type flights
+fromloc.city_name null toloc.city_name
+null airlines fly null fromloc.city_name null toloc.city_name
+list null flights arriving null toloc.city_name null fromloc.city_name arrive_time.time_relative arrive_time.time null arrive_date.month_name arrive_date.day_number
+give null null flights null airline_name null fromloc.city_name null toloc.city_name
+null null null flight null depart_date.day_name null fromloc.city_name null toloc.city_name null null null prefer null depart_time.period_of_day flight
+flights null fromloc.city_name null toloc.city_name
+null flights null null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+show null null fares null fromloc.city_name null toloc.city_name
+give null airline_name flights null fromloc.city_name null toloc.city_name null depart_date.day_name null null depart_date.day_name
+list null flights null leave null fromloc.city_name null fromloc.city_name null fromloc.city_name null arrive null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+show null null flight_mod flight null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null null null listing null flights null fromloc.city_name null toloc.city_name toloc.state_name departing null null depart_time.period_of_day
+null depart_time.period_of_day flights null null null null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null stops null stoploc.city_name null null null null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name depart_date.today_relative
+null round_trip flights null fromloc.city_name null toloc.city_name
+null flights null null toloc.city_name null fromloc.city_name
+null flights null null null fromloc.city_name null toloc.city_name flight_days null economy
+flight_mod flights null fromloc.city_name null toloc.city_name null null depart_date.day_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time
+show null null flights null fromloc.city_name null toloc.city_name null round_trip fares cost_relative null fare_amount
+null null null flight null fromloc.city_name null toloc.city_name null leaves depart_time.period_mod null null depart_time.period_of_day
+null null null flight_mod flight null fromloc.city_name null toloc.city_name null serves meal_description
+show null null flights null fromloc.city_name null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name
+fromloc.city_name null toloc.city_name depart_date.day_name
+give null null flight_mod flight depart_date.today_relative null airline_name null fromloc.city_name null toloc.city_name
+show null flights null depart_date.day_name null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time
+show null null null flights leaving fromloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null null plane null fromloc.city_name null toloc.city_name
+null null null null null fromloc.city_name null toloc.city_name null return null null null return_date.date_relative find null null flight_mod flight null fromloc.city_name
+null null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null flight_time null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+show null round_trip flights null fromloc.city_name null toloc.city_name depart_date.day_name
+show null null flights null fromloc.city_name null toloc.city_name depart_date.today_relative null serve null meal
+give null flights null airline_name null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name
+null null null fly null fromloc.city_name null toloc.city_name null find null airline null null
+null list null flights null fromloc.city_name null toloc.state_code toloc.city_name null depart_date.month_name depart_date.day_number
+null flights null fromloc.city_name null toloc.city_name null stop null stoploc.city_name
+show null null flights null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name
+null null 2 class_type tickets null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null stop null stoploc.city_name
+flights null toloc.city_name
+null null airport_code stand null
+null null null cost_relative null null fly null fromloc.city_name null toloc.city_name
+list null flight_stop flights null fromloc.city_name null toloc.city_name arrive_time.time_relative arrive_time.time null arrive_date.day_name
+null null booking classes null null
+flight numbers null fromloc.city_name null toloc.city_name depart_date.today_relative
+give null null airline_name flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null airline_name flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+show null null flights depart_date.date_relative depart_date.day_name null fromloc.city_name null toloc.city_name
+find null flight null airline_name null fromloc.city_name null toloc.city_name null makes null stopover null stoploc.city_name
+show null null fares null null flights round_trip null fromloc.city_name null toloc.city_name
+null null difference null fare code fare_basis_code null fare code fare_basis_code
+flights null fromloc.city_name null toloc.city_name
+ground transportation city_name
+show null flights null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name
+find null flight null fromloc.city_name null toloc.city_name null flight null null null null depart_time.period_of_day null arrive arrive_time.time_relative null arrive_time.time null flight null null flight_stop
+show null null flights null fromloc.city_name null toloc.city_name null prices
+flights null fromloc.city_name null toloc.city_name
+null list null depart_date.day_name depart_time.period_of_day flights null fromloc.city_name null toloc.city_name
+list null airline_name flights null fromloc.city_name null toloc.city_name null arrive null arrive_date.day_name arrive_time.time_relative arrive_time.time
+null round_trip tickets null null null fromloc.city_name null toloc.city_name null airline_name null arrive arrive_time.time_relative arrive_time.time
+null null null null null fromloc.city_name null toloc.city_name null depart_time.time depart_date.day_name depart_time.period_of_day
+show null null airline_name flights null fromloc.city_name null toloc.city_name
+null null null null ground transportation null null airport null fromloc.city_name null downtown
+null depart_date.month_name depart_date.day_number fromloc.city_name null toloc.city_name airline_name flight flight_number
+show null null flights null fromloc.city_name
+null airlines null flights null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null toloc.city_name toloc.state_code
+list null number null flights leaving fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null null depart_time.period_of_day
+null null airline_name flights leaving fromloc.city_name
+null null list null round_trip flights null fromloc.city_name null toloc.city_name null null null toloc.city_name
+null null null null find null flight null fromloc.city_name null toloc.city_name null airline_name null arriving null arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null null null null null null aircraft null null flight number null null
+null null null null flight null fromloc.city_name null toloc.city_name leaving null depart_time.time null depart_date.month_name depart_date.day_number
+null null null null flight null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null null boeing aircraft_code
+null flights null null null depart_date.day_name null fromloc.city_name null toloc.city_name
+null null airport_code
+show null null flights null fromloc.city_name null toloc.city_name
+null airline_name flight flies null null continent null leaves null fromloc.city_name null null toloc.city_name null makes null stopover null stoploc.city_name
+list flight_days flights null airline_name null fromloc.city_name null toloc.city_name null class_type service
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null flights fromloc.city_name null toloc.airport_code
+null null null travel null fromloc.city_name fromloc.state_code null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null null fare null null fromloc.city_name null toloc.city_name round_trip null depart_date.month_name depart_date.day_number
+null null null flight null airline_name null fromloc.city_name null toloc.city_name
+null flights null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null null null depart_time.period_of_day flight leaving null null depart_time.period_of_day null null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+show null flights null fromloc.city_name null toloc.city_name null null depart_date.day_name
+show null null list null flights null airline_name null fromloc.city_name null toloc.state_code null depart_date.month_name depart_date.day_number
+null null null flights null fromloc.city_name null toloc.city_name leaving null depart_time.start_time null depart_time.end_time
+null economy flights null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null show null flights null fromloc.city_name null toloc.city_name
+null show null null null flights null fromloc.city_name null toloc.city_name depart_date.today_relative
+null null flight code airline_code null
+null null null null flight null fromloc.city_name null toloc.city_name
+null null null flight_time null null aircraft_code null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.state_code null toloc.state_name
+null null airline_name flights leave null fromloc.city_name
+show null flight_time null flights null fromloc.city_name null toloc.city_name
+null flights null null null depart_date.day_name depart_time.period_of_day null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.airport_code
+null null flights null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null show null null null flights null fromloc.city_name null toloc.city_name
+find null null flight null fromloc.city_name null toloc.city_name null layover null stoploc.city_name null airline_name
+null flights null null null fromloc.city_name null toloc.city_name arriving null toloc.city_name null arrive_time.time
+show null null airlines null fromloc.city_name null toloc.city_name
+null flights null null null null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null information null null flight null fromloc.city_name null toloc.city_name
+null null null cost_relative flight null fromloc.city_name null toloc.city_name
+null null null cost_relative flight null fromloc.city_name null toloc.city_name round_trip
+show null null flight_mod flights null fromloc.city_name fromloc.state_code null toloc.city_name null list null fares
+round_trip flights null fromloc.city_name null toloc.city_name
+show null null round_trip flight null fromloc.city_name null toloc.city_name null null cost_relative fare
+null flights null null null fromloc.city_name null toloc.city_name null airline_name
+null null null make null connection null fromloc.city_name null toloc.city_name null airline_name fly null null null
+null null null flight_mod airline_name flight leaving fromloc.city_name null returning null toloc.city_name
+null flights null airline_name null null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null fly null fromloc.city_name null toloc.city_name washington
+null null airport_code
+flights null fromloc.city_name null toloc.city_name
+null null null null leave depart_time.time_relative depart_time.time null null depart_time.period_of_day
+show null fares null fromloc.city_name null toloc.city_name
+flights null fromloc.city_name null toloc.city_name
+null show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day serving meal_description
+flights null fromloc.city_name depart_date.month_name depart_date.day_number
+null airline_name fly null fromloc.city_name null toloc.city_name
+null null null null flight null fromloc.city_name null toloc.city_name null null null stoploc.city_name
+null null null null null null null null flights null fromloc.city_name null toloc.city_name
+null null null cost_relative round_trip flights null fromloc.city_name null toloc.city_name
+null null null flight_mod flight depart_time.time_relative depart_time.time null fromloc.city_name null toloc.city_name
+null null airline_name flights leave null fromloc.city_name
+null list null null null null airline_name flights null flight null fromloc.city_name null toloc.city_name
+null fromloc.city_name null toloc.city_name
+null null interested null null flight null airline_name null fromloc.city_name null toloc.city_name
+null airplane types fly null fromloc.city_name null toloc.city_name
+null null null fare_basis_code code
+null null null null flight_mod depart_time.period_of_day flight null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null seats null null aircraft_code
+null null null null listing null flights null fromloc.city_name null toloc.city_name toloc.state_name null depart_date.day_name
+null flights leave null fromloc.city_name null toloc.city_name null airline_name
+show null null round_trip null fromloc.city_name null toloc.city_name leaving null depart_date.day_name
+list null flight_stop flights null arrive_date.day_name null fromloc.city_name null toloc.city_name
+list null flights null fromloc.city_name null toloc.city_name
+null null null round_trip fares null flights null fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.time null airline_name
+null null null null flights null fromloc.city_name null toloc.city_name
+null show null null flights null fromloc.city_name null toloc.city_name null null depart_date.day_number
+null null airport_code
+null type null ground transportation null null null null airport null downtown toloc.city_name
+null null airline_name flight flight_number null fromloc.city_name null toloc.city_name null flight_stop flight
+give null null flights null fromloc.city_name fromloc.state_code null toloc.city_name null depart_date.month_name depart_date.day_number
+show null connect flights null fromloc.city_name null toloc.city_name
+list flight_days flights null fromloc.city_name null toloc.city_name null airline_code
+null null null null cost_relative airfare flight null depart_date.day_name null toloc.city_name null fromloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name leaving null null depart_time.period_of_day null depart_date.day_name
+null null give null null depart_time.period_of_day flight null depart_date.day_name null fromloc.city_name null toloc.city_name null
+null null null null book null flight null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null flights null fromloc.city_name null toloc.city_name
+show null null flights connect null null fromloc.city_name null toloc.city_name null toloc.city_name null arrive arrive_time.time_relative 10am local arrive_time.time
+class_type round_trip airfare null fromloc.city_name null toloc.city_name
+flights null fromloc.city_name null toloc.city_name null airline_name
+list null flights null airline_name leaving fromloc.city_name null depart_date.day_name depart_time.time_relative depart_time.time
+show null null flights null fromloc.city_name
+show null null airline_name flights null fromloc.city_name
+null null null fares null fromloc.city_name null toloc.city_name depart_date.day_name null depart_date.day_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null show null round_trip tickets null fromloc.city_name null toloc.city_name
+list null flights null airline_name null fromloc.city_name null toloc.city_name null fare code fare_basis_code
+null null flights null airline_code null null class_type
+list null flights null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null depart_date.day_name null depart_time.time_relative depart_time.time null depart_date.day_name
+show null null flights null toloc.airport_name
+show null flights null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day
+null null null flight null fromloc.city_name null toloc.city_name
+null give null flights leaving fromloc.city_name null null null toloc.city_name
+null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+flight leaving null fromloc.city_name null toloc.city_name
+null null null flights null airline_name null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+list null flights null fromloc.city_name null toloc.city_name null null flight_stop
+null null null flights null fromloc.city_name null toloc.city_name
+null null null flights fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+show null flights leaving null fromloc.city_name fromloc.state_name null toloc.city_name toloc.state_name null depart_date.day_name depart_time.time_relative depart_time.time
+null null flight information null fromloc.city_name null toloc.city_name
+null null null choices null flights null fromloc.city_name null toloc.city_name
+null null null cost_relative flight null fromloc.city_name null toloc.city_name
+null airline_name null class service null fromloc.city_name null toloc.city_name
+find null cost_relative flight null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+null null null cost_relative round_trip fares null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name stopping null stoploc.city_name
+flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null null round_trip fare null fromloc.city_name null toloc.city_name
+show null null flights null toloc.airport_name
+null null null fly null fromloc.city_name null toloc.city_name null stoploc.city_name
+information null flights null fromloc.city_name null toloc.city_name
+null flights null airline_name fly null fromloc.city_name null toloc.city_name
+null null null travel null fromloc.city_name null toloc.city_name round_trip leaving depart_date.day_name depart_date.month_name depart_date.day_number arriving null toloc.city_name null arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null return null return_date.date_relative day arriving null toloc.city_name null arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null airlines fly null route
+null null null null flight_time null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+show null ground transportation null city_name null
+null null null flight_stop flights leaving null fromloc.city_name arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number
+null null null airline_code flight_number cost
+null null null flight_mod flight null fromloc.city_name null toloc.city_name null airline_name
+null list ground transport null city_name
+null null null flight null fromloc.city_name null toloc.city_name null null depart_date.day_name
+show null flights null null airports null toloc.airport_name
+list null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null flights null null null fromloc.city_name null toloc.city_name class_type null airline_name arriving arrive_date.month_name arrive_date.day_number arrive_time.time_relative arrive_time.time
+null airlines null represented null null database
+null flight null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number null null mod seating capacity
+list null airline_name flights null fromloc.city_name null toloc.city_name null arrive null toloc.city_name null arrive_time.start_time null arrive_time.end_time
+null flights null null null fromloc.city_name null toloc.city_name
+null null ground transportation null fromloc.airport_name null null downtown area
+flight_mod depart_time.period_of_day flights null fromloc.city_name null toloc.city_name
+null null flight_mod flight null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null airline airline_code
+null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+find null null flight_mod flight null fromloc.city_name null toloc.city_name null any-day null null week
+display null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+economy fares fromloc.city_name null toloc.city_name round_trip
+null null null fly null fromloc.city_name null toloc.city_name null null toloc.city_name null return
+null null null book null flight null fromloc.city_name null toloc.city_name class_type discount fare
+show null flights null toloc.city_name null fromloc.city_name null fromloc.city_name null fromloc.city_name
+null null distance null fromloc.airport_name null null city
+null null null null null null flight null fromloc.city_name null toloc.city_name departing depart_time.time_relative depart_time.time
+null null null cost_relative fare null null null null fromloc.city_name null toloc.city_name
+null null null null flight null fromloc.city_name null toloc.city_name arrive toloc.city_name arrive_time.time_relative arrive_time.time
+airline_name depart_date.date_relative depart_date.day_name null fromloc.city_name null toloc.city_name
+null null null find null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null depart_date.day_name
+return null fromloc.city_name null toloc.city_name null airline_name null depart_date.day_name
+show null ground transportation null city_name
+null give null null flight_mod flight depart_date.today_relative null fromloc.city_name null toloc.city_name
+null null ground transportation null city_name null show null null null
+null fare code fare_basis_code
+null cost_relative flights null fromloc.city_name null toloc.city_name null arrive arrive_time.time_relative arrive_time.time null null arrive_date.day_name
+null null null depart_time.period_of_day airline_name flight null fromloc.city_name null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+show null null flights null direct null connecting null fromloc.city_name null null toloc.city_name null toloc.city_name null depart depart_time.time_relative depart_time.time
+give null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null null null null flight_mod flight null null leaves null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null leaves depart_time.period_mod depart_date.day_name depart_time.period_of_day
+null class_type flights null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year
+show null null airlines null fromloc.airport_name
+null null cost_relative round_trip ticket null fromloc.city_name null toloc.city_name
+null class_type flight null airline_name null toloc.city_name null depart_date.day_name null null depart_date.date_relative week
+null airlines fly null fromloc.city_name null toloc.city_name null stop null stoploc.city_name
+what're null flights null fromloc.city_name null toloc.city_name null arrive null null arrive_date.day_name
+flights null depart_date.day_name null fromloc.city_name null toloc.city_name
+flights null fromloc.city_name depart_date.month_name depart_date.day_number
+null null stops null airline_name flight_number null fromloc.city_name null toloc.city_name
+null flight airline_name flight_number null fromloc.city_name null toloc.city_name null flight_time null null city null null plane stop null null
+null null null flight null fromloc.city_name null toloc.city_name null null null null null toloc.city_name arrive_time.time_relative arrive_time.time null as-soon-thereafter-as-possible
+null null null round_trip ticket null fromloc.city_name null toloc.city_name
+find null null flight_mod flight leaving fromloc.city_name depart_date.month_name depart_date.day_number null arriving null toloc.city_name
+null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+show null null flights null fromloc.city_name null toloc.city_name toloc.state_code
+show null flights null fromloc.city_name null toloc.city_name
+show null null flight_mod flight null fromloc.city_name null toloc.city_name null arrives null toloc.city_name arrive_date.day_name arrive_time.time_relative arrive_time.time
+null null null flights null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+depart_date.day_name flights null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name leaving null depart_time.time
+null null mod plane null flies null fromloc.city_name null toloc.city_name null depart_time.time sixteen
+give null null flights null depart_date.month_name depart_date.day_number null null fares null fromloc.city_name null toloc.city_name
+show null null null airline_name flights leaving fromloc.city_name null depart_time.start_time null depart_time.end_time null null depart_time.period_of_day
+null null null flight_mod null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.airport_code
+show null null flights null fromloc.city_name null toloc.city_name null null depart_date.day_name
+show null null flight_mod flight null fromloc.city_name null toloc.city_name
+null null null airline_name flight null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null cost_relative round_trip flights null fromloc.city_name null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name toloc.state_code depart_time.time_relative depart_time.time null depart_date.month_name depart_date.day_number economy
+null null ground transportation null city_name
+list airline_name flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null cost_relative null null fly null fromloc.city_name null toloc.city_name
+fromloc.city_name null toloc.city_name null flight_stop null stoploc.city_name null
+null null null null fly airline_name null fromloc.city_name null toloc.city_name null null depart_time.period_mod depart_time.period_of_day null null null null null
+null null restriction restriction_code null
+null null null flight_mod flights null null null null null fromloc.city_name null toloc.city_name
+list flights null fromloc.city_name null toloc.city_name null stoploc.city_name
+null null null null airline_name flight flight_number null fromloc.city_name null toloc.city_name cost
+null flights null fromloc.city_name null toloc.city_name null show null null depart_date.day_name depart_time.period_of_day
+show null flights null fromloc.city_name null toloc.city_name null null depart_date.day_name null null round_trip fare cost_relative null fare_amount
+flight_stop flights null fromloc.city_name null toloc.city_name
+give null null flights null fares null depart_date.month_name depart_date.day_number null fromloc.city_name null toloc.city_name
+null flights null null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null null depart_date.day_name null depart_date.day_number null depart_date.month_name
+null null ground transportation null null city_name
+list flight_days flights null fromloc.city_name null toloc.city_name null airline_name
+null null depart_date.date_relative null days null null null fly null fromloc.city_name null toloc.city_name null null toloc.city_name
+null null flights null null airline null null class_type service
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null meal_description served
+show flights null fromloc.city_name null toloc.city_name null null depart_date.day_name null depart_date.day_number null depart_date.day_name null depart_date.day_number
+null null null flights null null depart_time.start_time null depart_time.end_time null fromloc.city_name null toloc.city_name
+list null flights null fromloc.city_name null toloc.city_name
+airline code airline_code
+show null null flights null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null null boeing aircraft_code
+null null null null list null flights null null fromloc.city_name null toloc.city_name null null depart_date.day_number null depart_date.month_name
+null null null null null cost_relative fare null fromloc.city_name null toloc.city_name null depart_date.day_number null depart_date.month_name
+null airline_name flight flies null fromloc.city_name null toloc.city_name null makes null stopover null stoploc.city_name
+null null null flight_mod flights null fromloc.city_name null toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number
+null null null null null null null null null airport null fromloc.city_name null downtown
+null null airport_code
+null show null null flights null fromloc.city_name null toloc.city_name
+null null null cost null flight airline_code flight_number null fromloc.city_name null toloc.city_name
+null flight_stop null airline_code flight_number make null fromloc.city_name null toloc.city_name
+null null null cost_relative round_trip flights null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name
+airline_name flights null toloc.city_name null
+null null null null null null flight_mod flight null depart_date.day_name null null leaving null fromloc.city_name null toloc.city_name null offers null meal
+null null null costs null transport_type null city_name
+null airlines fly null fromloc.city_name null toloc.city_name
+null null null null null flights null null fromloc.city_name null toloc.city_name null make null stop null stoploc.city_name
+null null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+show null ground transportation information null city_name
+null flights null fares null fromloc.city_name null toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount
+null null null fare null fromloc.city_name null toloc.city_name null airline_name
+show null null flight_mod flight null fromloc.city_name null toloc.city_name
+show null null null airline_name flights leaving fromloc.city_name null depart_time.start_time null depart_time.end_time null null depart_time.period_of_day
+show null flights null fromloc.city_name null toloc.city_name
+flights null fromloc.city_name null toloc.city_name
+null null null flight_mod flight null fromloc.city_name null toloc.city_name leaving null depart_date.day_name depart_date.month_name depart_date.day_number
+null airline_name flights null stopovers null stoploc.city_name
+show flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+show null null null airline_code flights null fromloc.city_name null toloc.city_name null arrive arrive_time.time_relative arrive_time.time
+show null null connect flights null fromloc.city_name null toloc.city_name
+null null null find null cost_relative flight null fromloc.city_name null toloc.city_name
+show null round_trip fares null fromloc.city_name null toloc.city_name
+null null null null null fromloc.city_name null toloc.city_name round_trip null make null stop null stoploc.city_name null null null
+null null null null airline null null mod departures null fromloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name
+show null round_trip fares null fromloc.city_name null toloc.city_name
+explain null restriction restriction_code
+show null null flights null fromloc.city_name null toloc.city_name
+show null airline_name fares null depart_date.date_relative depart_date.day_name null fromloc.city_name null toloc.city_name
+list null round_trip fare null fromloc.city_name null toloc.city_name flights
+show null flights null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null show null null cost_relative round_trip flights null fromloc.city_name null toloc.city_name
+null null passengers fit null null aircraft_code
+null null null null flight null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null leaves depart_time.time_relative depart_time.time
+null flights null fromloc.city_name arrive null toloc.city_name arrive_time.time_relative arrive_time.time
+null show null ground transportation null city_name
+find travel arrangements null null round_trip flight null fromloc.city_name null toloc.city_name
+null null null class_type fare null fromloc.city_name null toloc.city_name null airline_name
+list flights null fromloc.city_name null toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number
+null null null null rates null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null null fly null fromloc.city_name null toloc.city_name depart_time.period_mod null null depart_time.period_of_day
+null null null flight null fromloc.city_name null toloc.city_name
+show null null null flights null fromloc.city_name null toloc.city_name
+null flight null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.period_of_day
+null null null abbreviation airline_code null
+null null null null list null flights null class_type null depart_date.day_name null fromloc.city_name null toloc.city_name starting null depart_time.time null depart_time.time_relative
+null null null null fly null fromloc.city_name null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name null depart_date.day_name arriving arrive_time.time_relative arrive_time.time
+list flight_days flights null fromloc.city_name null toloc.city_name null airline_code
+null null give null null flight_time null flights null airline_name null airline_name null toloc.airport_code null depart_date.month_name depart_date.day_number
+show null class_type flights null fromloc.city_name null toloc.city_name leaving null null depart_date.day_name
+null show null airfare null flight airline_code flight_number null fromloc.city_name null toloc.city_name
+null null null airline_name flight null fromloc.city_name null toloc.city_name null stops null stoploc.city_name
+null list null airline_name flights null fromloc.city_name null toloc.city_name
+find null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+give null depart_time.period_of_day flights null fromloc.city_name null toloc.city_name
+null give null round_trip fares null fromloc.city_name null toloc.city_name
+null null null information null ground transportation null null city null city_name null airport null downtown
+null null null fly null fromloc.city_name null toloc.city_name null toloc.city_name
+null null null cost_relative flight null fromloc.city_name null toloc.city_name leaving null depart_date.month_name depart_date.day_number
+null null null price null airline_name flight flight_number null fromloc.city_name null toloc.city_name
+null null flight_mod flight null fromloc.city_name null toloc.city_name
+null null null information null flights null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time depart_date.day_name depart_time.period_of_day
+null flights null null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time
+null null null fare code fare_basis_code null null null null fare code fare_basis_code
+null null null null airline_name flight null fromloc.city_name null toloc.city_name
+null flights null provided null airline_name
+show null null flights null fromloc.airport_name null null airports
+show null null class_type fares null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null stop null stoploc.city_name
+depart_date.day_name null depart_date.day_name flights null fromloc.city_name null toloc.city_name airline_name
+list null cost_relative round_trip flight null fromloc.city_name fromloc.state_name null toloc.city_name toloc.state_name
+flights null fromloc.city_name depart_date.month_name depart_date.day_number
+null null null fly null fromloc.city_name null toloc.city_name null stoploc.city_name
+list null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+city_name airports
+show null null airline_name flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year
+null null null flight_mod flight departing fromloc.city_name null arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number
+null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+cost_relative flight null fromloc.city_name null toloc.city_name
+null airlines fly null fromloc.city_name null toloc.city_name toloc.state_code null stopover null null null city
+null list null airline flights null fromloc.city_name null toloc.city_name
+null null interested null null flight null fromloc.city_name null toloc.city_name null flight null null airline_name null leave null null depart_time.period_of_day null null null null null aircraft null flight number
+flights null fromloc.city_name null toloc.city_name
+list flights null fromloc.city_name null toloc.city_name null serve null meal_description
+null null airlines null flights null service class fare_basis_code
+null null null give null null round_trip fare null fromloc.city_name null toloc.city_name
+null null null null fly null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null flight null fromloc.city_name fromloc.state_name null toloc.city_name toloc.state_name leaving depart_date.date_relative depart_date.day_name
+give null null list null null null flights null fromloc.city_name null toloc.city_name null fromloc.city_name null toloc.city_name null fromloc.city_name null toloc.city_name
+null null null ground transportation null airport_name
+null null airline_name flights null null null fromloc.city_name null
+null null null listing null flights null fromloc.city_name null toloc.city_name toloc.country_name departing depart_date.day_name null null depart_time.period_of_day
+show null null null flights null fromloc.city_name null toloc.city_name
+null null null null null null fromloc.airport_name null downtown toloc.city_name
+null null null null fly null fromloc.city_name null toloc.city_name null null null stoploc.city_name
+give null fares null fromloc.city_name null toloc.city_name
+fromloc.city_name null toloc.city_name
+give null flights null fromloc.city_name null toloc.city_name
+null flight null originate null fromloc.city_name
+flights null fromloc.city_name null toloc.city_name null price
+null depart_date.day_name null flights leave fromloc.city_name null toloc.city_name toloc.state_name null leave depart_time.time_relative depart_time.time
+null null null cost_relative fare null fromloc.city_name null toloc.city_name null flight airline_name flight_number null airline_name flight_number
+list flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null flights null null null fromloc.city_name null toloc.city_name
+null flights null null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+show flights null fromloc.city_name null toloc.city_name null arrive arrive_time.time_relative arrive_time.time
+find null null flight_mod flight null fromloc.city_name null toloc.city_name null any-day null null week
+null null null airfare null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null leave depart_date.date_relative depart_date.day_name depart_time.period_of_day
+show null flights null fromloc.city_name null toloc.city_name toloc.city_name null toloc.city_name
+round_trip
+list null flights null depart_date.day_name null fromloc.city_name null toloc.city_name flight_stop
+null null airports null city_name null
+null null give null null list null null flights null fromloc.city_name null toloc.city_name
+null give null null list null flights leaving fromloc.city_name null null toloc.city_name
+repeating leaving fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null type null aircraft null null
+null null null flight_mod flight null fromloc.city_name null toloc.city_name leaving null depart_date.day_name depart_date.month_name depart_date.day_number
+show null null flights null fromloc.city_name null toloc.city_name round_trip cost_relative null fare_amount
+null flights return null fromloc.city_name null toloc.city_name null null depart_date.day_name
+flights null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+null null null flights null fromloc.city_name null toloc.city_name
+flight_mod flights null fares null fromloc.city_name null toloc.city_name null null depart_date.day_name
+null flight_mod flight null fromloc.city_name null toloc.city_name null null null null serving null meal
+null type null aircraft flies null fromloc.city_name null toloc.city_name
+show null null cost_relative round_trip tickets null fromloc.city_name null toloc.city_name
+give null depart_date.day_name flight_stop flights null fromloc.city_name null toloc.city_name
+null null flight null fromloc.city_name null toloc.city_name null airline_name leaving null depart_time.time null type null aircraft null null
+null null null depart_time.period_of_day flight null fromloc.city_name null toloc.city_name
+null null null fromloc.city_name null toloc.city_name null
+null null null prices null null flights null fromloc.city_name null toloc.city_name
+null kind null airplane null flight airline_code flight_number null fromloc.city_name null toloc.city_name
+null null class_type flights null airline_name null depart_date.today_relative
+null null airline_code stand null
+null null null null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+null null null null null flight null fromloc.city_name null toloc.city_name null null cost_relative fare
+show null null flight_mod flight null toloc.airport_name
+null type null plane null null aircraft_code
+null null null flight_mod flight null null null null null fromloc.city_name null toloc.city_name
+list null flight_stop flights null arrive_date.day_name arrive_date.month_name arrive_date.day_number null fromloc.city_name null toloc.city_name arriving null toloc.city_name null arrive_time.start_time null arrive_time.end_time
+null null null null fly null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name depart_date.day_name depart_time.period_of_day null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null fare code fare_basis_code
+show null ground transportation null city_name
+null null null null flights null airline_name null null null null fromloc.city_name
+show null null null flights null fromloc.city_name null toloc.city_name
+null null null fly null fromloc.city_name null toloc.city_name null null null null cost_relative fare null
+null null null null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+null null ground transportation null null airport null downtown toloc.city_name
+null null airport_name null ground transportation null null null downtown
+give null null flights null fromloc.city_name null toloc.city_name leaving depart_date.day_name depart_time.period_of_day
+null null days_code
+null flight null airline_name leaving fromloc.city_name null null null toloc.city_name
+show null null meal null flights null fromloc.city_name null toloc.city_name
+depart_date.day_name flights null fromloc.city_name null toloc.city_name
+null null null null find null cost_relative flight null fromloc.city_name null toloc.city_name
+show null flights arriving null toloc.city_name null fromloc.city_name null arrive_time.start_time null arrive_time.end_time
+null null null flight airline_name fromloc.city_name null toloc.city_name
+null null list null flights null fromloc.city_name null toloc.city_name
+show null flight_stop flights null fromloc.city_name null toloc.city_name
+show flights null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name fromloc.city_name null toloc.city_name fromloc.city_name null toloc.city_name
+ground transportation city_name
+show null null flight_days flights null fromloc.city_name null toloc.city_name
+null flights null fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.time null arrive_date.day_name
+null flights leave fromloc.city_name null toloc.city_name null depart depart_time.time_relative depart_time.time null airline_name
+airlines null fly null toloc.city_name null fromloc.city_name null depart_date.day_name
+null flights leave fromloc.city_name null depart_date.day_name null airline_name depart_time.time_relative depart_time.time
+null null null flight_mod flight null fromloc.city_name null toloc.city_name null depart_date.day_name null serves meal_description
+null null null null null null fromloc.city_name null toloc.city_name serving meal_description
+null null null null flights null fromloc.city_name null toloc.city_name
+null flights null null null fare_basis_code null fromloc.city_name null toloc.city_name
+null null ground transportation null null airport_name null null downtown area
+flights null fromloc.city_name null toloc.city_name
+null null null null null fromloc.city_name null toloc.city_name
+show departures null fromloc.city_name null airline_name
+show null null flights null null fromloc.city_name null toloc.city_name depart_date.month_name depart_date.day_number
+show null fares null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null list null flight_time null fromloc.city_name null toloc.city_name
+null null null downtown null null airport null fromloc.city_name
+null flights null null city land null toloc.airport_name
+show null ground transportation information null city_name
+null null find null null cost_relative fare null fromloc.city_name null toloc.city_name
+null list information null airport_name
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null depart_date.day_name airline_name
+null null null class_type flight null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null null null airport_name
+list null null takeoffs null landings null airport_name
+show null null flights arriving arrive_time.time_relative arrive_time.time null toloc.city_name null fromloc.city_name
+null depart_date.day_name null null null find null flight null fromloc.city_name null toloc.city_name null arrives arrive_time.time_relative arrive_time.time
+null null null flight depart_date.today_relative null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+list null flights null fromloc.city_name null toloc.city_name null null null layover null stoploc.city_name
+null null null null flight leaving fromloc.city_name null arriving null toloc.city_name arrive_time.time_relative arrive_time.time arrive_date.date_relative arrive_date.day_name
+flights null fromloc.city_name null toloc.city_name
+null null information null flights null fromloc.city_name null toloc.city_name toloc.state_code give null information null flights depart_time.time_relative depart_time.time null depart_date.day_name
+show ground transportation null city_name
+null null null flight_mod flight null null depart_time.period_of_day null fromloc.city_name null toloc.city_name
+depart_time.period_of_day flight null fromloc.city_name null toloc.city_name
+null null null cost_relative flights null fromloc.city_name null toloc.city_name
+show depart_time.period_of_day flights null fromloc.city_name null toloc.city_name
+null null null class_type null class_type fares null flights null fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.time arrive_date.date_relative arrive_date.day_name
+show null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null leave depart_time.time_relative depart_time.time
+find null null cost_relative round_trip fare null null null null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null cost_relative flight null fromloc.city_name null toloc.city_name
+null list null flight_time null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name fromloc.state_code null toloc.city_name null airline_name null depart_time.time
+show null null flights null fromloc.city_name null leave depart_date.today_relative null arrive null toloc.city_name
+null null seats null null aircraft_code
+null null fare_basis_code null fare code null
+null null flights departing fromloc.city_name arriving toloc.city_name
+null flights leave depart_time.time_relative depart_time.time null fromloc.city_name null toloc.city_name
+show flights null fromloc.city_name null toloc.city_name
+null flights leave fromloc.city_name null arrive null toloc.city_name arrive_time.time_relative arrive_time.time arrive_date.date_relative arrive_date.day_name
+null null null cost null fly null fromloc.city_name null toloc.city_name null airline_name
+null null null null flight null fromloc.city_name null toloc.city_name
+null null transport_type service null null airport_name
+null null null depart_time.period_of_day flights null null depart_date.date_relative null days null fromloc.city_name null toloc.city_name
+null null null flight_mod flight leaving fromloc.city_name null null toloc.city_name null depart_date.day_name
+null null null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number
+null airline_name fly null fromloc.city_name null toloc.city_name
+null list null flight_time null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null null null null find null flight null null null fromloc.city_name null toloc.city_name null null null null null null null stop null stoploc.city_name null null null null null flight null serves meal_description
+null null null cost_relative round_trip fares null fromloc.city_name null toloc.city_name
+null null null null fromloc.city_name null null null travel null toloc.city_name null depart_date.month_name depart_date.day_number
+null flights null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time depart_date.date_relative depart_date.day_name
+null null null null cost null null downtown null null fromloc.airport_name null transport_type
+null null null null fly null fromloc.city_name null toloc.city_name
+show null null airfare null fromloc.city_name null toloc.city_name
+null null null flights null depart_date.month_name depart_date.day_number null fromloc.city_name null toloc.city_name
+null null airline_code
+show null null type null aircraft null airline_code null
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name
+null type null aircraft null airline_name fly null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time
+null null list null flights null fromloc.city_name null toloc.city_name
+display null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null cost_relative class_type tickets null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year carries null mod number null passengers
+show null null null flights null toloc.city_name depart_time.time_relative depart_time.time
+null airlines null null fromloc.city_name null toloc.city_name
+null null fare code fare_basis_code null
+show null flights null fromloc.city_name null toloc.city_name
+null null null abbreviation airline_code null
+null null list null flights null fromloc.city_name null toloc.city_name
+null null null air restrictions null flights null fromloc.city_name null toloc.city_name null null airfare null fare_amount
+flight_mod flight_stop flight null fromloc.city_name null toloc.city_name null arrive_date.day_name arrive_time.period_of_day
+null null null flight_mod flight null fromloc.city_name null toloc.city_name
+null null null null depart_time.period_of_day flight null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number null airline_name
+null null null cost null null round_trip null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name
+give null null flights null fromloc.city_name null toloc.city_name
+null list null flights null fromloc.city_name null toloc.city_name arriving arrive_time.time_relative arrive_time.period_of_day
+null flights null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null type null aircraft leaving depart_time.time_relative depart_time.time null fromloc.city_name null toloc.city_name
+null null null null cost_relative flight null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null flight_stop
+null null null null find null flight null fromloc.city_name null toloc.city_name null depart_date.day_name null null null null null null toloc.city_name arrive_time.time_relative arrive_time.time null null null null flight null null null depart_time.time_relative 11am
+null null information null null flight null fromloc.city_name null toloc.city_name
+null null null null null flights null null null fromloc.city_name null toloc.city_name
+null null null ground transportation services null city_name
+give null flights null fromloc.city_name null toloc.city_name null airline_name null offer class_type
+null airline_name null null flight null fromloc.city_name null toloc.city_name
+null flights null fares null fromloc.city_name null toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount
+list flights null fromloc.city_name null toloc.city_name
+null null null null list null null round_trip flights null fromloc.city_name null toloc.city_name null null depart_date.day_number null null depart_date.day_number null depart_date.month_name
+null null null return flight null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name toloc.state_name
+null flights null fromloc.city_name null toloc.city_name
+null list null flights null fromloc.city_name null toloc.city_name null depart_date.day_name null depart_date.day_name
+null null null flight_mod flight null fromloc.city_name null toloc.city_name
+explain null restriction restriction_code
+null flight_mod flight null fromloc.city_name null toloc.city_name null null null null null meal null null
+null null null flights null depart_date.month_name depart_date.day_number depart_date.year null fromloc.city_name null toloc.city_name
+null depart_date.month_name depart_date.day_number null flights null null null fromloc.city_name null toloc.city_name
+list flight_stop flights null arrive_date.day_name null fromloc.city_name null toloc.city_name null list flight_stop flights null arrive_date.day_name null fromloc.city_name null toloc.city_name
+show null null list null flights null fromloc.city_name null toloc.city_name null airline_name null airline_name
+null null airline_code stand null
+null null show null null flight_mod flights null fromloc.city_name null toloc.city_name
+show null null airline_name class_type flights
+null null airline_code
+null null null price null null class_type ticket null fromloc.city_name null toloc.city_name round_trip
+find null flight null airline_name null fromloc.city_name null toloc.city_name
+null null null find null flight number null null flight null fromloc.city_name null toloc.city_name null airline_name null null arrives arrive_time.time_relative arrive_time.time
+null null null costs null flights null fromloc.city_name null toloc.city_name depart_date.today_relative
+null flights null null fromloc.city_name null toloc.city_name null stoploc.city_name
+null null cost_relative round_trip fare null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null flights null null null fromloc.city_name null toloc.city_name
+null null null leave fromloc.city_name null depart_time.time
+kindly give null null type null aircraft null null fly null fromloc.city_name null toloc.city_name
+null null show null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null ground transportation null fromloc.airport_name null downtown toloc.city_name
+null null null transport_type null transport_type services null null null airport_name
+null airline_name flight flight_number flying null fromloc.city_name null toloc.city_name null null null null null type null aircraft null null null null flight null null leaves null depart_time.time
+null null null null null null airport null downtown null toloc.city_name
+depart_date.day_name depart_time.period_of_day flights null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null leave fromloc.city_name depart_time.time_relative depart_time.time depart_date.today_relative
+round_trip fares null fromloc.city_name null toloc.city_name cost_relative null fare_amount
+null null null fly null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null null flight_days airline_name flights null null null fromloc.city_name null toloc.city_name
+show null null null airline_name flights null fromloc.city_name null toloc.city_name null leave null depart_time.time
+null long null null null null null null fromloc.airport_name null null city null toloc.city_name
+null null cost_relative null null fly null fromloc.city_name null toloc.city_name
+null null null fares null flights null fromloc.city_name null toloc.city_name leaving depart_date.day_name depart_time.period_of_day
+give null null list null flights null airline_name null fromloc.city_name null toloc.city_name
+null null null ground transportation null fromloc.city_name airport null downtown
+null null null flight null fromloc.city_name null toloc.city_name
+airline_code flight_number
+null flights null null null fromloc.city_name null toloc.airport_name
+depart_time.period_of_day flight null fromloc.city_name null toloc.city_name
+show null null null flights null fromloc.city_name null toloc.city_name
+show null null flights null airline_code null toloc.city_name null null depart_time.period_of_day
+null null null flights null toloc.city_name land null null null place
+show null null flights null fromloc.city_name null toloc.city_name null arrive arrive_time.time_relative arrive_time.time
+null null null null class_type ticket null fromloc.city_name null toloc.city_name
+null give null null flights null fromloc.city_name null toloc.city_name
+null null null fly flight_stop null fromloc.city_name null toloc.city_name
+null null null flight_mod flight leaving fromloc.city_name null depart_date.month_name depart_date.day_number null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null flight depart_date.today_relative depart_time.period_of_day null fromloc.city_name null toloc.city_name null includes meal_description null depart_date.today_relative
+show null null flights null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time
+null flights null null fromloc.city_name null toloc.city_name null stoploc.city_name
+null null null null null ground transportation information null null null null null null airport null fromloc.city_name null downtown toloc.city_name
+show null null flight_mod flight null depart_date.day_name null fromloc.city_name null toloc.city_name
+null null null give null null round_trip fare null fromloc.city_name null toloc.city_name
+show depart_date.day_name flights null fromloc.city_name null toloc.city_name
+null flights depart null fromloc.city_name null arrive null toloc.city_name toloc.state_name
+flights null fromloc.city_name null toloc.city_name departing depart_time.time_relative depart_time.time
+null null null null flight null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+show null flights null fromloc.city_name null toloc.city_name
+null give null flights null fromloc.city_name null toloc.city_name toloc.state_name depart_date.day_name
+null flights null null depart_date.day_name depart_time.period_of_day null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number
+list null depart_time.period_of_day flights null null fare_amount null fromloc.city_name null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name null null depart_date.day_name
+null null null fly null fromloc.city_name null toloc.city_name null null null toloc.city_name null return null fromloc.city_name
+null null null cost_relative flight null airline_name null fromloc.city_name null toloc.city_name
+show null flights null null fromloc.city_name null toloc.city_name leaving null depart_date.day_name depart_time.period_of_day
+null null flight_mod flight null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+null ground transportation null null null city_name
+null null null flight_mod flight leaving fromloc.city_name returning null toloc.city_name
+null airline_name fly null fromloc.city_name null toloc.city_name
+show null flights null fromloc.city_name null toloc.city_name leaving depart_date.month_name depart_date.day_number
+list null null landings null toloc.airport_name
+null null class_type flights null airline_name null depart_date.today_relative
+null null null flight_stop flights null fromloc.city_name null toloc.city_name null arrive_date.day_name arrive_date.month_name arrive_date.day_number
+null null null flights null depart null fromloc.city_name fly null toloc.city_name null stoploc.city_name null arrive arrive_time.time_relative arrive_time.time
+null list null flights null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null null null plan null flight null airline_name null fromloc.city_name null toloc.city_name
+null null null mod airline_name flights null leave null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+null flights null null null null fromloc.city_name null toloc.city_name
+null null null flight_stop flight null fromloc.city_name null toloc.city_name null serves meal_description null null
+null flight_time null depart_date.day_name null null null null plane null fromloc.city_name null toloc.city_name
+show null ground transportation null city_name
+null null null flights null fromloc.city_name null toloc.city_name null stop null stoploc.city_name
+null airlines null class_type
+null give null null flights null fromloc.city_name null toloc.city_name
+flight null fromloc.city_name null toloc.city_name
+list flights null fromloc.city_name null toloc.city_name
+null null null null null type null plane flies null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time
+null null null null flight_time null null flights null fromloc.city_name null toloc.city_name
+find null flight null fromloc.city_name null toloc.city_name null null airline_name
+null null null cost null null ticket null null fromloc.city_name null toloc.city_name depart_date.month_name depart_date.day_number depart_date.year
+flight numbers null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+null null null null flight null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+show null class_type airlines null fromloc.city_name null toloc.city_name null depart_date.date_relative depart_date.day_name class_type null
+null flights null null null depart_date.day_name null fromloc.city_name null toloc.city_name
+null null null flight null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name
+show null null flights null fromloc.city_name null toloc.city_name
+null null null null airline_name null null flight null fromloc.city_name null toloc.city_name
+null null null price null class_type null fromloc.city_name null toloc.city_name null airline_code
+flights null fromloc.city_name null toloc.city_name null null depart_time.period_of_day
+airline_name flight flight_number null fromloc.city_name null toloc.city_name leaving null depart_time.time null type null aircraft null null null null flight
+null null null null flights null fromloc.city_name null toloc.city_name
+define airline airline_code
+null null null fly fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+find null flight null fromloc.city_name null toloc.city_name null depart_date.day_name
+give null information null flights null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name depart_time.time_relative depart_time.time null depart_date.day_name depart_time.time_relative depart_time.time
+find null flights null fromloc.city_name null toloc.city_name leaving depart_time.time_relative depart_time.time
+show null null cost_relative fare null fromloc.city_name null toloc.city_name
+null live null fromloc.city_name null null null null make null trip null toloc.city_name
+give null flights null arrive null toloc.city_name null fromloc.city_name denver null fromloc.city_name
+null null null null find null flight null null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time
+null airlines fly null fromloc.city_name null toloc.city_name
+code airline_code
+null null null flight_mod flight null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+list null flights null fromloc.city_name null toloc.city_name null airline_name
+null null null null list null flights null fromloc.city_name null toloc.city_name
+null depart_date.month_name depart_date.day_number null null depart_date.year 1991 null null null fly null fromloc.city_name null toloc.city_name null null null null fly null airline_name
+null null null null airlines null null stop null stoploc.city_name null null null null fromloc.city_name null toloc.city_name
+list null flights null fromloc.city_name fromloc.state_name null toloc.city_name null null null cost_relative round_trip
+list null flight_stop flights null arrive_date.day_name arrive_date.month_name arrive_date.day_number null fromloc.city_name null toloc.city_name arriving null toloc.city_name null arrive_time.start_time null arrive_time.end_time
+give null flights null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+fromloc.city_name null toloc.city_name
+null null flight_mod flight leaving null fromloc.city_name null toloc.city_name
+null null airline null null depart_time.period_of_day flight null fromloc.city_name null toloc.city_name
+null null null null flight null fromloc.city_name null toloc.city_name null null stopover null stoploc.city_name
+null null null make null trip null fromloc.city_name null toloc.city_name
+null null null information null flights leaving fromloc.city_name null null depart_time.period_of_day arriving null toloc.city_name
+show null null flights null fromloc.city_name null toloc.city_name flight_stop
+show null null flights null fares null fromloc.city_name null toloc.city_name
+null null null flights null fromloc.city_name null toloc.city_name
