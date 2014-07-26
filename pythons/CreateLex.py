@@ -34,7 +34,22 @@ def get_lexicon(textdoc, name, cutoff = False, stopdoc = None):
 
 	f.close()
 
+# adding words to the lexicon
 def addwords(adddoc, lex):
+	# lex and addoc need to end with a newline
 	
-	with open (textdoc,"r") as myfile:
-		txt1 = myfile.readlines()
+	with open (adddoc,"r") as myfile:
+		adds = myfile.readlines()
+
+	with open(lex,"r") as mafile:
+		index = 0
+		for line in mafile:
+			index +=1
+
+	with open (lex, "a") as mefile:
+		for word in adds:
+			mefile.write(word[:-1] + " " + str(index) + "\n")
+			index+=1
+
+
+
