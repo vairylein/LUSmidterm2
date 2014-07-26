@@ -2,6 +2,7 @@ import sys
 import SplitData as sd
 import CreateTrans as ct
 import CreateLex as cl
+import OOVocab as oov
 
 TRAIN = '../MT2_Data/ATIS.train.txt'
 TEST = '../MT2_Data/ATIS.train.txt'
@@ -22,6 +23,9 @@ def splitdata():
 	sd.split3(TRAINCOP,"../splitted/traincop")
 	sd.split3(TEST,"../splitted/test")
 	sd.split2(DEV,"../splitted/dev")
+	oov.firstunk("../splitted/train.word","../splitted/train.unk")
+	oov.firstunk("../splitted/trainco.word","../splitted/trainco.unk")
+	oov.firstunk("../splitted/traincop.word","../splitted/traincop.unk")	
 
 def createtrans():
 	ct.maketransducer(TRAIN,"../fst/train")

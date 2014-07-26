@@ -13,7 +13,6 @@ def firstunk(doc,name):
 		words = line.split(" ")[:-1]
 		sentence =[]
 		for word in words:
-			
 			if word in d.keys():
 				sentence+= [word]
 			else:

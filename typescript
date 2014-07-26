@@ -418,4 +418,101 @@ here6
 here7
 adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
 g transducer for ../fst/train written
-w2c transducer for ../fst
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ cd ..
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git add .
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git push origin master[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcommit .[K-m "[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit ignore
+git: 'ignore' is not a git command. See 'git --help'.
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git help[K[K[K[K[K[K[K[Kgit add .
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ gir[Kt commit -m "i[Kscript missing >[K<unk> and [K[K[K[K[K but with i[Kgitign ore"
+[master 69d216a] script missing <unk> but with gitignore
+ 18 files changed, 865 insertions(+), 810 deletions(-)
+ create mode 100644 .gitignore
+ rewrite fst/train.count (94%)
+ rewrite fst/train.elm (97%)
+ rewrite fst/train.lm (97%)
+ rewrite run/3gram/devA.far (67%)
+ rename run/3gram/{devB.txt => devA.txt} (100%)
+ rename run/3gram/{devA.far => devB.far} (100%)
+ rename run/3gram/{devA.txt => devB.txt} (100%)
+ create mode 100644 run/3gram/devC.far
+ create mode 100644 run/3gram/devC.txt
+ create mode 100644 run/3gram/devC.txt.pure
+ rewrite run/3gram/devfinal.far (95%)
+ rewrite run/3gram/devfinal.txt (99%)
+ rewrite run/3gram/train_g.far (99%)
+ rewrite run/3gram/train_w2c.far (99%)
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git push origin master
+Username for 'https://github.com': vairylein
+Password for 'https://vairylein@github.com': 
+fatal: Authentication failed
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git push origin master
+Username for 'https://github.com': vairylein
+Password for 'https://vairylein@github.com': 
+To https://github.com/vairylein/LUSmidterm2
+   6a31ec5..69d216a  master -> master
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git clean -x
+fatal: clean.requireForce defaults to true and neither -n nor -f given; refusing to clean
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git clean -f -x
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git clean -f -d -x --dryrun
+error: unknown option `dryrun'
+usage: git clean [-d] [-f] [-n] [-q] [-e <pattern>] [-x | -X] [--] <paths>...
+
+    -q, --quiet           do not print names of files removed
+    -n, --dry-run         dry run
+    -f, --force           force
+    -d                    remove whole directories
+    -e, --exclude <pattern>
+                          add <pattern> to ignore rules
+    -x                    remove ignored files, too
+    -X                    remove only ignored files
+
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git
