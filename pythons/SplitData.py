@@ -2,6 +2,7 @@ def split3(textdoc, name):
 	f = open(name + ".word","w")
 	g = open(name + ".class","w")
 	h = open(name + ".concept","w")
+	j = open(name + ".nonull","w")
 
 	with open (textdoc,"r") as myfile:
 		i = 1
@@ -13,6 +14,10 @@ def split3(textdoc, name):
 				f.write(words[0])
 				g.write(words[1])
 				h.write(words[2])
+				if words[2] == "null":
+					j.write(words[0])
+				else:
+					j.write(words[2])
 				newline = False
 				i=2
 
@@ -23,12 +28,20 @@ def split3(textdoc, name):
 					f.write("\n" + words[0])
 					g.write("\n" + words[1])
 					h.write("\n" + words[2])
+					if words[2] == "null":
+						j.write("\n" + words[0])
+					else:
+						j.write("\n" + words[2])
 					newline = False
 					
 				else:
 					f.write(" " + words[0])
 					g.write(" " + words[1])
 					h.write(" " + words[2])
+					if words[2] == "null":
+						j.write(" " + words[0])
+					else:
+						j.write(" " + words[2])
 					newline = False
 					
 					
@@ -41,6 +54,7 @@ def split3(textdoc, name):
 def split2(textdoc, name):
 	f = open(name + ".word","w")
 	g = open(name + ".concept","w")
+	i = open(name + ".nonull","w")
 
 	with open (textdoc,"r") as myfile:
 		i = 1
@@ -59,11 +73,19 @@ def split2(textdoc, name):
 				if newline:
 					f.write("\n" + words[0])
 					g.write("\n" + words[1])
+					if words[2] == "null":
+						j.write("\n" + words[0])
+					else:
+						j.write("\n" + words[1])
 					newline = False
 					
 				else:
 					f.write(" " + words[0])
 					g.write(" " + words[1])
+					if words[2] == "null":
+						j.write(" " + words[0])
+					else:
+						j.write(" " + words[1])
 					newline = False
 					
 					
@@ -72,3 +94,4 @@ def split2(textdoc, name):
 	
 	f.close()
 	g.close()
+	i.close()
