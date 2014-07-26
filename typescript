@@ -85,4 +85,337 @@ g transducer for ../fst/train written
 w2c transducer for ../fst/train written
 g transducer for ../fst/trainco written
 w2c transducer for ../fst/trainco written
-g transducer fo
+g transducer for ../fst/trainconn written
+w2c transducer for ../fst/trainconn written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 34, in main
+    lexicons()	
+  File "main.py", line 17, in lexicons
+    cl.addwords(LEXADD,"../fst/trainconn.lex","../fst/trainco.lex")
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/CreateLex.py", line 41, in addwords
+    with open (adddoc,"r") as myfile:
+IOError: [Errno 2] No such file or directory: '../lexaddtion'
+farcompilestrings: ERROR: can't open "./fst/trainconn.lex" -- fsmsymload.
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/trainconn written
+w2c transducer for ../fst/trainconn written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+farprintstrings: ERROR: unmatched symbol, '543' -- fsmnum2sym.
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/trainconn written
+w2c transducer for ../fst/trainconn written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+farcompilestrings: ERROR: can't open "./fst/trainconn.lex" -- fsmsymload.
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+farcompilestrings: ERROR: can't open "./fst/trainconn.lex" -- fsmsymload.
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 36, in main
+    splitdata()
+  File "main.py", line 22, in splitdata
+    sd.split3(TRAINCOP,"../splitted/traincop")
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/SplitData.py", line 7, in split3
+    with open (textdoc,"r") as myfile:
+IOError: [Errno 2] No such file or directory: '../MT2_Data/ATIS.train.txt.cop'
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+Traceback (most recent call last):
+  File "main.py", line 42, in <module>
+    main(sys.argv[1])
+  File "main.py", line 38, in main
+    createtrans()
+  File "main.py", line 29, in createtrans
+    ct.maketransducer(TRAINCOP,"../fst/traincop")	
+  File "/home/adminuser/Desktop/LUSmidterm2/pythons/CreateTrans.py", line 6, in maketransducer
+    with open (textdoc,"r") as myfile:
+IOError: [Errno 2] No such file or directory: '../MT2_Data/ATIS.train.txt.cop'
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh process.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ cd ..
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git add -[K.
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git commit -m "process.sh refined"
+[master 6a31ec5] process.sh refined
+ 18 files changed, 19956 insertions(+), 10 deletions(-)
+ create mode 100644 MT2_Data/ATIS.train.txt.cop
+ create mode 100644 fst/traincop.g.fsa
+ create mode 100644 fst/traincop.lex
+ create mode 100644 fst/traincop.w2c.fsa
+ create mode 100644 splitted/dev.nonull
+ create mode 100644 splitted/test.nonull
+ create mode 100644 splitted/train.nonull
+ create mode 100644 splitted/trainco.nonull
+ create mode 100644 splitted/traincop.class
+ create mode 100644 splitted/traincop.concept
+ create mode 100644 splitted/traincop.nonull
+ create mode 100644 splitted/traincop.word
+ create mode 100644 typescript
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ git push origin master
+Username for 'https://github.com': vairylein
+Password for 'https://vairylein@github.com': 
+To https://github.com/vairylein/LUSmidterm2
+   1c252c0..6a31ec5  master -> master
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2$ cd run/
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh [K[K[K[Km[K.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+farfilter: ERROR: bad FSM header, source="stdin, fsm=1".
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+farfilter: ERROR: bad FSM header, source="stdin, fsm=1".
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+farfilter: ERROR: bad FSM header, source="stdin, fsm=1".
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+farfilter: ERROR: bad FSM header, source="stdin, fsm=1".
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+farfilter: ERROR: bad FSM header, source="stdin, fsm=1".
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst/train written
+g transducer for ../fst/trainco written
+w2c transducer for ../fst/trainco written
+g transducer for ../fst/traincop written
+w2c transducer for ../fst/traincop written
+g transducer for ../fst/test written
+w2c transducer for ../fst/test written
+mkdir: cannot create directory `../run/3gram/': File exists
+here
+here2
+here3
+here4
+here5
+here6
+here7
+adminuser@adminuser-VirtualBox:~/Desktop/LUSmidterm2/run$ sh run.sh 
+g transducer for ../fst/train written
+w2c transducer for ../fst
