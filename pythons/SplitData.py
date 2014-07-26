@@ -13,46 +13,68 @@ def split4(textdoc, name):
 		for line in myfile:
 			words=line[:-1].split()
 			if i == 1:
-				d[words[0]]= 0
-				f.write(words[0])
+				
+
+				fw = words[0]
 				if words[0] in d.keys():
-					word = "<unk>"
-				else:
 					word = words[0]
-				u.write(word)
-				g.write(words[1])
-				h.write(words[2])
-				if words[2] == "null":
-					j.write(word)
-				if words[2] 				
 				else:
-					j.write(words[2])
+					word = "<unk>"
+				uw = word
+				gw = words[1] 
+				hw = words[2]
+				if word == "<unk>" :
+					jw = word
+				elif words[2] == "null":
+					jw = words[0]
+				else:
+					jw = words[2]
 				newline = False
 				i=2
+				d[words[0]] = 0
 
 			elif words == []:
 				newline = True	
 			else:
 				if newline:
-					f.write("\n" + words[0])
-					g.write("\n" + words[1])
-					h.write("\n" + words[2])
-					if words[2] == "null":
-						j.write("\n" + words[0])
+					fw = "\n" + words[0]
+					gw = "\n" + words[1]
+					hw = "\n" + words[2]
+					if words[0] in d.keys():
+						word = words[0]
 					else:
-						j.write("\n" + words[2])
+						word = "<unk>"
+					uw = "\n" + word
+					if word == "<unk>" :
+						jw = "\n" + word
+					elif words[2] == "null":
+						jw = "\n" + words[0]
+					else:
+						jw = "\n" + words[2]
 					newline = False
 					
 				else:
-					f.write(" " + words[0])
-					g.write(" " + words[1])
-					h.write(" " + words[2])
-					if words[2] == "null":
-						j.write(" " + words[0])
+					fw = " " + words[0]
+					gw = " " + words[1]
+					hw = " " + words[2]
+					if words[0] in d.keys():
+						word = words[0]
 					else:
-						j.write(" " + words[2])
+						word = "<unk>"
+					uw = " " + word
+					if word == "<unk>":
+						jw = " " + word
+					elif words[2] == "null":
+						jw = " " + words[0]
+					else:
+						jw = " " + words[2]
 					newline = False
-					
+				d[words[0]] = 0
+			f.write(fw)
+			g.write(gw)
+			h.write(hw)
+			j.write(jw)
+			u.write(uw)		
 					
 			
 
