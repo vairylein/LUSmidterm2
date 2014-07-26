@@ -47,6 +47,7 @@ def addwords(adddoc, name, lex):
 		index = 0
 		for line in mafile:
 			oldlex += [line]
+			index +=1
 			
 	f = open(name,"w")
 	
