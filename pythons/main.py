@@ -7,7 +7,9 @@ TRAIN = '../MT2_Data/ATIS.train.txt'
 TEST = '../MT2_Data/ATIS.train.txt'
 DEV = '../MT2_Data/ATIS.dev.txt'
 STOPW = '../english.stop.txt'
-TRAINCO= '../MT2_Data/ATIS.train.txt.co'
+LEXADD = '../lexaddtion'
+TRAINCO= '../MT2_Data/ATIS.train.txt.co' # cutoff lexicon
+TRAINCO= '../MT2_Data/ATIS.train.txt.conn' # cutoff lexicon without nulls
 
 def lexicons():
 	cl.get_lexicon(TRAIN,"../fst/train")

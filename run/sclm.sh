@@ -18,12 +18,14 @@ elm="${data}.elm"
 lex="${data}.lex"
 clex="../concept_lexicon.txt"
 
-# W  input sentences as FSA, output of farcompilestrings
+# 1st operation: W  input sentences as FSA, output of farcompilestrings
 farcompilestrings -u '<unk>' -i $lex $sentences > $far
 
+# 2nd operation: G 
 fsmcompile -i $lex -o $lex -t "${data}.g.fsa" > $g
 farfilter "fsmcompose - $g | fsmbestpath | fsmrmepsilon"< $far > "${dirc}/${data}_g.far";
 
+# 3rd operation: w2c
 fsmcompile -i $lex -o $lex -t "${data}.w2c.fsa" > $w2c
 farfilter "fsmcompose - $w2c | fsmbestpath | fsmrmepsilon"< "${dirc}/${data}_g.far" > "${dirc}/${data}_w2c.far";
 
