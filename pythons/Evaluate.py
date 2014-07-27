@@ -2,45 +2,44 @@ import sys
 import Levenshtein
 
 mt1result = "../mt1result"
-correct = "../atis.hlti.250.test"
-documents = [mt1result]
+gram3= "../run/3gram/devfinal.txt"
+correct = "../splitted/dev.concept"
+documents = [gram3]
+docnames = ["mt1result","gram3 simple"]
 
 def levensht():
 	
 	with open(correct, "r")as mefile:
 		stan = mefile.readlines()
 	
+	f = open("../../practise/Evaluationfile","w")
+
+	d=0
+
+	print len(stan)
+
+
 	for doc in documents:
 		with open(doc,"r") as myfile:
 			doct = myfile.readlines()
-			notaccepted = 0
-			levnotacc = 0
-			levacc = 0
-			i= 2
-			l= 0
-			while l < len(stan):
+		print (len(doct)-1)/3
+		levnotacc = []
+		levacc = []
+		l=0
+		for line in doct:
+			if line == "\n":
+				levnotacc+=[len(stan[l].split())]
+			else:
 				
-				if doct[i][0] == "\n":
-					notaccepted +=1
-					
-					levnotacc+=len(stan[l].split())
-				else:
-					
-					levacc += Levenshtein.levenshtein(stan[l].split(),doct[i].split())
-				i+=3
-				l+=1
-	print(int(levnotacc))	
-				
-def main(function_type):
-	if (function_type == 'lev'):
-        	levensht()	
-	elif (function_type == 'hamm'):
-        	hammings()
+				levacc += [Levenshtein.levenshtein(stan[l].split(),line.split())]
+			
+			l+=1
 
-if __name__ == '__main__':
-	if len(sys.argv) == 2:
-		main(sys.argv[1])
-	else:
-		levensht(documents,standard)
+		for value in levacc:
+			print value
+
+		f.write("FILE: %s\nEdit distance of accepted strings %s\nTotal Edit distance: %s\nNumber of unaccepted sentences: %s \n\n" % (docnames[d],sum(levacc)/float(len(levacc)),sum(levacc+levnotacc)/float(len(levacc+levnotacc)),len(levnotacc)))
+		d+= 1
+
 	
 		
