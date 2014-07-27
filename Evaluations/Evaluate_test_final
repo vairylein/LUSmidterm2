@@ -1,0 +1,412 @@
+FILE: mt1result
+Edit distance of accepted strings 0.686585365854
+Total Edit distance: 2.45
+Number of unaccepted sentences: 180 
+Unaccepted sentences
+4	round_trip null null fromloc.city_name null toloc.city_name cost_relative fare_amount
+
+9	null null null null null null null null city_name
+
+11	null null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name
+
+12	null null null null city_name
+
+16	null null null null null null city_name
+
+18	null null null null null null depart_date.day_name null fromloc.city_name null toloc.city_name fromloc.city_name null toloc.city_name null fromloc.city_name null toloc.city_name
+
+24	null null null null null null null null null null fromloc.city_name null toloc.city_name null toloc.city_name
+
+26	null null null fromloc.city_name fromloc.city_name null fromloc.city_name
+
+28	city_name null null
+
+30	null null null cost_relative round_trip null null fromloc.city_name null toloc.city_name
+
+40	null null null null null fromloc.airport_name null toloc.city_name
+
+41	null null null null null null round_trip null null fromloc.city_name null toloc.city_name toloc.state_name null null depart_date.day_number null null depart_date.day_number null depart_date.month_name
+
+44	fromloc.city_name null toloc.city_name
+
+45	null null null city_name
+
+46	null null null null null null null city_name
+
+53	null null null null transport_type null null null city_name
+
+54	null airline_name null null null null null fromloc.city_name null toloc.city_name
+
+62	null null null null null null fromloc.city_name null toloc.city_name toloc.state_name
+
+63	null null null null null null fromloc.airport_name null null null null
+
+67	null null null null null null null city_name
+
+76	null null null null null null round_trip null null fromloc.city_name null toloc.city_name null null depart_date.month_name depart_date.day_number null return null return_date.month_name return_date.day_number
+
+78	null null null null null null null fromloc.airport_name
+
+81	null null meal fromloc.city_name null toloc.city_name depart_date.day_name
+
+94	null null null null null fromloc.airport_name null toloc.city_name
+
+95	null null null city_name
+
+105	null null null null null null null null transport_type null city_name
+
+107	null null null null null null null null city_name
+
+129	null null null null round_trip null null fare_amount null fromloc.city_name null toloc.city_name
+
+130	null null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null depart_date.day_name
+
+140	null null null null null null null null city_name
+
+145	null null null null null null city_name
+
+158	null null null null null null null fromloc.city_name null toloc.city_name
+
+160	round_trip null null fromloc.city_name null toloc.city_name class_type economy null
+
+165	null null null null null null null null null null city_name
+
+168	round_trip null fromloc.city_name null toloc.city_name
+
+170	null null null null null fromloc.airport_name null null toloc.city_name
+
+171	null airline_name null null city_name
+
+186	null null null transport_type null city_name
+
+189	null null null null null null null null null null null null null null null null null city_name
+
+193	null null null fromloc.city_name null toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount
+
+203	null null city_name
+
+216	null null null null null city_name null null null
+
+221	null null null null null null null null city_name state_code
+
+226	null null null flight_time null null null null null null null fromloc.city_name null null
+
+229	null null null null null null null null null null toloc.airport_name
+
+237	null null null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name
+
+241	null null null fromloc.city_name null toloc.city_name null arrive_time.time_relative arrive_time.time null toloc.city_name
+
+265	null null null null null fromloc.city_name null toloc.city_name null stoploc.city_name
+
+269	null fromloc.city_name null toloc.city_name toloc.state_code null depart_date.day_name depart_date.month_name depart_date.day_number depart_date.year
+
+275	null null null null round_trip null null fromloc.city_name null toloc.city_name
+
+278	fromloc.city_name null toloc.city_name
+
+287	null null null null null null fromloc.city_name or fromloc.city_name or fromloc.city_name null null null toloc.city_name
+
+291	null null null null null null null null fromloc.city_name null toloc.city_name toloc.state_name null null null depart_time.period_of_day
+
+301	null null null null null fromloc.city_name null toloc.city_name null round_trip null cost_relative null fare_amount
+
+306	fromloc.city_name null toloc.city_name depart_date.day_name
+
+335	null null null null null null null round_trip null fromloc.city_name null toloc.city_name
+
+338	null null city_name
+
+345	null round_trip null null null null fromloc.city_name null toloc.city_name null airline_name null null arrive_time.time_relative arrive_time.time
+
+348	null null null null null null null null null null fromloc.city_name null null
+
+349	null depart_date.month_name depart_date.day_number fromloc.city_name null toloc.city_name airline_name null flight_number
+
+352	null null null null null fromloc.city_name null toloc.city_name or toloc.city_name toloc.state_code
+
+353	null null null null null null fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null null depart_time.period_of_day
+
+355	null null null null round_trip null null fromloc.city_name null toloc.city_name null null null toloc.city_name
+
+387	null null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name null airline_name
+
+389	null null null null null fromloc.city_name null toloc.city_name
+
+396	round_trip null null fromloc.city_name null toloc.city_name
+
+402	null null null null fromloc.city_name null toloc.city_name null
+
+411	null null null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name
+
+414	null null null flight_mod null depart_time.time_relative depart_time.time null fromloc.city_name null toloc.city_name
+
+420	null null null fare_basis_code null
+
+428	null null null round_trip null null null null fromloc.city_name null toloc.city_name null arrive_time.time_relative arrive_time.time null airline_name
+
+432	null null null null null null null null null null null null toloc.city_name
+
+442	null null null null connect null null fromloc.city_name null toloc.city_name or toloc.city_name null null arrive_time.time_relative null null arrive_time.time
+
+443	class_type round_trip null null fromloc.city_name null toloc.city_name
+
+450	null null null round_trip null null fromloc.city_name null toloc.city_name
+
+457	fromloc.city_name null toloc.city_name null arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day
+
+465	null null null null fromloc.city_name null toloc.city_name null depart_date.day_name depart_time.period_of_day
+
+475	null null null null round_trip null null fromloc.city_name null toloc.city_name
+
+477	null null null null null fromloc.city_name null toloc.city_name null stoploc.city_name
+
+480	null null null null null fromloc.city_name null toloc.city_name round_trip null depart_date.day_name depart_date.month_name depart_date.day_number null null toloc.city_name null arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null return null return_date.date_relative null null null toloc.city_name null arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null null null null null
+
+482	null null null null null city_name null
+
+486	null null null null null city_name
+
+495	null null null null null fromloc.airport_name null null null null
+
+500	null null cost_relative round_trip null null fromloc.city_name null toloc.city_name
+
+503	economy null fromloc.city_name null toloc.city_name round_trip
+
+506	null null null null toloc.city_name null fromloc.city_name null fromloc.city_name null fromloc.city_name
+
+507	null null null null fromloc.airport_name null null null
+
+515	null null null null null city_name
+
+517	null null null null null city_name null null null null null
+
+522	null null null null null null null null null fromloc.city_name null null toloc.city_name or toloc.city_name null null depart_time.time_relative depart_time.time
+
+526	null class_type null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year
+
+536	null null null null null fromloc.city_name null toloc.city_name null null null null null toloc.city_name arrive_time.time_relative arrive_time.time or null
+
+558	null null null null null city_name
+
+561	fromloc.city_name null toloc.city_name null flight_stop null stoploc.city_name null
+
+565	null null null fromloc.city_name null toloc.city_name null stoploc.city_name
+
+568	null null null null fromloc.city_name null toloc.city_name null null depart_date.day_name null null round_trip null cost_relative null fare_amount
+
+573	null null null null null null city_name
+
+579	null null null null null null depart_time.start_time null depart_time.end_time null fromloc.city_name null toloc.city_name
+
+588	null null null null null null null null null null null fromloc.city_name null null
+
+593	null null null cost_relative round_trip null null fromloc.city_name null toloc.city_name
+
+597	null null null null null transport_type null city_name
+
+600	null null null cost_relative round_trip null null fromloc.city_name null toloc.city_name
+
+601	null null null null null null city_name
+
+602	null null null null null fromloc.city_name null toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount
+
+614	null null round_trip null null fromloc.city_name null toloc.city_name
+
+615	null null null null null fromloc.city_name null toloc.city_name round_trip null null null null null stoploc.city_name null null null
+
+618	null null round_trip null null fromloc.city_name null toloc.city_name
+
+622	null null round_trip null null fromloc.city_name null toloc.city_name null
+
+625	null null null null null cost_relative round_trip null null fromloc.city_name null toloc.city_name
+
+631	null null null null null null city_name
+
+632	null null null null null round_trip null null fromloc.city_name null toloc.city_name
+
+652	null null null round_trip null null fromloc.city_name null toloc.city_name
+
+653	null null null null null null null null null null null city_name null null null null
+
+666	depart_date.day_name or depart_date.day_name null null fromloc.city_name null toloc.city_name airline_name
+
+669	null null null null null fromloc.city_name null toloc.city_name null stoploc.city_name
+
+671	city_name null
+
+672	null null null airline_name null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year
+
+686	null null null null null null null null null fromloc.city_name null toloc.city_name or fromloc.city_name null toloc.city_name or fromloc.city_name null toloc.city_name
+
+687	null null null null null null airport_name
+
+691	null null null null null null fromloc.airport_name null null toloc.city_name
+
+692	null null null null null null fromloc.city_name null toloc.city_name null null null stoploc.city_name
+
+694	fromloc.city_name null toloc.city_name
+
+707	null null null null fromloc.city_name null toloc.city_name toloc.city_name null toloc.city_name
+
+710	null null null null city_name null
+
+715	null null null null null fromloc.city_name null toloc.city_name round_trip cost_relative null fare_amount
+
+726	null null null fromloc.city_name null toloc.city_name null
+
+739	null null null null null city_name
+
+745	null null airport_name null null null null null null null
+
+753	null null null null airline_name fromloc.city_name null toloc.city_name
+
+756	null null null fromloc.city_name null toloc.city_name
+
+757	null null null null null fromloc.city_name null toloc.city_name fromloc.city_name null toloc.city_name fromloc.city_name null toloc.city_name
+
+758	null null city_name
+
+761	null null null fromloc.city_name null toloc.city_name null null depart_time.time_relative depart_time.time null airline_name
+
+768	null null null null null null airport_name null null null null
+
+775	null null null null null null null null fromloc.city_name
+
+776	null null null null null null null toloc.airport_name
+
+777	null null null null null null city_name
+
+779	null null null null airport_name
+
+780	null null null null fromloc.city_name null toloc.city_name null depart_date.day_name or depart_date.day_name airline_name
+
+782	null null null null null airport_name
+
+783	null null null null null null null airport_name
+
+784	null null null null null arrive_time.time_relative arrive_time.time null toloc.city_name null fromloc.city_name
+
+787	null null null null fromloc.city_name null toloc.city_name null null null null null stoploc.city_name
+
+791	null null null null city_name
+
+802	null null null null null fromloc.city_name fromloc.state_code null toloc.city_name null airline_name null depart_time.time
+
+805	null null fare_basis_code null null null null
+
+812	null null transport_type null null null airport_name
+
+823	null null null null null null null null null null fromloc.airport_name null transport_type
+
+834	null null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year null null mod null null null
+
+841	null null null null null null null null fromloc.city_name null toloc.city_name null null null null fare_amount
+
+844	null null null null depart_time.period_of_day null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number null airline_name
+
+845	null null null null null null round_trip null fromloc.city_name null toloc.city_name
+
+853	null null null null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name null null null null null null toloc.city_name arrive_time.time_relative arrive_time.time null null null null null null null null depart_time.time_relative null
+
+856	null null null null null null null city_name
+
+859	null null null null null fromloc.city_name null toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount
+
+861	null null null null null null null round_trip null null fromloc.city_name null toloc.city_name null null depart_date.day_number or null depart_date.day_number null depart_date.month_name
+
+863	null null null null null fromloc.city_name null toloc.city_name toloc.state_name
+
+869	null null null null null depart_date.month_name depart_date.day_number depart_date.year null fromloc.city_name null toloc.city_name
+
+877	null null null null null null class_type null null fromloc.city_name null toloc.city_name round_trip
+
+881	null null null null fromloc.city_name null toloc.city_name null stoploc.city_name
+
+882	null null cost_relative round_trip null null fromloc.city_name null toloc.city_name
+
+889	null null null null null fromloc.airport_name null null toloc.city_name
+
+890	null null null transport_type or transport_type null null null null airport_name
+
+892	null null null null null null null null null null toloc.city_name
+
+896	round_trip null null fromloc.city_name null toloc.city_name cost_relative null fare_amount
+
+900	null null null null null null null null fromloc.airport_name null null null null toloc.city_name
+
+907	null null null null null fromloc.city_name null toloc.airport_name
+
+919	null null null null fromloc.city_name null toloc.city_name null stoploc.city_name
+
+920	null null null null null null null null null null null null null null null null fromloc.city_name null null toloc.city_name
+
+922	null null null null null null round_trip null null fromloc.city_name null toloc.city_name
+
+931	null null depart_time.period_of_day null null null fare_amount null fromloc.city_name null toloc.city_name
+
+937	null null null null null null city_name
+
+941	null null null null null toloc.airport_name
+
+944	null null null null null null null fromloc.city_name null null toloc.city_name null stoploc.city_name null null arrive_time.time_relative arrive_time.time
+
+951	null null null null null city_name
+
+960	null null null null null null null null null fromloc.city_name null toloc.city_name depart_date.month_name depart_date.day_number depart_date.year
+
+978	null null null fromloc.city_name null null null null null null null null toloc.city_name
+
+979	null null null null null null toloc.city_name null fromloc.city_name null null fromloc.city_name
+
+986	null depart_date.month_name depart_date.day_number null null depart_date.year null null null null null null fromloc.city_name null toloc.city_name null null null null null null airline_name
+
+991	fromloc.city_name null toloc.city_name
+
+
+FILE: finaltest
+Edit distance of accepted strings 0.276530612245
+Total Edit distance: 0.495
+Number of unaccepted sentences: 20 
+Unaccepted sentences
+38	null null null null null null null fromloc.city_name null toloc.city_name
+
+66	null null null null null null null null null null null toloc.city_name null fromloc.city_name null depart_date.date_relative null depart_date.day_name
+
+105	null null null null null null null null transport_type null city_name
+
+171	null airline_name null null city_name
+
+359	null null null null null fromloc.city_name null toloc.city_name null null null aircraft_code
+
+486	null null null null null city_name
+
+536	null null null null null fromloc.city_name null toloc.city_name null null null null null toloc.city_name arrive_time.time_relative arrive_time.time or null
+
+583	null null null null null fromloc.city_name null toloc.city_name null null null aircraft_code
+
+596	null null null null null null flight_mod null null depart_date.day_name null null null null fromloc.city_name null toloc.city_name null null null meal
+
+626	null null null null null null aircraft_code
+
+632	null null null null null round_trip null null fromloc.city_name null toloc.city_name
+
+635	null null null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number
+
+662	null null null null null airline_name
+
+689	null null null null null null null fromloc.city_name null toloc.city_name toloc.country_name null depart_date.day_name null null depart_time.period_of_day
+
+747	null null days_code
+
+783	null null null null null null null airport_name
+
+834	null null null null null fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year null null mod null null null
+
+900	null null null null null null null null fromloc.airport_name null null null null toloc.city_name
+
+972	null null airline_code
+
+978	null null null fromloc.city_name null null null null null null null null toloc.city_name
+
+

@@ -24,6 +24,7 @@
 0	0	airport_name	fromloc.airport_name
 0	0	airport_name	toloc.airport_name
 0	0	airports	airports
+0	0	and	and
 0	0	approximately	depart_time.time_relative
 0	0	around	arrive_time.time_relative
 0	0	around	depart_time.time_relative

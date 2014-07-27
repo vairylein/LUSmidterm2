@@ -80,4 +80,3 @@ toloc.country_name  78
 toloc.state_code    79
 toloc.state_name    80
 transport_type  81
-<unk>   82

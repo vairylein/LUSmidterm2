@@ -1,0 +1,25 @@
+FILE: 1gram
+Edit distance of accepted strings 1.54081632653
+Total Edit distance: 1.82
+Number of unaccepted sentences: 2 
+
+FILE: 2gram
+Edit distance of accepted strings 0.561224489796
+Total Edit distance: 0.86
+Number of unaccepted sentences: 2 
+
+FILE: 3gram
+Edit distance of accepted strings 0.479591836735
+Total Edit distance: 0.78
+Number of unaccepted sentences: 2 
+
+FILE: 4gram
+Edit distance of accepted strings 0.489795918367
+Total Edit distance: 0.79
+Number of unaccepted sentences: 2 
+
+FILE: 5gram
+Edit distance of accepted strings 0.459183673469
+Total Edit distance: 0.76
+Number of unaccepted sentences: 2 
+

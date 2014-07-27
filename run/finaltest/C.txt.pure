@@ -1,0 +1,1000 @@
+<unk> <unk> to fly from fromloc.city_name at depart_time.time and arrive <unk> toloc.city_name at depart_time.time <unk> <unk> depart_time.period_of_day 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> flight_time <unk> toloc.city_name <unk> <unk> flight_time flight leaving fromloc.city_name 
+cost_relative airfare from fromloc.city_name to toloc.city_name 
+round_trip fares from fromloc.city_name to toloc.city_name <unk> fare_amount 
+<unk> <unk> <unk> flight depart_date.today_relative from fromloc.city_name to toloc.city_name 
+<unk> kind <unk> aircraft <unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> flights from fromloc.city_name to toloc.city_name 
+<unk> kind <unk> ground transportation <unk> <unk> <unk> stoploc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> <unk> stoploc.city_name 
+<unk> <unk> airport at city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.airport_code 
+<unk> flights to toloc.city_name depart_time.time_relative depart_time.time 
+show <unk> <unk> class_type fares from fromloc.city_name to toloc.city_name 
+show <unk> <unk> ground transportation <unk> city_name 
+<unk> flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time and depart_time.time_relative depart_time.time 
+<unk> <unk> information <unk> flights <unk> arrive_date.day_name leaving fromloc.city_name <unk> toloc.city_name fromloc.city_name to toloc.city_name and fromloc.city_name to toloc.city_name 
+<unk> give <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> <unk> week 
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> airline_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> list <unk> class_type flights <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> kinds <unk> planes <unk> <unk> <unk> airline_name 
+<unk> <unk> to <unk> <unk> information <unk> <unk> ticket from fromloc.city_name to toloc.city_name and toloc.city_name 
+<unk> <unk> to book <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> airline serves toloc.city_name fromloc.city_name and toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> <unk> week <unk> leave fromloc.city_name depart_time.time_relative depart_time.time 
+city_name ground transportation 
+<unk> <unk> <unk> service from fromloc.city_name to toloc.city_name arriving <unk> arrive_time.time 
+show <unk> <unk> cost_relative round_trip fare from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> airline_name departing at depart_time.time 
+flights from fromloc.city_name to toloc.city_name 
+<unk> find <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name and give <unk> <unk> flight numbers 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+fares and flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> airlines <unk> class_type flights 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day 
+
+show flights from fromloc.city_name to toloc.city_name between arrive_time.start_time and arrive_time.end_time <unk> depart_date.day_name 
+<unk> <unk> <unk> <unk> from fromloc.airport_name to toloc.city_name 
+<unk> <unk> <unk> <unk> list <unk> round_trip flights between fromloc.city_name and toloc.city_name toloc.state_name <unk> <unk> depart_date.day_number and <unk> depart_date.day_number <unk> depart_date.month_name 
+<unk> airline <unk> <unk> <unk> arrivals <unk> toloc.city_name 
+<unk> airlines fly from fromloc.city_name to toloc.city_name to toloc.city_name 
+fromloc.city_name to toloc.city_name 
+<unk> airlines serve city_name 
+show <unk> information <unk> ground transportation <unk> city_name 
+<unk> <unk> fare code fare_basis_code 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> direct and connecting <unk> arrive arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name leaving depart_date.today_relative depart_time.period_of_day 
+<unk> <unk> <unk> flight_time <unk> <unk> <unk> planes leaving from fromloc.city_name going to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+flights from fromloc.city_name to toloc.city_name 
+<unk> flights go from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time <unk> depart_date.day_name 
+<unk> <unk> <unk> <unk> transport_type service cost <unk> toloc.city_name 
+<unk> airline_name <unk> <unk> flights <unk> <unk> fromloc.city_name to toloc.city_name 
+<unk> <unk> booking class <unk> 
+<unk> <unk> to <unk> <unk> flight_mod trip between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> to <unk> information <unk> flights from fromloc.city_name leaving depart_time.time_relative depart_time.time to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> to <unk> information <unk> flights leaving fromloc.city_name <unk> depart_date.day_name depart_time.period_of_day and return to toloc.city_name 
+<unk> flight goes from fromloc.city_name to toloc.city_name class_type <unk> airline_name arriving <unk> <unk> arrive_date.day_number 
+<unk> <unk> <unk> <unk> <unk> <unk> airlines <unk> fly from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> <unk> <unk> from fromloc.city_name to toloc.city_name toloc.city_name 
+<unk> <unk> <unk> ground transportation from fromloc.airport_name to <unk> city depart_date.day_number 
+<unk> airlines <unk> class_type flights depart_date.today_relative 
+find <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> serves <unk> meal 
+
+give <unk> <unk> list <unk> airports <unk> city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> fare code fare_basis_code <unk> 
+<unk> give <unk> <unk> flights from fromloc.city_name to toloc.city_name toloc.state_code 
+<unk> <unk> information from fromloc.city_name to toloc.city_name 
+from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.airport_code <unk> serves <unk> meal_description 
+<unk> types <unk> aircraft <unk> airline_name fly 
+<unk> <unk> <unk> cost <unk> <unk> round_trip flight from fromloc.city_name to toloc.city_name depart_time.time_relative <unk> depart_date.month_name depart_date.day_number and return <unk> <unk> depart_date.day_number 
+give <unk> <unk> flights leaving fromloc.city_name depart_date.month_name depart_date.day_number coming return to toloc.city_name 
+list <unk> <unk> flights <unk> fly <unk> toloc.airport_name 
+<unk> flights fly from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_date.day_name depart_date.day_name depart_date.day_name and depart_date.day_name 
+list <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flight meal fromloc.city_name to toloc.city_name depart_date.day_name 
+show <unk> <unk> flights <unk> airline_code from fromloc.city_name <unk> <unk> depart_time.period_of_day 
+<unk> <unk> to find <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> serves <unk> meal 
+<unk> <unk> airlines <unk> airline <unk> <unk> <unk> arrivals <unk> toloc.city_name 
+display <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> to travel from fromloc.city_name to toloc.city_name depart_time.period_mod <unk> <unk> depart_time.period_of_day <unk> flight 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name leaving <unk> depart_date.day_name <unk> depart_date.day_number 
+<unk> <unk> <unk> flights <unk> depart_time.time_relative depart_time.time between fromloc.city_name and toloc.city_name 
+<unk> flights depart toloc.city_name <unk> depart_date.day_name and arrive <unk> toloc.city_name <unk> arrive_time.time 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+list <unk> airline_name flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> fares from fromloc.city_name to toloc.city_name 
+<unk> flight_stop flights between fromloc.city_name and toloc.city_name arrive arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> flight_mod from fromloc.airport_name to toloc.city_name 
+ground transportation <unk> city_name 
+<unk> <unk> <unk> <unk> <unk> flight_stop flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> airline_name <unk> <unk> meal <unk> served 
+<unk> <unk> airline_name fly 
+<unk> flights from fromloc.city_name to toloc.city_name arrive arrive_time.time_relative arrive_time.time <unk> <unk> arrive_time.period_of_day 
+find <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+list flight_stop flights from fromloc.city_name to toloc.city_name <unk> arrive arrive_time.time_relative arrive_time.time 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> stop <unk> stoploc.city_name 
+show <unk> flights to toloc.city_name from fromloc.city_name stopping <unk> stoploc.city_name 
+<unk> city <unk> <unk> airport airport_code <unk> 
+
+show <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> list <unk> ground transportation at city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name stopping <unk> stoploc.city_name and serving meal_description <unk> <unk> 
+<unk> show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+show flights from fromloc.city_name to toloc.city_name 
+give <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+find <unk> <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+show <unk> <unk> <unk> flight from fromloc.airport_name 
+<unk> flights go from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight departing fromloc.city_name and arriving <unk> toloc.city_name <unk> arrive_date.month_name arrive_date.day_number 
+<unk> <unk> <unk> flight_mod flight flying from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> 
+<unk> list <unk> flights <unk> <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+<unk> flights leave fromloc.city_name and arrive <unk> toloc.city_name arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+<unk> <unk> <unk> transportation depart_time.time from <unk> airport to toloc.city_name 
+<unk> airline <unk> <unk> mod plane leaving fromloc.city_name and arriving <unk> toloc.city_name <unk> arrive_date.month_name arrive_date.day_number 
+<unk> <unk> <unk> flight_stop flights <unk> airline_name <unk> airline_name air from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> depart_date.day_number 
+<unk> <unk> <unk> classes <unk> service <unk> airline_name 
+<unk> <unk> <unk> to find <unk> <unk> flights <unk> <unk> <unk> arrive_date.day_name arrive_date.month_name arrive_date.day_number from fromloc.city_name to toloc.city_name and <unk> from fromloc.city_name to toloc.city_name <unk> <unk> 
+<unk> flights from fromloc.city_name to toloc.city_name toloc.state_code <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> time flight from fromloc.city_name to toloc.city_name <unk> type <unk> aircraft <unk> <unk> 
+<unk> flight <unk> <unk> round_trip fare at fare_amount from fromloc.city_name to toloc.city_name 
+<unk> flights leave fromloc.city_name <unk> toloc.city_name arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+<unk> <unk> <unk> to <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> list flights between fromloc.city_name and toloc.city_name 
+find <unk> <unk> flights <unk> <unk> flight_stop between fromloc.city_name and toloc.city_name <unk> leave between depart_time.start_time and depart_time.end_time <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> <unk> information <unk> flights leaving fromloc.city_name to toloc.city_name 
+show <unk> <unk> flight_mod flight_stop flight from fromloc.city_name to toloc.city_name toloc.state_code 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight_stop flight from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> 
+<unk> <unk> <unk> to go from fromloc.city_name to toloc.city_name 
+show <unk> <unk> <unk> arrive_time.period_of_day fares between fromloc.city_name and toloc.city_name 
+<unk> kinds <unk> ground transportation <unk> <unk> <unk> stoploc.city_name 
+<unk> <unk> show <unk> economy round_trip fares <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> fare code fare_basis_code 
+<unk> <unk> <unk> flight <unk> depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> class_type fares from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day 
+<unk> <unk> ground transportation <unk> <unk> city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> to <unk> <unk> flights <unk> from fromloc.city_name to toloc.city_name arriving <unk> toloc.city_name <unk> arrive_time.time depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> to fly <unk> cost_relative depart_date.day_number <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+list <unk> flight from fromloc.city_name to toloc.city_name <unk> airline_name 
+flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> arrive_date.day_name arrive_date.month_name <unk> <unk> leaves depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> class_type fare <unk> airline_name flight flight_number from fromloc.city_name to toloc.city_name 
+flight from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+list flights depart_date.today_relative from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name toloc.state_code depart_date.day_number 
+<unk> <unk> <unk> to go from fromloc.city_name to toloc.city_name 
+show <unk> <unk> <unk> airline_name flights leaving fromloc.city_name 
+<unk> <unk> list <unk> <unk> flights between fromloc.city_name and toloc.city_name 
+list <unk> flights from fromloc.city_name to toloc.city_name 
+round_trip flights from fromloc.city_name to toloc.city_name class_type economy fare 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name and <unk> <unk> <unk> <unk> stopovers and <unk> <unk> to fly <unk> <unk> <unk> depart_time.period_of_day 
+flights from fromloc.city_name to toloc.city_name between arrive_time.start_time and arrive_time.end_time 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> <unk> <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> kind <unk> ground transportation <unk> <unk> offer <unk> <unk> toloc.city_name 
+leaving fromloc.city_name going to toloc.city_name <unk> flight_mod flight 
+show <unk> <unk> flights <unk> from fromloc.city_name to toloc.city_name leaving fromloc.city_name <unk> <unk> depart_time.period_of_day 
+round_trip fares fromloc.city_name to toloc.city_name 
+<unk> flights <unk> depart_time.time_relative <unk> airline_name 
+<unk> <unk> <unk> <unk> from fromloc.airport_name to downtown toloc.city_name 
+
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> <unk> depart_time.period_of_day <unk> airline_name 
+<unk> <unk> <unk> flight_mod flight going from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_date.month_name depart_date.day_number 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name arriving arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> leaves depart_date.day_name and arrives <unk> toloc.city_name arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> information <unk> <unk> flights from fromloc.city_name to toloc.city_name leaving depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> cost <unk> <unk> class_type ticket from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> economy class_type fare from fromloc.city_name to toloc.city_name 
+list <unk> flight_stop flights arrive_time.period_mod arrive_date.day_name arrive_time.period_of_day from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight <unk> <unk> <unk> leaves fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time 
+show <unk> <unk> <unk> flights to toloc.city_name depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> return flight from fromloc.city_name to toloc.city_name 
+airline_name flights stopping <unk> stoploc.city_name depart_time.time_relative depart_time.time 
+show <unk> <unk> transport_type <unk> toloc.city_name 
+<unk> flights go from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time <unk> <unk> depart_time.period_of_day 
+flight_mod depart_time.period_of_day flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> time <unk> <unk> <unk> to go between <unk> airport and downtown <unk> ground transportation <unk> city_name 
+flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to fly airline_name between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> to book <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> 
+<unk> flights from fromloc.city_name to toloc.city_name round_trip depart_time.time_relative depart_time.time <unk> <unk> aircraft_code 
+show <unk> flights <unk> depart_date.day_name going from fromloc.city_name to toloc.city_name flight_stop class_type leaving depart_time.time_relative depart_time.time 
+from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+show <unk> <unk> flight <unk> <unk> mod seating capacity <unk> leaves fromloc.city_name and arrives <unk> toloc.city_name <unk> arrive_date.month_name arrive_date.day_number 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> flights depart_time.time_relative depart_time.time <unk> depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name 
+list flight_days flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> leaves depart_time.time_relative depart_time.time <unk> <unk> <unk> <unk> flight 
+<unk> airline_name give <unk> <unk> flight_time from fromloc.city_name to toloc.city_name 
+ground transportation city_name 
+show <unk> airline depart_date.day_number 
+<unk> <unk> flights <unk> airline_name <unk> <unk> <unk> class <unk> service code fare_basis_code 
+<unk> list <unk> <unk> arriving and departing flights from fromloc.airport_name 
+<unk> <unk> <unk> to <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> 
+<unk> airline_name fly depart_time.period_mod <unk> <unk> depart_time.period_of_day between fromloc.airport_name and toloc.airport_code 
+<unk> flights leave fromloc.city_name <unk> airline_name 
+<unk> <unk> list <unk> <unk> airlines <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+flights from fromloc.city_name to toloc.city_name flight_days 
+show <unk> class_type flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> serves meal_description 
+from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+<unk> list <unk> depart_date.day_name depart_time.period_of_day flights from fromloc.city_name to toloc.city_name <unk> airline_name 
+<unk> <unk> ground transportation <unk> city_name from <unk> airport 
+show <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> flight_mod to fly airline_code <unk> <unk> <unk> flight between fromloc.city_name and toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name <unk> airline_code 
+show <unk> <unk> flights from fromloc.city_name to toloc.airport_name flight_stop 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> kind <unk> ground transportation <unk> <unk> <unk> city_name state_code 
+<unk> <unk> <unk> flight_mod flight <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> fare code fare_basis_code <unk> 
+<unk> <unk> cost_relative <unk> <unk> <unk> fly to toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> airline_name 
+<unk> <unk> <unk> flight_time <unk> ground transportation from <unk> airport <unk> fromloc.city_name <unk> downtown 
+show <unk> <unk> list <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+show <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> <unk> cost to go from downtown to toloc.airport_name 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> at <unk> <unk> flight_stop 
+show flights from fromloc.city_name to toloc.city_name arriving between arrive_time.start_time and arrive_time.end_time 
+<unk> <unk> <unk> fare from fromloc.city_name to toloc.city_name <unk> airline_name flight flight_number 
+flights from fromloc.city_name fromloc.state_name to toloc.city_name toloc.state_name 
+give <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> flights fromloc.city_name to toloc.city_name toloc.state_code <unk> depart_date.day_name 
+<unk> list <unk> depart_date.day_name depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
+<unk> flight <unk> <unk> <unk> from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name arrive arrive_time.time_relative arrive_time.time <unk> toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day <unk> depart_date.day_name 
+<unk> <unk> <unk> class_type flight <unk> airline_name to toloc.city_name <unk> depart_date.day_name <unk> week 
+ground transportation <unk> city_name 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name at depart_time.time_relative depart_time.time 
+list <unk> fares <unk> airline_name flights from fromloc.city_name to toloc.city_name 
+list flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_date.month_name depart_date.day_number 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> give <unk> information <unk> <unk> <unk> flights from fromloc.city_name <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> find <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> stops <unk> stoploc.city_name 
+flights from fromloc.city_name to toloc.city_name 
+give <unk> <unk> flights from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day 
+<unk> list <unk> <unk> <unk> flights leaving fromloc.city_name depart_time.time_relative to toloc.city_name depart_time.time_relative depart_time.time depart_date.day_name and depart_time.time_relative depart_time.time depart_date.day_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> leave depart_time.time_relative depart_time.time 
+show <unk> <unk> flights <unk> go from fromloc.city_name to toloc.city_name 
+<unk> airline <unk> fly <unk> from fromloc.city_name to toloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> stops <unk> stoploc.city_name 
+list <unk> <unk> flights <unk> arrive at toloc.airport_name 
+<unk> <unk> fare code fare_basis_code 
+<unk> flights from fromloc.city_name to toloc.city_name arrive <unk> arrive_date.day_name arrive_time.time_relative arrive_time.time 
+flights from fromloc.city_name to toloc.city_name 
+show <unk> fares from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> stoploc.city_name 
+<unk> <unk> <unk> depart_time.period_of_day flight from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name arriving <unk> <unk> <unk> depart_time.period_of_day 
+show <unk> <unk> cost_relative round_trip flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+from fromloc.city_name to toloc.city_name toloc.state_code <unk> depart_date.day_name depart_date.month_name depart_date.day_number depart_date.year 
+<unk> list <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> serve meal 
+list aircraft types <unk> fly between fromloc.city_name and toloc.city_name 
+<unk> <unk> fare code fare_basis_code <unk> 
+<unk> interested <unk> <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name 
+give <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> round_trip fare from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> airline <unk> class_type flights 
+fromloc.city_name to toloc.city_name 
+<unk> airlines fly between fromloc.city_name and toloc.city_name 
+list <unk> flights arriving <unk> toloc.city_name from fromloc.city_name arrive_time.time_relative arrive_time.time <unk> arrive_date.month_name arrive_date.day_number 
+give <unk> <unk> flights <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight <unk> depart_date.day_name from fromloc.city_name to toloc.city_name and <unk> <unk> depart_date.day_number <unk> depart_time.period_of_day flight 
+flights from fromloc.city_name to toloc.city_name 
+<unk> flights go from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+show <unk> <unk> fares from fromloc.city_name to toloc.city_name 
+give <unk> airline_name flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name and <unk> depart_date.day_name 
+list <unk> flights <unk> leave from fromloc.city_name <unk> fromloc.city_name <unk> fromloc.city_name and arrive <unk> toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> <unk> listing <unk> flights from fromloc.city_name to toloc.city_name toloc.state_name departing <unk> <unk> depart_time.period_of_day 
+<unk> depart_time.period_of_day flights <unk> <unk> <unk> between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name <unk> stops <unk> stoploc.city_name and goes <unk> to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name depart_date.today_relative 
+<unk> round_trip flights between fromloc.city_name and toloc.city_name 
+<unk> flights go to toloc.city_name from fromloc.city_name 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name flight_days <unk> economy 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> round_trip fares <unk> <unk> aircraft_code 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> leaves depart_time.period_mod <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> serves meal_description 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name 
+fromloc.city_name to toloc.city_name depart_date.day_name 
+give <unk> <unk> flight_mod flight depart_date.today_relative <unk> airline_name from fromloc.city_name to toloc.city_name 
+show <unk> flights <unk> depart_date.day_name from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time 
+show <unk> <unk> <unk> flights leaving fromloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> plane from fromloc.city_name to toloc.city_name 
+<unk> <unk> to go from fromloc.city_name to toloc.city_name and return <unk> <unk> <unk> return_date.date_relative find <unk> <unk> flight_mod flight from fromloc.city_name 
+<unk> <unk> flights between fromloc.city_name and toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> flight_time <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> 
+show <unk> round_trip flights from fromloc.city_name to toloc.city_name depart_date.day_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name depart_date.today_relative <unk> serve <unk> meal 
+give <unk> flights <unk> airline_name from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> find <unk> airline <unk> <unk> 
+<unk> list <unk> flights from fromloc.city_name to toloc.state_code toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> stop <unk> stoploc.city_name 
+show <unk> <unk> flights <unk> depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name 
+<unk> <unk> aircraft_code class_type tickets from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> stop <unk> stoploc.city_name 
+flights to toloc.city_name 
+<unk> <unk> airport_code stand <unk> 
+<unk> <unk> <unk> cost_relative <unk> to fly from fromloc.city_name to toloc.city_name 
+list <unk> flight_stop flights from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time <unk> depart_date.day_name 
+<unk> <unk> booking classes <unk> <unk> 
+flight numbers from fromloc.city_name to toloc.city_name depart_date.today_relative 
+give <unk> <unk> airline_name flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> airline_name flights between fromloc.city_name and toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+show <unk> <unk> flights <unk> depart_date.day_name between fromloc.city_name and toloc.city_name 
+find <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name <unk> makes <unk> stopover <unk> stoploc.city_name 
+show <unk> <unk> fares <unk> <unk> flights round_trip from fromloc.city_name to toloc.city_name 
+<unk> <unk> flight_mod between fare code fare_basis_code and fare code fare_basis_code 
+flights from fromloc.city_name to toloc.city_name 
+ground transportation city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name toloc.state_code <unk> depart_date.day_name 
+find <unk> flight between fromloc.city_name and toloc.city_name <unk> flight <unk> <unk> <unk> <unk> depart_time.period_of_day and arrive arrive_time.time_relative to arrive_time.time <unk> flight <unk> <unk> flight_stop 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> prices 
+flights between fromloc.city_name and toloc.city_name 
+<unk> list <unk> depart_date.day_name depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
+list <unk> airline_name flights from fromloc.city_name to toloc.city_name <unk> arrive <unk> arrive_date.day_name arrive_time.time_relative arrive_time.time 
+<unk> round_trip tickets <unk> <unk> from fromloc.city_name to toloc.city_name <unk> airline_name <unk> arrive arrive_time.time_relative arrive_time.time 
+<unk> <unk> to go from fromloc.city_name to toloc.city_name at depart_time.time depart_date.day_name depart_time.period_of_day 
+show <unk> <unk> airline_name flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> ground transportation between <unk> airport <unk> fromloc.city_name and downtown 
+<unk> <unk> depart_date.day_number fromloc.city_name to toloc.city_name airline_name flight flight_number 
+show <unk> <unk> flights from fromloc.city_name 
+<unk> airlines <unk> flights between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> toloc.city_name toloc.state_code 
+list <unk> number <unk> flights leaving fromloc.city_name <unk> toloc.city_name arrive_time.time_relative arrive_time.time <unk> <unk> arrive_time.period_of_day 
+<unk> <unk> airline_name flights leaving fromloc.city_name 
+<unk> <unk> list <unk> round_trip flights from fromloc.city_name to toloc.city_name and <unk> to toloc.city_name 
+<unk> <unk> <unk> to find <unk> flight from fromloc.city_name to toloc.city_name <unk> airline_name and arriving at <unk> arrive_time.time <unk> <unk> arrive_time.period_of_day <unk> <unk> <unk> <unk> <unk> <unk> aircraft and <unk> flight number <unk> <unk> 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name leaving at depart_time.time <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+
+<unk> flights <unk> <unk> <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> airport_code 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> airline_name flight flies <unk> <unk> depart_date.day_number and leaves from fromloc.city_name goes to toloc.city_name and makes <unk> stopover <unk> stoploc.city_name 
+list flight_days flights <unk> airline_name from fromloc.city_name to toloc.city_name <unk> class_type service 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> flights fromloc.city_name to toloc.airport_code 
+<unk> <unk> to travel from fromloc.city_name fromloc.state_code to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> fare going from fromloc.city_name to toloc.city_name round_trip <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> <unk> depart_time.period_of_day flight leaving <unk> <unk> depart_time.period_of_day going from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+show <unk> <unk> list <unk> flights <unk> airline_name from fromloc.city_name to toloc.state_code <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name leaving between arrive_time.start_time and arrive_time.end_time 
+<unk> economy flights <unk> <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> show <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> show <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name depart_date.today_relative 
+<unk> <unk> flight code <unk> <unk> 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_time <unk> <unk> aircraft_code from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.state_code to toloc.state_name 
+<unk> <unk> airline_name flights leave from fromloc.city_name 
+show <unk> flight_time <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> <unk> <unk> depart_date.day_name depart_time.period_of_day <unk> depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.airport_code 
+<unk> <unk> flights go from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> show <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+find <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> layover <unk> stoploc.city_name <unk> airline_name 
+<unk> flights <unk> <unk> between fromloc.city_name and toloc.city_name arriving <unk> toloc.city_name at depart_time.time 
+show <unk> <unk> airlines between fromloc.city_name and toloc.city_name 
+<unk> flights <unk> <unk> <unk> between fromloc.city_name and toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> information <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name round_trip 
+show <unk> <unk> flight_mod flights from fromloc.city_name fromloc.state_code to toloc.city_name and list <unk> fares 
+round_trip flights between fromloc.city_name and toloc.city_name 
+show <unk> <unk> round_trip flight from fromloc.city_name to toloc.city_name <unk> <unk> cost_relative fare 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name <unk> airline_name 
+<unk> <unk> to make <unk> flight_mod between fromloc.city_name and toloc.city_name <unk> airline_name fly between <unk> mod 
+<unk> <unk> <unk> flight_mod airline_name flight leaving fromloc.city_name and returning to toloc.city_name 
+<unk> flights <unk> airline_name <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> fly from fromloc.city_name to toloc.city_name toloc.city_name 
+<unk> <unk> airport_code 
+flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> to leave depart_time.time_relative depart_time.time <unk> <unk> depart_time.period_of_day 
+show <unk> fares from fromloc.city_name to toloc.city_name 
+flights from fromloc.city_name to toloc.city_name 
+<unk> show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day serving meal_description 
+flights from fromloc.city_name depart_date.month_name <unk> 
+<unk> airline_name fly from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> <unk> <unk> stoploc.city_name 
+<unk> <unk> to <unk> <unk> <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> cost_relative round_trip flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight depart_time.time_relative depart_time.time from fromloc.city_name <unk> toloc.city_name 
+<unk> <unk> airline_name flights leave from fromloc.city_name 
+<unk> list <unk> <unk> <unk> <unk> airline_name flights <unk> flight from fromloc.city_name to toloc.city_name 
+from fromloc.city_name to toloc.city_name 
+<unk> <unk> interested <unk> <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> airplane types fly from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> fare_basis_code code 
+<unk> <unk> <unk> <unk> flight_mod depart_time.period_of_day flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> depart_date.day_number <unk> <unk> aircraft_code 
+<unk> <unk> <unk> <unk> listing <unk> flights from fromloc.city_name to toloc.city_name toloc.state_name <unk> depart_date.day_name 
+<unk> flights leave from fromloc.city_name to toloc.city_name <unk> airline_name 
+show <unk> <unk> round_trip from fromloc.city_name to toloc.city_name leaving <unk> depart_date.day_name 
+list <unk> flight_stop flights <unk> arrive_date.day_name from fromloc.city_name to toloc.city_name 
+list <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> round_trip fares <unk> flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time <unk> airline_name 
+<unk> <unk> to <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_number 
+<unk> <unk> airport_code 
+<unk> type <unk> ground transportation <unk> <unk> between <unk> airport and downtown toloc.city_name 
+<unk> <unk> airline_name flight flight_number from fromloc.city_name to toloc.city_name <unk> flight_stop flight 
+give <unk> <unk> flights from fromloc.city_name fromloc.state_code to toloc.city_name <unk> depart_date.month_name <unk> 
+show <unk> connect flights from fromloc.city_name to toloc.city_name 
+list flight_days flights from fromloc.city_name to toloc.city_name <unk> airline_code 
+<unk> <unk> <unk> <unk> cost_relative airfare flight <unk> depart_date.day_name to toloc.city_name from fromloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name leaving <unk> <unk> depart_time.period_of_day <unk> depart_date.day_name 
+<unk> <unk> give <unk> <unk> depart_time.period_of_day flight <unk> depart_date.day_name from fromloc.city_name to toloc.city_name <unk> 
+<unk> <unk> <unk> to book <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> 
+<unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights connect <unk> from fromloc.city_name to toloc.city_name <unk> toloc.city_name <unk> arrive arrive_time.time_relative arrive_time.time depart_time.time_relative depart_time.time 
+class_type round_trip airfare from fromloc.city_name to toloc.city_name 
+flights from fromloc.city_name to toloc.city_name <unk> airline_name 
+list <unk> flights <unk> airline_name leaving fromloc.city_name <unk> depart_date.day_name depart_time.time_relative depart_time.time 
+show <unk> <unk> flights from fromloc.city_name 
+show <unk> <unk> airline_name flights from fromloc.city_name 
+<unk> <unk> <unk> fares from fromloc.city_name to toloc.city_name depart_date.day_name and depart_date.day_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> show <unk> round_trip tickets from fromloc.city_name to toloc.city_name 
+list <unk> flights <unk> airline_name from fromloc.city_name to toloc.city_name <unk> fare code fare_basis_code 
+<unk> <unk> flights <unk> airline_code <unk> <unk> class_type 
+list <unk> flights going from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time <unk> depart_date.day_name and depart_time.time_relative depart_time.time <unk> depart_date.day_name 
+show <unk> <unk> flights to toloc.airport_name 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time <unk> <unk> arrive_time.period_of_day 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> give <unk> flights leaving fromloc.city_name and going to toloc.city_name 
+<unk> <unk> <unk> <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+flight leaving from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights <unk> airline_name from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+list <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> flight_stop 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+show <unk> flights leaving from fromloc.city_name fromloc.state_name to toloc.city_name toloc.state_name <unk> depart_date.day_name depart_time.time_relative depart_time.time 
+<unk> <unk> flight information between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> depart_date.day_number <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> airline_name <unk> class service from fromloc.city_name to toloc.city_name 
+find <unk> cost_relative flight from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+<unk> <unk> <unk> cost_relative round_trip fares from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name stopping <unk> stoploc.city_name 
+flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> <unk> round_trip fare from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights <unk> toloc.airport_name 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> stoploc.city_name 
+information <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> airline_name fly from fromloc.city_name to toloc.city_name 
+<unk> <unk> to travel from fromloc.city_name to toloc.city_name round_trip leaving depart_date.day_name depart_date.month_name depart_date.day_number arriving <unk> toloc.city_name at arrive_time.time_relative arrive_time.time <unk> <unk> arrive_time.period_of_day and return <unk> <unk> day arriving <unk> toloc.city_name at arrive_time.time_relative arrive_time.time <unk> <unk> arrive_time.period_of_day <unk> airlines fly <unk> depart_date.day_number 
+<unk> <unk> <unk> <unk> flight_time <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+show <unk> ground transportation <unk> city_name <unk> 
+<unk> <unk> <unk> flight_stop flights leaving from fromloc.city_name arriving <unk> toloc.city_name <unk> arrive_date.month_name arrive_date.day_number 
+<unk> <unk> <unk> airline_code depart_time.time cost 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> airline_name 
+
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+show <unk> flights from <unk> airports to toloc.airport_name 
+list <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name class_type <unk> airline_name arriving <unk> arrive_date.day_number arrive_time.time_relative arrive_time.time 
+<unk> airlines <unk> depart_date.day_number <unk> <unk> depart_date.day_number 
+<unk> flight between fromloc.city_name and toloc.city_name <unk> depart_date.month_name depart_date.day_number <unk> <unk> mod seating capacity 
+list <unk> airline_name flights from fromloc.city_name to toloc.city_name <unk> arrive <unk> toloc.city_name between arrive_time.start_time and arrive_time.end_time 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> ground transportation from fromloc.airport_name to <unk> downtown depart_date.day_number 
+flight_mod depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> airline <unk> 
+<unk> <unk> cost_relative round_trip fare from fromloc.city_name to toloc.city_name 
+find <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> <unk> week 
+display <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+economy fares fromloc.city_name to toloc.city_name round_trip 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> to toloc.city_name and return 
+<unk> <unk> to book <unk> flight from fromloc.city_name to toloc.city_name class_type depart_date.day_number fare 
+show <unk> flights to toloc.city_name from fromloc.city_name and fromloc.city_name and fromloc.city_name 
+<unk> <unk> flight_mod from fromloc.airport_name to <unk> city 
+<unk> <unk> <unk> to <unk> <unk> flight from fromloc.city_name to toloc.city_name departing depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> cost_relative fare <unk> <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name arrive toloc.city_name <unk> arrive_time.time 
+airline_name <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> find <unk> <unk> cost_relative round_trip fare from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+return from fromloc.city_name to toloc.city_name <unk> airline_name <unk> depart_date.day_name 
+show <unk> ground transportation <unk> city_name 
+<unk> give <unk> <unk> flight_mod flight depart_date.today_relative from fromloc.city_name to toloc.city_name 
+<unk> <unk> ground transportation <unk> city_name <unk> show <unk> <unk> <unk> 
+<unk> fare code fare_basis_code 
+<unk> cost_relative flights from fromloc.city_name to toloc.city_name <unk> arrive arrive_time.time_relative arrive_time.time <unk> <unk> arrive_date.day_name 
+<unk> <unk> <unk> arrive_time.period_of_day airline_name flight between fromloc.city_name and toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+show <unk> <unk> flights <unk> direct and connecting from fromloc.city_name to <unk> toloc.city_name <unk> toloc.city_name <unk> depart depart_time.time_relative depart_time.time 
+give <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> <unk> <unk> flight_mod flight <unk> <unk> leaves between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> leaves depart_time.period_mod depart_date.day_name depart_time.period_of_day 
+<unk> class_type flights <unk> <unk> from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number depart_date.year 
+show <unk> <unk> airlines from fromloc.airport_name 
+<unk> <unk> cost_relative round_trip ticket from fromloc.city_name to toloc.city_name 
+<unk> class_type flight <unk> airline_name to toloc.city_name <unk> depart_date.day_name <unk> <unk> <unk> week 
+<unk> airlines fly between fromloc.city_name and toloc.city_name and stop <unk> stoploc.city_name 
+flight_mod <unk> flights from fromloc.city_name to toloc.city_name <unk> arrive <unk> <unk> arrive_date.day_name 
+flights <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+flights from fromloc.city_name depart_date.month_name depart_date.day_number 
+<unk> <unk> stops <unk> airline_name depart_time.time from fromloc.city_name to toloc.city_name 
+<unk> flight airline_name depart_time.time from fromloc.city_name to toloc.city_name <unk> flight_time and <unk> city <unk> <unk> plane stop <unk> between 
+
+<unk> <unk> <unk> round_trip ticket from fromloc.city_name to toloc.city_name 
+find <unk> <unk> flight_mod flight leaving fromloc.city_name depart_date.month_name depart_date.day_number and arriving <unk> toloc.city_name 
+<unk> <unk> cost_relative round_trip fare from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name toloc.state_code 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> arrives <unk> toloc.city_name arrive_date.day_name arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+depart_date.day_name flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name leaving at depart_time.time 
+<unk> <unk> mod plane <unk> flies from fromloc.city_name to toloc.city_name <unk> depart_date.day_number depart_date.day_number 
+give <unk> <unk> flights <unk> depart_date.month_name depart_date.day_number <unk> <unk> fares from fromloc.city_name to toloc.city_name 
+show <unk> <unk> <unk> airline_name flights leaving fromloc.city_name between depart_time.start_time and depart_time.end_time <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> flight_mod from fromloc.city_name to toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.airport_code 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+show <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> airline_name flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> cost_relative round_trip flights from fromloc.city_name to toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name toloc.state_code depart_time.time_relative depart_time.time <unk> depart_date.month_name depart_date.day_number economy 
+<unk> <unk> ground transportation <unk> city_name 
+list airline_name flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> cost_relative <unk> to fly from fromloc.city_name to toloc.city_name 
+fromloc.city_name to toloc.city_name <unk> flight_stop <unk> stoploc.city_name <unk> 
+<unk> <unk> <unk> to fly airline_name from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_mod arrive_time.time <unk> <unk> <unk> <unk> <unk> 
+<unk> <unk> flight_mod restriction_code <unk> 
+<unk> <unk> <unk> flight_mod flights <unk> <unk> <unk> <unk> from fromloc.city_name to toloc.city_name 
+list flights from fromloc.city_name to toloc.city_name <unk> stoploc.city_name 
+<unk> <unk> <unk> <unk> airline_name flight flight_number from fromloc.city_name to toloc.city_name cost 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> show <unk> <unk> depart_date.day_name depart_time.period_of_day 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name <unk> <unk> round_trip fare <unk> <unk> fare_amount 
+flight_stop flights from fromloc.city_name to toloc.city_name 
+give <unk> <unk> flights and fares <unk> depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> <unk> depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name <unk> depart_date.day_number <unk> <unk> 
+<unk> <unk> ground transportation <unk> at city_name 
+list flight_days flights from fromloc.city_name to toloc.city_name <unk> airline_name 
+<unk> <unk> <unk> mod depart_date.day_number <unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> to toloc.city_name 
+<unk> <unk> flights <unk> <unk> airline <unk> <unk> class_type service 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> depart_date.day_number served 
+show flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name <unk> depart_date.day_number <unk> depart_date.day_name <unk> depart_date.day_number 
+<unk> <unk> <unk> flights <unk> between depart_time.start_time and depart_time.end_time between fromloc.city_name and toloc.city_name 
+list <unk> flights from fromloc.city_name to toloc.city_name 
+airline code <unk> 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+
+<unk> <unk> <unk> <unk> list <unk> flights going from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_number <unk> depart_date.month_name 
+<unk> <unk> <unk> <unk> <unk> cost_relative fare from fromloc.city_name to toloc.city_name <unk> depart_date.day_number <unk> depart_date.month_name 
+<unk> airline_name flight flies from fromloc.city_name to toloc.city_name and makes <unk> stopover <unk> stoploc.city_name 
+<unk> <unk> <unk> flight_mod flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> <unk> <unk> to <unk> from <unk> airport <unk> fromloc.city_name to downtown 
+<unk> <unk> airport_code 
+<unk> show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> cost <unk> flight airline_code depart_time.time from fromloc.city_name to toloc.city_name 
+<unk> flight_stop <unk> airline_code depart_time.time make from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> cost_relative round_trip flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+airline_name flights to toloc.city_name <unk> 
+
+<unk> <unk> <unk> costs <unk> transport_type <unk> toloc.city_name 
+<unk> airlines fly from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> <unk> flights go from fromloc.city_name to toloc.city_name and make <unk> stop <unk> stoploc.city_name 
+<unk> <unk> <unk> cost_relative round_trip fare between fromloc.city_name and toloc.city_name 
+show <unk> ground transportation information <unk> city_name 
+<unk> flights and fares from fromloc.city_name to toloc.city_name round_trip depart_time.time_relative depart_time.time <unk> <unk> fare_amount 
+<unk> <unk> <unk> fare from fromloc.city_name to toloc.city_name <unk> airline_name 
+show <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> <unk> airline_name flights leaving fromloc.city_name between depart_time.start_time and depart_time.end_time <unk> <unk> depart_time.period_of_day 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name leaving <unk> depart_date.day_name depart_date.month_name <unk> 
+<unk> airline_name flights <unk> stopovers <unk> stoploc.city_name 
+show flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+show <unk> <unk> <unk> airline_code flights from fromloc.city_name to toloc.city_name <unk> arrive arrive_time.time_relative arrive_time.time 
+show <unk> <unk> connect flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to find <unk> cost_relative flight from fromloc.city_name to toloc.city_name 
+show <unk> round_trip fares from fromloc.city_name to toloc.city_name 
+<unk> <unk> to go from fromloc.city_name to toloc.city_name round_trip and make <unk> stop at stoploc.city_name <unk> <unk> <unk> 
+<unk> <unk> <unk> <unk> airline <unk> <unk> <unk> flight_mod from fromloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> round_trip fares from fromloc.city_name to toloc.city_name 
+flight_mod <unk> flight_mod restriction_code 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> airline_name fares <unk> <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+list <unk> round_trip fare from fromloc.city_name to toloc.city_name flights 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> show <unk> <unk> cost_relative round_trip flights between fromloc.city_name and toloc.city_name 
+
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> leaves depart_time.time_relative depart_time.time 
+<unk> flights from fromloc.city_name arrive <unk> toloc.city_name arrive_time.time_relative arrive_time.time 
+<unk> show <unk> ground transportation <unk> city_name 
+
+<unk> <unk> <unk> class_type fare between fromloc.city_name and toloc.city_name <unk> airline_name 
+list flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day <unk> depart_date.month_name depart_date.day_number 
+
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name depart_time.period_mod <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+and flight from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.period_of_day 
+<unk> <unk> <unk> abbreviation airline_code <unk> 
+<unk> <unk> <unk> <unk> list <unk> flights <unk> class_type <unk> depart_date.day_name from fromloc.city_name to toloc.city_name depart_time.time_relative at depart_time.time and <unk> 
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name arriving arrive_time.time_relative arrive_time.time 
+list flight_days flights from fromloc.city_name to toloc.city_name <unk> airline_code 
+<unk> <unk> give <unk> <unk> flight_time <unk> flights <unk> airline_name and airline_name to toloc.airport_code <unk> depart_date.month_name depart_date.day_number 
+show <unk> class_type flights from fromloc.city_name to toloc.city_name leaving <unk> <unk> depart_date.day_name 
+<unk> show <unk> airfare <unk> flight <unk> fare_amount from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> airline_name flight from fromloc.city_name to toloc.city_name <unk> stops <unk> stoploc.city_name 
+<unk> list <unk> airline_name flights between fromloc.city_name and toloc.city_name 
+find <unk> cost_relative round_trip fare from fromloc.city_name to toloc.city_name 
+give <unk> depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
+<unk> give <unk> round_trip fares from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> information <unk> ground transportation <unk> <unk> city <unk> city_name from airport to downtown 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name leaving <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> price <unk> airline_name flight flight_number from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> information <unk> flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time depart_date.day_name depart_time.period_of_day 
+<unk> flights go from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> fare code fare_basis_code and <unk> <unk> <unk> fare code fare_basis_code 
+<unk> <unk> <unk> <unk> airline_name flight from fromloc.city_name to toloc.city_name 
+
+show <unk> <unk> flights from fromloc.airport_name to <unk> airports 
+show <unk> <unk> class_type fares from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> stop <unk> stoploc.city_name 
+depart_date.day_name <unk> depart_date.day_name flights between fromloc.city_name and toloc.city_name airline_name 
+list <unk> cost_relative round_trip flight from fromloc.city_name fromloc.state_name to toloc.city_name toloc.state_name 
+flights from fromloc.city_name depart_date.month_name <unk> 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> stoploc.city_name 
+list <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+city_name airports 
+show <unk> <unk> airline_name flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> depart_date.year 
+<unk> <unk> <unk> flight_mod flight departing fromloc.city_name and arriving <unk> toloc.city_name <unk> arrive_date.month_name arrive_date.day_number 
+from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> airlines fly from fromloc.city_name to toloc.city_name toloc.state_code <unk> stopover <unk> <unk> <unk> city 
+<unk> list <unk> airline flights between fromloc.city_name and toloc.city_name 
+<unk> <unk> interested <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> flight <unk> <unk> airline_name and leave <unk> <unk> depart_time.period_of_day <unk> <unk> to <unk> <unk> aircraft and flight number 
+flights from fromloc.city_name to toloc.city_name 
+list flights from fromloc.city_name to toloc.city_name <unk> serve <unk> meal_description 
+<unk> <unk> airlines <unk> flights <unk> service class fare_basis_code 
+<unk> <unk> <unk> give <unk> <unk> round_trip fare from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> flight from fromloc.city_name fromloc.state_name to toloc.city_name toloc.state_name leaving <unk> depart_date.day_name 
+give <unk> <unk> list <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> fromloc.city_name to toloc.city_name <unk> fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> ground transportation <unk> toloc.airport_name 
+<unk> <unk> airline_name flights <unk> <unk> from fromloc.city_name <unk> 
+
+show <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> go from <unk> fromloc.airport_name to downtown toloc.city_name 
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> <unk> <unk> stoploc.city_name 
+give <unk> fares from fromloc.city_name to toloc.city_name 
+fromloc.city_name to toloc.city_name 
+give <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flight <unk> flight_mod from fromloc.city_name 
+flights from fromloc.city_name to toloc.city_name and price 
+<unk> depart_date.day_name <unk> flights leave fromloc.city_name to toloc.city_name toloc.state_name and leave depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> cost_relative fare from fromloc.city_name to toloc.city_name <unk> flight airline_name depart_time.start_time and airline_name depart_time.time 
+list flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> flights go from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+show flights from fromloc.city_name to toloc.city_name <unk> arrive arrive_time.time_relative arrive_time.time 
+find <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> <unk> week 
+<unk> <unk> <unk> airfare between fromloc.city_name and toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> leave <unk> depart_date.day_name depart_time.period_of_day 
+show <unk> flights from fromloc.city_name to toloc.city_name toloc.city_name and toloc.city_name 
+round_trip 
+list <unk> flights <unk> depart_date.day_name from fromloc.city_name to toloc.city_name flight_stop 
+<unk> <unk> airports <unk> city_name <unk> 
+<unk> <unk> give <unk> <unk> list <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> give <unk> <unk> list <unk> flights leaving fromloc.city_name going to toloc.city_name 
+flight_mod leaving fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time <unk> type <unk> aircraft <unk> <unk> 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name leaving <unk> depart_date.day_name depart_date.month_name depart_date.day_number 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name round_trip <unk> <unk> fare_amount 
+<unk> flights return from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights and fares from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+<unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> <unk> <unk> <unk> serving <unk> meal 
+<unk> type <unk> aircraft flies from fromloc.city_name to toloc.city_name 
+show <unk> <unk> cost_relative round_trip tickets from fromloc.city_name to toloc.city_name 
+give <unk> depart_date.day_name flight_stop flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> airline_name leaving at depart_time.time <unk> type <unk> aircraft <unk> <unk> 
+<unk> <unk> <unk> depart_time.period_of_day flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> at fromloc.city_name to toloc.city_name <unk> 
+<unk> <unk> <unk> prices <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> kind <unk> airplane <unk> flight airline_code depart_time.time from fromloc.city_name to toloc.city_name 
+<unk> <unk> class_type flights <unk> airline_name <unk> depart_date.today_relative 
+<unk> <unk> airline_code stand <unk> 
+<unk> <unk> go from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+<unk> <unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> <unk> cost_relative fare 
+show <unk> <unk> flight_mod flight to toloc.airport_name 
+<unk> type <unk> plane <unk> <unk> aircraft_code 
+<unk> <unk> <unk> flight_mod flight <unk> <unk> <unk> <unk> from fromloc.city_name to toloc.city_name 
+list <unk> flight_stop flights <unk> arrive_date.day_name arrive_date.month_name <unk> from fromloc.city_name to toloc.city_name arriving <unk> toloc.city_name between arrive_time.start_time and arrive_time.end_time 
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day and from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> fare code fare_basis_code 
+show <unk> ground transportation <unk> city_name 
+<unk> <unk> <unk> <unk> flights <unk> airline_name <unk> and <unk> <unk> toloc.city_name 
+show <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> <unk> <unk> <unk> cost_relative fare <unk> 
+<unk> <unk> <unk> <unk> <unk> cost_relative round_trip fare from fromloc.city_name to toloc.city_name 
+<unk> <unk> ground transportation from <unk> airport to downtown toloc.city_name 
+<unk> <unk> airport_name <unk> ground transportation to and from downtown 
+give <unk> <unk> flights from fromloc.city_name to toloc.city_name leaving depart_date.day_name depart_time.period_of_day 
+
+<unk> flight <unk> airline_name leaving fromloc.city_name and going to toloc.city_name 
+show <unk> <unk> meal <unk> flights from fromloc.city_name to toloc.city_name 
+depart_date.day_name flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> to find <unk> cost_relative flight from fromloc.city_name to toloc.city_name 
+show <unk> flights arriving <unk> toloc.city_name from fromloc.city_name between arrive_time.start_time and arrive_time.end_time 
+<unk> <unk> <unk> flight airline_name fromloc.city_name to toloc.city_name 
+<unk> <unk> list <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> flight_stop flights from fromloc.city_name to toloc.city_name 
+show flights between fromloc.city_name and toloc.city_name 
+show <unk> <unk> flights between fromloc.city_name and toloc.city_name fromloc.city_name and toloc.city_name fromloc.city_name and toloc.city_name 
+ground transportation city_name 
+show <unk> <unk> flight_days flights between fromloc.city_name and toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+<unk> flights leave fromloc.city_name <unk> toloc.city_name and depart depart_time.time_relative depart_time.time <unk> airline_name 
+airlines <unk> fly to toloc.city_name from fromloc.city_name <unk> depart_date.day_name 
+<unk> flights leave fromloc.city_name <unk> depart_date.day_name <unk> airline_name depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> serves meal_description 
+<unk> <unk> <unk> <unk> going from fromloc.city_name to toloc.city_name serving meal_description 
+<unk> <unk> to <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> flights <unk> <unk> <unk> fare_basis_code from fromloc.city_name to toloc.city_name 
+<unk> <unk> ground transportation from <unk> fromloc.airport_name to <unk> downtown depart_date.day_number 
+flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to go between fromloc.city_name and toloc.city_name 
+show flight_mod from fromloc.city_name <unk> airline_name 
+show <unk> <unk> flights <unk> from fromloc.city_name to toloc.city_name depart_date.month_name <unk> 
+show <unk> fares from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> list <unk> flight_time from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> downtown from <unk> airport <unk> fromloc.city_name 
+<unk> flights from <unk> city depart_date.day_number at toloc.airport_name 
+show <unk> ground transportation information <unk> city_name 
+<unk> <unk> find <unk> <unk> cost_relative fare from fromloc.city_name to toloc.city_name 
+<unk> list information <unk> airport_name 
+show <unk> flights between fromloc.city_name and toloc.city_name <unk> depart_date.day_name <unk> depart_date.day_name airline_name 
+<unk> <unk> <unk> class_type flight from fromloc.city_name to toloc.city_name <unk> depart_date.month_name <unk> 
+<unk> <unk> <unk> <unk> <unk> toloc.airport_name 
+
+show <unk> <unk> flights arriving arrive_time.time_relative arrive_time.time <unk> toloc.city_name from fromloc.city_name 
+<unk> depart_date.day_name <unk> <unk> to find <unk> flight from fromloc.city_name to toloc.city_name <unk> arrives arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> flight depart_date.today_relative from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+list <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> <unk> layover <unk> stoploc.city_name 
+<unk> <unk> <unk> <unk> flight leaving fromloc.city_name and arriving <unk> toloc.city_name arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> information <unk> flights from fromloc.city_name to toloc.city_name toloc.state_code give <unk> information <unk> flights depart_time.time_relative depart_time.time <unk> depart_date.day_name 
+show ground transportation <unk> city_name 
+<unk> <unk> <unk> flight_mod flight <unk> <unk> depart_time.period_of_day from fromloc.city_name to toloc.city_name 
+depart_time.period_of_day flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flights from fromloc.city_name to toloc.city_name 
+show depart_time.period_of_day flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> class_type and class_type fares <unk> flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> leave depart_time.time_relative depart_time.time 
+find <unk> <unk> cost_relative round_trip fare <unk> <unk> <unk> from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> list <unk> flight_time from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight between fromloc.city_name fromloc.state_code and toloc.city_name <unk> airline_name at depart_time.time 
+show <unk> <unk> flights from fromloc.city_name <unk> leave depart_date.today_relative and arrive <unk> toloc.city_name 
+<unk> <unk> depart_date.day_number <unk> <unk> aircraft_code 
+<unk> <unk> fare_basis_code <unk> fare code <unk> 
+<unk> <unk> flights departing fromloc.city_name arriving toloc.city_name 
+<unk> flights leave depart_time.time_relative depart_time.time from fromloc.city_name to toloc.city_name 
+show flights from fromloc.city_name to toloc.city_name 
+<unk> flights leave fromloc.city_name and arrive <unk> toloc.city_name arrive_time.time_relative arrive_time.time <unk> arrive_date.day_name 
+<unk> <unk> <unk> cost to fly from fromloc.city_name to toloc.city_name <unk> airline_name 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> transport_type service <unk> at toloc.airport_name 
+<unk> <unk> <unk> depart_time.period_of_day flights <unk> <unk> <unk> mod depart_date.day_number from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight leaving fromloc.city_name going to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> arrive_date.day_name arrive_date.month_name <unk> 
+<unk> airline_name fly from fromloc.city_name to toloc.city_name 
+<unk> list <unk> flight_time from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> <unk> <unk> to find <unk> flight <unk> goes from fromloc.city_name to toloc.city_name <unk> <unk> <unk> <unk> to <unk> <unk> stop <unk> stoploc.city_name and <unk> <unk> <unk> <unk> flight <unk> serves meal_description 
+<unk> <unk> <unk> cost_relative round_trip fares from fromloc.city_name to toloc.city_name 
+<unk> and <unk> from fromloc.city_name <unk> <unk> to travel to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> flights go from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time <unk> depart_date.day_name 
+<unk> <unk> <unk> <unk> cost to <unk> downtown from <unk> airport_name <unk> transport_type 
+<unk> <unk> <unk> to fly from fromloc.city_name to toloc.city_name 
+show <unk> <unk> airfare from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights <unk> depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name 
+<unk> <unk> airline_code 
+show <unk> <unk> type <unk> aircraft <unk> airline_code <unk> 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+<unk> type <unk> aircraft <unk> airline_name fly from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time 
+<unk> <unk> list <unk> flights from fromloc.city_name to toloc.city_name 
+display <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> cost_relative class_type tickets between fromloc.city_name and toloc.city_name 
+
+show <unk> <unk> <unk> flights to toloc.city_name depart_time.time_relative depart_time.time 
+<unk> airlines go from fromloc.city_name to toloc.city_name 
+<unk> <unk> fare code fare_basis_code <unk> 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> abbreviation <unk> <unk> 
+<unk> <unk> list <unk> flights between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> air depart_date.day_number <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> airfare <unk> fare_amount 
+<unk> flight_stop flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> depart_time.period_of_day flight from fromloc.city_name <unk> toloc.city_name <unk> arrive_date.month_name <unk> <unk> airline_name 
+<unk> <unk> <unk> cost <unk> <unk> round_trip from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+give <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> list <unk> flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time 
+<unk> flights <unk> <unk> between fromloc.city_name and toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> type <unk> aircraft leaving depart_time.time_relative depart_time.time from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> flight_stop 
+<unk> <unk> <unk> to find <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name and <unk> <unk> to <unk> <unk> toloc.city_name <unk> arrive_time.time <unk> <unk> <unk> <unk> flight <unk> <unk> <unk> depart_time.time_relative depart_time.time 
+<unk> <unk> information <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> <unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> ground transportation services <unk> toloc.city_name 
+give <unk> flights from fromloc.city_name to toloc.city_name <unk> airline_name <unk> offer class_type 
+<unk> airline_name <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> flights and fares from fromloc.city_name to toloc.city_name round_trip depart_time.time_relative depart_time.time <unk> <unk> fare_amount 
+list flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> list <unk> <unk> round_trip flights between fromloc.city_name and toloc.city_name <unk> <unk> depart_date.day_number <unk> <unk> depart_date.day_number <unk> depart_date.month_name 
+<unk> <unk> <unk> return flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name toloc.city_name 
+<unk> flights from fromloc.city_name to toloc.city_name 
+<unk> list <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name and depart_date.day_name 
+<unk> <unk> <unk> flight_mod flight between fromloc.city_name and toloc.city_name 
+flight_mod <unk> flight_mod restriction_code 
+<unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> and <unk> <unk> <unk> meal <unk> <unk> 
+<unk> <unk> <unk> flights <unk> depart_date.month_name <unk> depart_date.year from fromloc.city_name to toloc.city_name 
+<unk> depart_date.month_name depart_date.day_number <unk> flights <unk> <unk> between fromloc.city_name and toloc.city_name 
+list flight_stop flights <unk> arrive_date.day_name from fromloc.city_name to toloc.city_name and list flight_stop flights <unk> arrive_date.day_name from fromloc.city_name to toloc.city_name 
+show <unk> <unk> list <unk> flights from fromloc.city_name to toloc.city_name <unk> airline_name and airline_name 
+<unk> <unk> <unk> stand <unk> 
+<unk> <unk> show <unk> <unk> flight_mod flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> airline_name class_type flights 
+<unk> <unk> airline_code 
+<unk> <unk> <unk> price <unk> <unk> class_type ticket from fromloc.city_name to toloc.city_name round_trip 
+find <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> to find <unk> flight number from <unk> flight from fromloc.city_name to toloc.city_name <unk> airline_name and <unk> arrives arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> costs <unk> flights from fromloc.city_name to toloc.city_name depart_date.today_relative 
+<unk> flights go from fromloc.city_name to toloc.city_name <unk> stoploc.city_name 
+<unk> <unk> cost_relative round_trip fare between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> flights between fromloc.city_name and toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> to leave fromloc.city_name at depart_time.time 
+flight_mod give <unk> <unk> type <unk> aircraft <unk> to fly from fromloc.city_name to toloc.city_name 
+<unk> <unk> show <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> ground transportation from fromloc.airport_name to downtown toloc.city_name 
+<unk> <unk> <unk> transport_type <unk> transport_type services <unk> at <unk> toloc.airport_name 
+<unk> airline_name flight flight_number flying from fromloc.city_name to toloc.city_name <unk> <unk> <unk> <unk> <unk> type <unk> aircraft <unk> <unk> <unk> <unk> flight <unk> <unk> leaves at depart_time.time 
+<unk> <unk> <unk> <unk> from <unk> airport to downtown <unk> toloc.city_name 
+depart_date.day_name depart_time.period_of_day flights between fromloc.city_name and toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> leave fromloc.city_name depart_time.time_relative depart_time.time depart_date.today_relative 
+round_trip fares from fromloc.city_name to toloc.city_name <unk> <unk> fare_amount 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> flight_days airline_name flights <unk> <unk> between fromloc.city_name and toloc.city_name 
+show <unk> <unk> <unk> airline_name flights from fromloc.city_name to toloc.city_name <unk> leave at depart_time.time 
+
+<unk> <unk> cost_relative <unk> to fly between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> fares <unk> flights from fromloc.city_name to toloc.city_name leaving depart_date.day_name depart_time.period_of_day 
+give <unk> <unk> list <unk> flights <unk> airline_name between fromloc.city_name and toloc.city_name 
+<unk> <unk> <unk> ground transportation from fromloc.city_name airport to downtown 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> arrive_time.time 
+<unk> flights <unk> <unk> from fromloc.city_name to toloc.airport_name 
+depart_time.period_of_day flight from fromloc.city_name to toloc.city_name 
+show <unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights <unk> airline_code to toloc.city_name <unk> <unk> depart_time.period_of_day 
+<unk> <unk> <unk> flights to toloc.city_name depart_time.time_relative at <unk> <unk> depart_date.day_number 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> arrive arrive_time.time_relative arrive_time.time 
+<unk> <unk> <unk> <unk> class_type ticket from fromloc.city_name to toloc.city_name 
+<unk> give <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to fly flight_stop from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight leaving fromloc.city_name <unk> depart_date.month_name <unk> to toloc.city_name <unk> depart_date.month_name <unk> 
+<unk> <unk> <unk> flight depart_date.today_relative depart_time.period_of_day from fromloc.city_name to toloc.city_name <unk> meal_description meal_description <unk> depart_date.today_relative 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time 
+<unk> flights go from fromloc.city_name to toloc.city_name <unk> stoploc.city_name 
+<unk> <unk> <unk> <unk> <unk> ground transportation information <unk> <unk> to <unk> from <unk> airport <unk> fromloc.city_name to downtown toloc.city_name 
+show <unk> <unk> flight_mod flight <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> give <unk> <unk> round_trip fare from fromloc.city_name to toloc.city_name 
+show depart_date.day_name flights from fromloc.city_name to toloc.city_name 
+<unk> flights depart from fromloc.city_name and arrive <unk> toloc.city_name toloc.state_name 
+flights from fromloc.city_name to toloc.city_name departing depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+show <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> give <unk> flights from fromloc.city_name to toloc.city_name toloc.state_name depart_date.day_name 
+<unk> flights <unk> <unk> depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name arriving <unk> toloc.city_name <unk> arrive_date.month_name arrive_date.day_number 
+list <unk> depart_time.period_of_day flights at <unk> fare_amount from fromloc.city_name to toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name 
+<unk> <unk> to fly from fromloc.city_name to toloc.city_name and <unk> to toloc.city_name and return to toloc.city_name 
+<unk> <unk> <unk> flight_mod flight <unk> airline_name from fromloc.city_name to toloc.city_name 
+show <unk> flights <unk> from fromloc.city_name to toloc.city_name leaving <unk> depart_date.day_name depart_time.period_of_day 
+<unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+<unk> ground transportation <unk> <unk> <unk> stoploc.city_name 
+<unk> <unk> <unk> flight_mod flight leaving fromloc.city_name returning to toloc.city_name 
+<unk> airline_name fly between fromloc.city_name and toloc.city_name 
+show <unk> flights from fromloc.city_name to toloc.city_name leaving depart_date.month_name depart_date.day_number 
+list <unk> <unk> landings at toloc.airport_name 
+<unk> <unk> class_type flights <unk> airline_name <unk> depart_date.today_relative 
+<unk> <unk> <unk> flight_stop flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name <unk> depart_date.day_number 
+<unk> <unk> <unk> flights <unk> depart from fromloc.city_name fly to toloc.city_name <unk> stoploc.city_name and arrive <unk> arrive_time.time 
+<unk> list <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> <unk> to depart_date.day_number <unk> flight <unk> airline_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> mod airline_name flights <unk> leave from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+<unk> flights <unk> <unk> <unk> from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight_stop flight from fromloc.city_name to toloc.city_name <unk> serves meal_description <unk> <unk> 
+<unk> flight_time <unk> depart_date.day_name <unk> <unk> <unk> <unk> plane from fromloc.city_name to toloc.city_name 
+show <unk> ground transportation <unk> city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name <unk> stop <unk> stoploc.city_name 
+<unk> airlines <unk> class_type 
+<unk> give <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+flight from fromloc.city_name to toloc.city_name 
+list flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> to <unk> <unk> type <unk> plane flies from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time 
+<unk> <unk> <unk> <unk> flight_time <unk> <unk> flights between fromloc.city_name and toloc.city_name 
+find <unk> flight from fromloc.city_name to toloc.city_name <unk> <unk> airline_name 
+<unk> <unk> <unk> cost <unk> <unk> ticket going from fromloc.city_name to toloc.city_name depart_date.month_name depart_date.day_number depart_date.year 
+flight numbers from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+show <unk> class_type airlines from fromloc.city_name to toloc.city_name <unk> <unk> depart_date.day_name class_type <unk> 
+<unk> flights <unk> <unk> <unk> depart_date.day_name from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name toloc.state_code <unk> depart_date.day_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> airline_name <unk> <unk> flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> price <unk> class_type from fromloc.city_name to toloc.city_name <unk> airline_code 
+flights from fromloc.city_name to toloc.city_name <unk> <unk> depart_time.period_of_day 
+airline_name flight flight_number from fromloc.city_name to toloc.city_name leaving at depart_time.time <unk> type <unk> aircraft <unk> <unk> <unk> <unk> flight 
+<unk> <unk> <unk> <unk> flights between fromloc.city_name and toloc.city_name 
+
+<unk> <unk> to fly fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+find <unk> flight from fromloc.city_name to toloc.city_name <unk> depart_date.day_name 
+give <unk> information <unk> flights from fromloc.city_name to toloc.city_name toloc.state_code <unk> depart_date.day_name depart_time.time_relative depart_time.time and depart_date.day_name depart_time.time_relative depart_time.time 
+find <unk> flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time 
+show <unk> <unk> cost_relative fare from fromloc.city_name to toloc.city_name 
+
+give <unk> flights <unk> arrive <unk> toloc.city_name from fromloc.city_name fromloc.city_name and fromloc.city_name 
+<unk> <unk> <unk> to find <unk> flight <unk> goes from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time 
+<unk> airlines fly between fromloc.city_name and toloc.city_name 
+code airline_code 
+<unk> <unk> <unk> flight_mod flight from fromloc.city_name to toloc.city_name <unk> depart_date.month_name depart_date.day_number 
+list <unk> flights from fromloc.city_name to toloc.city_name <unk> airline_name 
+<unk> <unk> <unk> <unk> list <unk> flights from fromloc.city_name to toloc.city_name 
+<unk> depart_date.month_name depart_date.day_number <unk> <unk> depart_date.year depart_date.year <unk> <unk> to fly from fromloc.city_name to toloc.city_name and <unk> <unk> to fly <unk> airline_name 
+<unk> <unk> <unk> <unk> airlines <unk> <unk> stop at stoploc.city_name <unk> <unk> <unk> from fromloc.city_name to toloc.city_name 
+list <unk> flights from fromloc.city_name fromloc.state_name to toloc.city_name <unk> <unk> <unk> cost_relative round_trip 
+list <unk> flight_stop flights <unk> arrive_date.day_name arrive_date.month_name <unk> from fromloc.city_name to toloc.city_name arriving <unk> toloc.city_name between arrive_time.start_time and arrive_time.end_time 
+give <unk> flights from fromloc.city_name to toloc.city_name <unk> depart_date.day_name depart_time.period_of_day 
+fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flight leaving from fromloc.city_name to toloc.city_name 
+<unk> <unk> airline <unk> <unk> depart_time.period_of_day flight from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> <unk> flight from fromloc.city_name to toloc.city_name <unk> <unk> stopover <unk> stoploc.city_name 
+<unk> <unk> to make <unk> trip from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> information <unk> flights leaving fromloc.city_name <unk> <unk> depart_time.period_of_day arriving <unk> toloc.city_name 
+show <unk> <unk> flights from fromloc.city_name to toloc.city_name flight_stop 
+show <unk> <unk> flights <unk> fares from fromloc.city_name to toloc.city_name 
+<unk> <unk> <unk> flights from fromloc.city_name to toloc.city_name 

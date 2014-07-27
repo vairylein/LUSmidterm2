@@ -18,14 +18,11 @@ def lexicons():
 	cl.addwords(LEXADD,"../fst/traincop.lex","../fst/trainco.lex")
 	
 def splitdata():
-	sd.split3(TRAIN,"../splitted/train")
-	sd.split3(TRAINCO,"../splitted/trainco")
-	sd.split3(TRAINCOP,"../splitted/traincop")
+	sd.split4(TRAIN,"../splitted/train")
+	sd.split4(TRAINCO,"../splitted/trainco")
+	sd.split4(TRAINCOP,"../splitted/traincop")
 	sd.split3(TEST,"../splitted/test")
 	sd.split2(DEV,"../splitted/dev")
-	oov.firstunk("../splitted/train.word","../splitted/train.unk")
-	oov.firstunk("../splitted/trainco.word","../splitted/trainco.unk")
-	oov.firstunk("../splitted/traincop.word","../splitted/traincop.unk")	
 
 def createtrans():
 	ct.maketransducer(TRAIN,"../fst/train")

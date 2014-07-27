@@ -9,9 +9,11 @@ mkdir "../run/${folda}/"
 
 dirc="../run/${folda}"
 
+
 train_data="../splitted/train.mix"
 far="${data}.far"
-test_data="../splitted/dev.word"
+test_data="../splitted/test.word"
+
 
 g="${data}.g.fst"
 w2c="${data}.w2c.fst"
@@ -30,31 +32,35 @@ farcompilestrings -u '<unk>' -i $lex $train_data > $far
 echo "here2"
 # 2nd operation G: fsa converting words to classes
 fsmcompile -i $lex -o $lex -t "${data}.g.fsa" > $g
-farfilter "fsmcompose - $g | fsmbestpath | fsmrmepsilon"< $far > "${dirc}/${data}_g.far";
 
 echo "here3"
 # 3rd operation w2c: fsa converting classes to concepts
 fsmcompile -i $lex -o $lex -t "${data}.w2c.fsa" > $w2c
-farfilter "fsmcompose - $w2c | fsmbestpath | fsmrmepsilon"< "${dirc}/${data}_g.far" > "${dirc}/${data}_w2c.far";
 
 echo "here4"
+# 4th operation: make sclm
 grmcount -i $lex -n $ngram -s '<s>' -f '</s>' $far > $count
-grmmake -n $ngram $count > $lm
-grmconvert -i $lex -f '<epsilon>' $lm > $elm
+grmmake -d absolute -n $ngram $count > $lm
+grmconvert -m interpolate -i $lex -f '<epsilon>' $lm > $elm
 
 echo "here5"
-farcompilestrings -u '<unk>' -i $lex $test_data > "${dirc}/dev.far"
-farprintstrings -h -i $lex -o $lex "${dirc}/dev.far" > "${dirc}/dev.txt"
-farfilter "fsmcompose - $g" < "${dirc}/dev.far" > "${dirc}/devA.far"
-farprintstrings -o $lex "${dirc}/devA.far" > "${dirc}/devA.txt"
-farfilter "fsmcompose - $w2c" < "${dirc}/devA.far" > "${dirc}/devB.far"
-farprintstrings -o $lex "${dirc}/devB.far" > "${dirc}/devB.txt"
+#5th operation: compile test set
+farcompilestrings -u '<unk>' -i $lex $test_data > "${dirc}/0.far"
+#farprintstrings -h -i $lex -o $lex "${dirc}/0.far" > "${dirc}/0.txt"
+#farfilter "fsmcompose - $g" < "${dirc}/0.far" > "${dirc}/A.far"
+#farprintstrings -o $lex "${dirc}/A.far" > "${dirc}/A.txt"
+#farfilter "fsmcompose - $w2c" < "${dirc}/A.far" > "${dirc}/B.far"
+#farprintstrings -o $lex "${dirc}/B.far" > "${dirc}/B.txt"
+#farfilter "fsmcompose - $elm" < "${dirc}/B.far" > "${dirc}/C.far"
+#farprintstrings -o $lex "${dirc}/C.far" > "${dirc}/C.txt.steps"
 
 echo "here6"
-farfilter "fsmcompose - $g $w2c $elm | fsmbestpath | fsmrmepsilon" < "${dirc}/dev.far" > "${dirc}/devC.far" 
-farprintstrings -h -i $lex -o $lex "${dirc}/devC.far" > "${dirc}/devC.txt"
-farprintstrings -o $lex "${dirc}/devC.far" > "${dirc}/devC.txt.pure"
+#6th operation test model
+farfilter "fsmcompose - $g $w2c $elm | fsmbestpath | fsmrmepsilon" < "${dirc}/0.far" > "${dirc}/C.far" 
+farprintstrings -h -i $lex -o $lex "${dirc}/C.far" > "${dirc}/C.txt"
+farprintstrings -o $lex "${dirc}/C.far" > "${dirc}/C.txt.pure"
 
 echo "here7"
-cat "${dirc}/devC.txt.pure" | farcompilestrings -u 'null' -i $clex > "${dirc}/devfinal.far"
-farprintstrings -o $clex "${dirc}/devfinal.far" > "${dirc}/devfinal.txt"
+# 7th operation remove nulls
+cat "${dirc}/C.txt.pure" | farcompilestrings -u 'null' -i $clex > "${dirc}/final.far"
+farprintstrings -o $clex "${dirc}/final.far" > "${dirc}/final.txt"

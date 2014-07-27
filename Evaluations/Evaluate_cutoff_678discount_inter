@@ -1,0 +1,48 @@
+FILE: 3gram
+Edit distance of accepted strings 0.565656565657
+Total Edit distance: 0.66
+Number of unaccepted sentences: 1 
+Unaccepted sentences
+8	null null null airline_name null null null fromloc.city_name null toloc.city_name
+
+
+FILE: 4gram
+Edit distance of accepted strings 0.585858585859
+Total Edit distance: 0.68
+Number of unaccepted sentences: 1 
+Unaccepted sentences
+8	null null null airline_name null null null fromloc.city_name null toloc.city_name
+
+
+FILE: 5gram
+Edit distance of accepted strings 0.666666666667
+Total Edit distance: 0.76
+Number of unaccepted sentences: 1 
+Unaccepted sentences
+8	null null null airline_name null null null fromloc.city_name null toloc.city_name
+
+
+FILE: 6gram
+Edit distance of accepted strings 0.666666666667
+Total Edit distance: 0.76
+Number of unaccepted sentences: 1 
+Unaccepted sentences
+8	null null null airline_name null null null fromloc.city_name null toloc.city_name
+
+
+FILE: 7gram
+Edit distance of accepted strings 0.686868686869
+Total Edit distance: 0.78
+Number of unaccepted sentences: 1 
+Unaccepted sentences
+8	null null null airline_name null null null fromloc.city_name null toloc.city_name
+
+
+FILE: 8gram
+Edit distance of accepted strings 0.747474747475
+Total Edit distance: 0.84
+Number of unaccepted sentences: 1 
+Unaccepted sentences
+8	null null null airline_name null null null fromloc.city_name null toloc.city_name
+
+

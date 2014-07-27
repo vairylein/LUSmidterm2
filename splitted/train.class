@@ -1,1000 +1,1001 @@
-i want to fly from city_name at time and arrive in city_name at integer in the period_of_day
-what flights are available from city_name to city_name on day_name period_of_day
-what is the flight_time in city_name for the time flight leaving city_name
-cost_relative airfare from city_name to city_name
-round_trip fares from city_name to city_name under fare_amount
-i need a flight today_relative from city_name to city_name
-what kind of aircraft is used on a flight from city_name to city_name
-show me the flights from city_name to city_name on day_name
-all flights from city_name to city_name
-what kind of ground transportation is available in city_name
-show me the flights from city_name to city_name
-show me the flights from city_name to city_name by way of city_name
-what's the airport at city_name
-what is the cost_relative flight from city_name to airport_code
-all flights to city_name after time
-show me the class_type fares from city_name to city_name
-show me the ground transportation in city_name
-all flights from city_name to city_name leaving after time and before time
-i need information on flights for day_name leaving city_name for city_name city_name to city_name and city_name to city_name
-please give me the flights from city_name to city_name on day_name of next week
-i would like to fly from city_name to city_name on airline_name
-show me the flights from city_name to city_name
-please list all class_type flights on airline_name from city_name to city_name
-what kinds of planes are used by airline_name
-i'd like to have some information on a ticket from city_name to city_name and city_name
-i'd like to book a flight from city_name to city_name
-which airline serves city_name city_name and city_name
-show me all flights from city_name to city_name on day_name of next week which leave city_name after time
-city_name ground transportation
-i also need service from city_name to city_name arriving by time
-show me the cost_relative round_trip fare from city_name to city_name
-show me all flights from city_name to city_name on airline_name departing at time
-flights from city_name to city_name
-please find a flight on airline_name from city_name to city_name and give me the flight numbers
-i need a flight from city_name to city_name
-fares and flights from city_name to city_name
-show me the airlines with class_type flights
-what are the flights from city_name to city_name day_name period_of_day
-i'd like to arrange a flight from city_name to city_name
-show flights from city_name to city_name between time and time on day_name
-how far is it from airport_name to city_name
-i would like a list of round_trip flights between city_name and city_name state_name for the day_number and the day_number of month_name
-which airline has the most arrivals in city_name
-what airlines fly from city_name to city_name to city_name
-city_name to city_name
-which airlines serve city_name
-show me information on ground transportation for city_name
-what is fare code fare_basis_code
-show me all flights from city_name to city_name both direct and connecting that arrive before time
-i need a flight from city_name to city_name leaving today_relative period_of_day
-what are the times that you have planes leaving from city_name going to city_name on month_name day_number
-flights from city_name to city_name
-what flights go from city_name to city_name after time next day_name
-how much does the transport_type service cost RARE city_name
-does airline_name have any flights out of city_name to city_name
-what is booking class fare_basis_code
-i'd like to know the flight_mod trip between city_name and city_name
-i would like to see information for flights from city_name leaving after time to city_name on day_name
-what is the cost_relative flight from city_name to city_name
-i need to know information for flights leaving city_name on day_name period_of_day and returning to city_name
-what flight goes from city_name to city_name class_type on airline_name arriving on month_name day_number
-could you please tell me the airlines that fly from city_name to city_name
-what flights do you have from city_name to city_name city_name
-what is the ground transportation from airport_name to the city RARE
-which airlines have class_type flights today_relative
-find the flight_mod flight from city_name to city_name that serves a meal
-i would like to make a reservation for a flight to city_name from city_name on this coming day_name
-give me a list of airports in city_name
-show me flights from city_name to city_name on day_name
-show me the flights from city_name to city_name
-what does fare code fare_basis_code mean
-please give me the flights from city_name to city_name state_code
-i need information from city_name to city_name
-from city_name to city_name
-what is the flight_mod flight from city_name to airport_code that serves a meal_description
-what types of aircraft does airline_name fly
-what is the cost of a round_trip flight from city_name to city_name RARE on month_name day_number and returning on month_name day_number
-give me the flights leaving city_name month_name day_number coming back to city_name
-list all the flights that fly into airport_name
-what flights fly from city_name to city_name on day_name day_name day_name day_name and day_name
-list all flights from city_name to city_name
-in flight meal city_name to city_name day_name
-show me the flights on airline_code from city_name in the period_of_day
-i want to find the first flight from city_name to city_name that serves a meal
-of all airlines which airline has the most arrivals in city_name
-display all flights from city_name to city_name on month_name day_number
-i want to travel from city_name to city_name early in the period_of_day first flight
-i now need a flight from city_name to city_name leaving on day_name the day_number
-what are the flights available after time between city_name and city_name
-what flights depart city_name on day_name and arrive in city_name by time
-show me flights from city_name to city_name
-list the airline_name flights from city_name to city_name
-show me the fares from city_name to city_name
-what flight_stop flights between city_name and city_name arrive after time
-what is the RARE from airport_name to city_name
-ground transportation in city_name
-please tell me how many flight_stop flights there are from city_name to city_name
-on the flight_mod flight from city_name to city_name on airline_name is a meal RARE served
-where does airline_name fly
-what flights from city_name to city_name arrive before integer in the period_of_day
-find me the flight_mod flight from city_name to city_name
-list flight_stop flights from city_name to city_name which arrive before period_of_day
-show me the flights from city_name to city_name that stop in city_name
-show me flights to city_name from city_name stopping in city_name
-what city is the airport airport_code in
-how much does it cost to rent a transport_type in city_name
-show me flights from city_name to city_name
-show me a list of ground transportation at city_name
-i'd like a flight from city_name to city_name stopping in city_name and serving meal_description what's available
-also show me flights from city_name to city_name on day_name
-show flights from city_name to city_name
-give me the cost_relative flight from city_name to city_name
-show me all flights from city_name to city_name
-find me a flight on airline_name from city_name to city_name with a stopover in city_name
-show me the last flight from airport_name
-what flights go from city_name to city_name after time
-what are all the flights from city_name to city_name
-what is the flight_mod flight departing city_name and arriving in city_name on month_name day_number
-what is the flight_mod flight flying from city_name to city_name on month_name day_number
-please list available flights for next day_name from city_name to city_name
-what flights leave city_name and arrive in city_name after time on day_name
-what is the transportation time from the airport to city_name
-which airline has the smallest plane leaving city_name and arriving in city_name on month_name day_number
-what are the flight_stop flights on airline_name or airline_name air from city_name to city_name on day_name month_name day_number
-what are the classes of service for airline_name
-i would like to find out what flights there are on day_name month_name day_number from city_name to city_name and then from city_name to city_name thank you
-all flights from city_name to city_name state_code on month_name day_number
-what are the flights from city_name to city_name
-on the time flight from city_name to city_name what type of aircraft is used
-which flight is a round_trip fare at fare_amount from city_name to city_name
-what flights leave city_name for city_name after time on day_name
-okay i need to get a flight from city_name to city_name
-please list flights between city_name and city_name
-find me the flights that are flight_stop between city_name and city_name that leave between integer and integer in the period_of_day
-i would like some information on flights leaving city_name to city_name
-show me the flight_mod flight_stop flight from city_name to city_name state_code
-what are the flights from city_name to city_name
-i would like a flight_stop flight from city_name to city_name on month_name second
-RARE i want to go from city_name to city_name
-show me all the period_of_day fares between city_name and city_name
-what kinds of ground transportation is available in city_name
-can you show me economy round_trip fares for flights from city_name to city_name on month_name day_number
-what is fare code fare_basis_code
-i'd like a flight on month_name day_number from city_name to city_name in the period_of_day
-what are the class_type fares from city_name to city_name day_name period_of_day
-is there ground transportation available in city_name
-show me flights from city_name to city_name on day_name
-i would like to know the flights available from city_name to city_name arriving in city_name by time day_name period_of_day
-i would like to fly the cost_relative RARE available from city_name to city_name on day_name period_of_day
-list the flight from city_name to city_name on airline_name
-flights from city_name to city_name on day_name
-what is the first flight from city_name to city_name on day_name month_name day_number that leaves after time
-what is the class_type fare on airline_name flight integer from city_name to city_name
-flight from city_name to city_name arriving before time on day_name
-list flights today_relative from city_name to city_name
-show me all flights from city_name to city_name state_code RARE
-RARE i want to go from city_name to city_name
-show me all the airline_name flights leaving city_name
-can you list all the flights between city_name and city_name
-list all flights from city_name to city_name
-round_trip flights from city_name to city_name class_type economy fare
-i want to fly from city_name to city_name and i RARE want any stopovers and i'd like to fly only during the period_of_day
-flights from city_name to city_name between time and time
-show me the flights from city_name to city_name
-what flights are there on airline_name from city_name to city_name
-what kind of ground transportation can you offer me in city_name
-leaving city_name going to city_name the flight_mod flight
-show me the flights available from city_name to city_name leaving city_name in the period_of_day
-round_trip fares city_name to city_name
-which flights are RARE by airline_name
-how do i get from airport_name to downtown city_name
-does airline_name express serve city_name
-what flights from city_name to city_name on day_name in the period_of_day on airline_name
-what is the flight_mod flight going from city_name to city_name on day_name month_name day_number
-what flights from city_name to city_name on day_name arriving around time
-i need a flight from city_name to city_name that leaves day_name and arrives in city_name around time
-i would like information on any flights from city_name to city_name leaving day_name period_of_day
-i need a cost_relative flight from city_name to city_name
-what is the cost of a class_type ticket from city_name to city_name
-what is the economy class_type fare from city_name to city_name
-list the flight_stop flights early day_name period_of_day from city_name to city_name
-what is the flight_mod flight you have that leaves city_name to city_name
-are there any flights from city_name to city_name leaving before time
-show me all the flights to city_name after time
-i need a return flight from city_name to city_name
-airline_name flights stopping in city_name before time
-show me the transport_type in city_name
-what flights go from city_name to city_name after time in the period_of_day
-flight_mod period_of_day flight from city_name to city_name
-how much time does it take to go between the airport and downtown by ground transportation in city_name
-flights from city_name to city_name
-i'd like to fly airline_name between city_name and city_name
-i would like to book a flight on airline_name from city_name to city_name on month_name first
-all flights from city_name to city_name round_trip after time less than integer
-show me flights on day_name going from city_name to city_name flight_stop class_type leaving after time
-from city_name to city_name
-show me flights from city_name to city_name on day_name period_of_day
-show me the flight with the smallest seating capacity which leaves city_name and arrives in city_name on month_name day_number
-show all flights from city_name to city_name on month_name day_number
-are there any flights before time on month_name day_number from city_name to city_name
-list flight_days flights from city_name to city_name
-on a flight from city_name to city_name that leaves before time is there RARE a flight
-on airline_name give me the flight_time from city_name to city_name
-ground transportation city_name
-show me airline RARE
-how many flights does airline_name have with a class of service code fare_basis_code
-please list all the arriving and departing flights from airport_name
-i would like to see the flights from city_name to city_name please
-does airline_name fly early in the period_of_day between airport_name and airport_code
-what flights leave city_name on airline_name
-can you list all the airlines that have flights from city_name to city_name
-flights from city_name to city_name flight_days
-show me class_type flights from city_name to city_name on day_name
-i need the flight_mod flight from city_name to city_name that serves meal_description
-from city_name to city_name in the period_of_day
-please list the day_name period_of_day flights from city_name to city_name on airline_name
-is there ground transportation in city_name from the airport
-show first flight from city_name to city_name on day_name
-i'm sorry i RARE to fly airline_code is there a flight between city_name and city_name with a stopover in city_name on airline_code
-show me all flights from city_name to airport_name flight_stop
-what flights are there from city_name to city_name
-what kind of ground transportation is there in city_name state_code
-what is the cost_relative flight available from city_name to city_name
-what does the fare code fare_basis_code mean
-what's the cost_relative way i can fly to city_name
-what flights from city_name to city_name on day_name on airline_name
-what is the schedule of ground transportation from the airport in city_name into downtown
-show me a list of flights from city_name to city_name for month_name day_number
-show me the cost_relative flight from city_name to city_name on day_name after time
-how much does it cost to go from downtown to airport_name
-what flights are there from city_name to city_name
-i want a flight from city_name to city_name that at least has flight_stop
-show flights from city_name to city_name arriving between integer and time
-what is the fare from city_name to city_name on airline_name flight integer
-flights from city_name state_name to city_name state_name
-give me flights from city_name to city_name
-show the flights from city_name to city_name
-show me flights city_name to city_name state_code on day_name
-please list the day_name period_of_day flights from city_name to city_name
-what flight do you have from city_name to city_name on the period_of_day of month_name day_number
-what are the flights from city_name to city_name
-what flights from city_name to city_name arrive before time in city_name
-show me the flights from city_name to city_name for day_name period_of_day or day_name
-get me a class_type flight on airline_name to city_name on day_name next week
-ground transportation in city_name
-what flights are there from city_name to city_name
-i'd like to fly from city_name to city_name at approximately time
-list the fares of airline_name flights from city_name to city_name
-list flights from city_name to city_name on day_name month_name day_number
-what flights from city_name to city_name on day_name
-now show me the flights from city_name to city_name
-can you give me information on all the flights from city_name RARE from city_name to city_name on day_name
-could you find me a flight from city_name to city_name that stops in city_name
-flights from city_name to city_name
-give me the flights from city_name to city_name day_name period_of_day
-please list all of the flights leaving city_name RARE to city_name after time day_name and before time day_name
-show me flights from city_name to city_name that leave after time
-show me the flights that go from city_name to city_name
-which airline can fly me from city_name to city_name to city_name
-are there any flights from city_name to city_name with stops in city_name
-list all the flights that arrive at airport_name
-what is fare code fare_basis_code
-what flights from city_name to city_name arrive next day_name before time
-flights from city_name to city_name
-show me fares from city_name to city_name
-i need a flight from city_name to city_name via city_name
-i'd like an period_of_day flight from city_name to city_name with a stopover in city_name arriving i'd say about period_of_day
-show me the cost_relative round_trip flight from city_name to city_name
-show me the flights from city_name to city_name
-from city_name to city_name state_code on day_name month_name day_number year
-please list all the flights from city_name to city_name which serve meals
-list aircraft types that fly between city_name and city_name
-what does fare code fare_basis_code mean
-i'm interested in a flight on airline_name from city_name to city_name
-give me flights from city_name to city_name
-how much is a round_trip fare from city_name to city_name
-what is the cost_relative flight from city_name to city_name
-which airline RARE class_type flights
-city_name to city_name
-which airlines fly between city_name and city_name
-list the flights arriving in city_name from city_name before time on month_name day_number
-give me the flights for airline_name from city_name to city_name
-i need a flight this day_name from city_name to city_name and i would RARE a period_of_day flight
-flights from city_name to city_name
-which flights go from city_name to city_name in the period_of_day
-show me the fares from city_name to city_name
-give me airline_name flights from city_name to city_name on day_name and on day_name
-list all flights that leave from city_name or city_name or city_name and arrive in city_name
-show me the flights from city_name to city_name
-show me the flight_mod flight from city_name to city_name
-show me flights from city_name to city_name on day_name period_of_day
-month_name i have a listing of flights from city_name to city_name city_name departing in the period_of_day
-what period_of_day flights do you have between city_name and city_name
-i'd like a flight from city_name that stops in city_name and goes on to city_name
-show me all flights from city_name to city_name today_relative
-all round_trip flights between city_name and city_name
-what flights go to city_name from city_name
-what flights are there from city_name to city_name flight_days with economy
-first flights from city_name to city_name on a day_name
-show me the flights from city_name to city_name
-tell me about flights from city_name to city_name leaving after time
-show me the flights from city_name to city_name with round_trip fares less than integer
-i need a flight from city_name to city_name that leaves early in the period_of_day
-what is the first flight from city_name to city_name that serves meal_description
-show me the flights from city_name to city_name
-all flights from city_name to city_name
-city_name to city_name day_name
-give me the flight_mod flight today_relative on airline_name from city_name to city_name
-show me flights on day_name from city_name to city_name after time
-show me all the flights leaving city_name
-show me the flights from city_name to city_name
-is there a plane from city_name to city_name
-i need to go from city_name to city_name and back in the same day find me the flight_mod flight from city_name
-what are flights between city_name and city_name on month_name day_number
-what are the schedule of flights from city_name to city_name for month_name first
-show me round_trip flights from city_name to city_name day_name
-show me all flights from city_name to city_name today_relative which serve a meal
-give me flights on airline_name from city_name to city_name
-show all flights from city_name to city_name
-i RARE to fly from city_name to city_name please find an airline for me
-please list the flights from city_name to state_code city_name on month_name day_number
-which flights from city_name to city_name also stop in city_name
-show me the flights on day_name period_of_day from city_name to city_name
-i need integer class_type tickets from city_name to city_name
-are there any flights from city_name to city_name which stop in city_name
-flights to city_name
-what does airport_code stand for
-what is the cost_relative way to fly from city_name to city_name
-list all flight_stop flights from city_name to city_name before time on day_name
-how many booking classes are there
-flight numbers from city_name to city_name today_relative
-give me the airline_name flights from city_name to city_name on day_name
-what are the airline_name flights between city_name and city_name on month_name day_number
-show me the flights next day_name between city_name and city_name
-find a flight on airline_name from city_name to city_name that makes a stopover in city_name
-show me the fares on all flights round_trip from city_name to city_name
-what's the RARE between fare code fare_basis_code and fare code fare_basis_code
-flights from city_name to city_name
-ground transportation city_name
-show me flights from city_name to city_name state_code on day_name
-find a flight between city_name and city_name the flight should be in the period_of_day and arrive close to time the flight should be flight_stop
-show me all flights from city_name to city_name with prices
-flights between city_name and city_name
-please list the day_name period_of_day flights from city_name to city_name
-list all airline_name flights from city_name to city_name which arrive on day_name after time
-what round_trip tickets are there from city_name to city_name on airline_name that arrive before time
-i'd like to go from city_name to city_name at time day_name period_of_day
-show me the airline_name flights from city_name to city_name
-what is the available ground transportation between the airport in city_name and downtown
-on month_name four city_name to city_name airline_name flight integer
-show me all flights from city_name
-which airlines have flights between city_name and city_name
-which are the flights from city_name to city_name or city_name state_code
-list the number of flights leaving city_name for city_name before time in the period_of_day
-are there airline_name flights leaving city_name
-can you list all round_trip flights from city_name to city_name and then to city_name
-i would like to find a flight from city_name to city_name on airline_name and arriving at about time in the period_of_day could you please tell me the aircraft and the flight number thank you
-i would like a flight from city_name to city_name leaving at integer on month_name day_number
-how much is a flight from city_name to city_name
-show me all flights from city_name to city_name on a manufacturer aircraft_code
-what flights are there on day_name from city_name to city_name
-where is airport_code
-show me all flights from city_name to city_name
-which airline_name flight flies RARE this RARE and leaves from city_name goes to city_name and makes a stopover in city_name
-list flight_days flights of airline_name from city_name to city_name with class_type service
-show me flights from city_name to city_name on day_name period_of_day
-all flights city_name to airport_code
-i want to travel from city_name state_code to city_name on day_name period_of_day
-what is the fare going from city_name to city_name round_trip on month_name day_number
-is there a flight on airline_name from city_name to city_name
-what flights are available from city_name to city_name on day_name period_of_day
-do you have an period_of_day flight leaving in the period_of_day going from city_name to city_name with a stopover in city_name
-show the flights from city_name to city_name RARE on day_name
-show me a list of flights on airline_name from city_name to state_code on month_name day_number
-now i'd like flights from city_name to city_name leaving between integer and time
-what economy flights are available from city_name to city_name on month_name day_number
-please show me flights from city_name to city_name
-please show me all the flights from city_name to city_name today_relative
-what does flight code airline_code mean
-i would like a flight from city_name to city_name
-what is the flight_time of the aircraft_code from city_name to city_name
-looking for a flight from state_code to state_name
-how many airline_name flights leave from city_name
-show me times for flights from city_name to city_name
-what flights are there on day_name period_of_day or day_name period_of_day from city_name to airport_code
-how many flights go from city_name to city_name on month_name day_number
-could you show me all the flights from city_name to city_name
-find me a flight from city_name to city_name with layover in city_name on airline_name
-what flights are available between city_name and city_name arriving in city_name at integer
-show me the airlines between city_name and city_name
-what flights do you have between city_name and city_name
-show me the flights from city_name to city_name
-i need information for a flight from city_name to city_name
-what is the cost_relative flight from city_name to city_name
-what is the cost_relative flight from city_name to city_name round_trip
-show me all RARE flights from city_name state_code to city_name and list RARE fares
-round_trip flights between city_name and city_name
-show me the round_trip flight from city_name to city_name with the cost_relative fare
-what flights are there from city_name to city_name on airline_name
-i'm trying to make a RARE between city_name and city_name does airline_name fly between those two
-what is the flight_mod airline_name flight leaving city_name and returning to city_name
-what flights does airline_name have from city_name to city_name on day_name
-can i fly from city_name to city_name city_name
-what is airport_code
-flights from city_name to city_name
-i would like to leave around time in the period_of_day
-show me fares from city_name to city_name
-flights from city_name to city_name
-please show me flights from city_name to city_name on day_name period_of_day serving meal_description
-flights from city_name month_name second
-does airline_name fly from city_name to city_name
-yes i'd like a flight from city_name to city_name by way of city_name
-i'd like to know if you have any flights from city_name to city_name
-what are the cost_relative round_trip flights from city_name to city_name
-what is the first flight after time from city_name for city_name
-how many airline_name flights leave from city_name
-now list for me only the airline_name flights that flight from city_name to city_name
-from city_name to city_name
-i am interested in a flight on airline_name from city_name to city_name
-what airplane types fly from city_name to city_name
-what is the fare_basis_code code
-i would like the flight_mod period_of_day flight from city_name to city_name on day_name period_of_day
-how many RARE in a integer
-month_name i have a listing of flights from city_name to city_name state_name on day_name
-what flights leave from city_name to city_name on airline_name
-show me all round_trip from city_name to city_name leaving on day_name
-list all flight_stop flights on day_name from city_name to city_name
-list all flights from city_name to city_name
-what are the round_trip fares for flights from city_name to city_name arriving after integer on airline_name
-i'd like to see flights from city_name to city_name
-please show me the flights from city_name to city_name on the day_number
-what is airport_code
-what type of ground transportation is available between the airport and downtown city_name
-is the airline_name flight integer from city_name to city_name a flight_stop flight
-give me the flights from city_name state_code to city_name for month_name second
-show all connecting flights from city_name to city_name
-list flight_days flights from city_name to city_name using airline_code
-i would like the cost_relative airfare flight on day_name to city_name from city_name
-i need a flight from city_name to city_name leaving in the period_of_day on day_name
-can you give me the period_of_day flight on day_name from city_name to city_name RARE
-i would like to book a flight from city_name to city_name on month_name first
-what flights from city_name to city_name
-show me all flights direct only from city_name to city_name or city_name that arrive before time RARE time
-class_type round_trip airfare from city_name to city_name
-flights from city_name to city_name on airline_name
-list all flights on airline_name leaving city_name on day_name after integer
-show me all flights from city_name
-show me all airline_name flights from city_name
-what are the fares from city_name to city_name day_name and day_name
-show me flights from city_name to city_name on month_name day_number
-please show me round_trip tickets from city_name to city_name
-list all flights on airline_name from city_name to city_name with fare code fare_basis_code
-how many flights does airline_code have in class_type
-list all flights going from city_name to city_name after time on day_name and before time on day_name
-show me the flights to airport_name
-show me flights from city_name to city_name
-show me the flights from city_name to city_name
-city_name to city_name arriving before integer in the period_of_day
-i need a flight from city_name to city_name
-please give me flights leaving city_name and going to city_name
-what do you have from city_name to city_name on day_name period_of_day
-flight leaving from city_name to city_name
-tell me about flights on airline_name from city_name to city_name on month_name day_number
-list all flights from city_name to city_name with the flight_stop
-are there any flights from city_name to city_name
-what are the flights city_name to city_name on day_name period_of_day
-show me flights leaving from city_name state_name to city_name state_name on day_name after time
-i need flight information between city_name and city_name
-what are my RARE of flights from city_name to city_name
-what is the cost_relative flight from city_name to city_name
-on airline_name any class service from city_name to city_name
-find the cost_relative flight from city_name to city_name with a stopover in city_name
-what are the cost_relative round_trip fares from city_name to city_name
-are there any flights from city_name to city_name stopping in city_name
-flights from city_name to city_name on day_name
-how much is a round_trip fare from city_name to city_name
-show me the flights into airport_name
-i'd like to fly from city_name to city_name through city_name
-information on flights from city_name to city_name
-what flights does airline_name fly from city_name to city_name
-i want to travel from city_name to city_name round_trip leaving day_name month_name day_number arriving in city_name at around time in the period_of_day and returning the next day arriving in city_name at around time in the period_of_day which airlines fly that RARE
-i would like the time of all flights from city_name to city_name on day_name
-show me ground transportation in city_name please
-are there any flight_stop flights leaving from city_name arriving in city_name on month_name day_number
-how much does airline_code integer cost
-what is the flight_mod flight from city_name to city_name on airline_name
-please list ground transport in city_name
-i need a flight from city_name to city_name on a day_name
-show me flights from all airports to airport_name
-list the flights from city_name to city_name on day_name
-what flights are available from city_name to city_name class_type on airline_name arriving month_name day_number before time
-which airlines are RARE in the RARE
-which flight between city_name and city_name on month_name day_number has the smallest seating capacity
-list all airline_name flights from city_name to city_name that arrive in city_name between time and time
-what flights are there from city_name to city_name
-is there ground transportation from airport_name to the downtown RARE
-flight_mod period_of_day flights from city_name to city_name
-what's the last flight from city_name to city_name
-is there a flight from city_name to city_name on day_name period_of_day
-what is airline airline_code
-what's the cost_relative round_trip fare from city_name to city_name
-find me the flight_mod flight from city_name to city_name on day_name of the week
-display all flights from city_name to city_name on month_name day_number
-economy fares city_name to city_name round_trip
-i need to fly from city_name to city_name on to city_name and back
-i RARE to book a flight from city_name to city_name class_type RARE fare
-show me flights to city_name from city_name and city_name and city_name
-tell me RARE from airport_name to the city
-hi i need to get a flight from city_name to city_name departing before time
-what is the cost_relative fare i can get from city_name to city_name
-i would like a flight from city_name to city_name arrive city_name about time
-airline_name next day_name from city_name to city_name
-could you please find me the cost_relative round_trip fare from city_name to city_name
-i'd like a flight from city_name to city_name for day_name
-return from city_name to city_name on airline_name on day_name
-show me ground transportation in city_name
-please give me the flight_mod flight today_relative from city_name to city_name
-i need ground transportation in city_name please show me what's available
-what's fare code fare_basis_code
-the cost_relative flights from city_name to city_name that arrive after time on a day_name
-is there an period_of_day airline_name flight between city_name and city_name
-what flights from city_name to city_name on day_name
-show me all flights both direct and connecting from city_name to either city_name or city_name that depart after time
-give me flights from city_name to city_name on day_name period_of_day
-okay tell me what the flight_mod flight is that leaves between city_name and city_name
-i want a flight from city_name to city_name that leaves early day_name period_of_day
-what class_type flights are available from city_name to city_name on month_name day_number year
-show me the airlines from airport_name
-what's the cost_relative round_trip ticket from city_name to city_name
-a class_type flight on airline_name to city_name on day_name in the next week
-what airlines fly between city_name and city_name and stop in city_name
-RARE the flights from city_name to city_name that arrive on a day_name
-flights on day_name from city_name to city_name
-flights from city_name month_name one
-how many stops on airline_name integer from city_name to city_name
-on flight airline_name integer from city_name to city_name what time and what city does the plane stop in between
-i need a flight from city_name to city_name which will get me into city_name by time or time_mod
-i want a round_trip ticket from city_name to city_name
-find me the flight_mod flight leaving city_name month_name day_number and arriving in city_name
-what's the cost_relative round_trip fare from city_name to city_name
-show me flights from city_name to city_name on day_name period_of_day
-show me the flights from city_name to city_name state_code
-show me flights from city_name to city_name
-show me the flight_mod flight from city_name to city_name which arrives in city_name day_name before time
-what are the flights from city_name to city_name
-show me flights from city_name to city_name on day_name
-day_name flights from city_name to city_name
-i need a flight from city_name to city_name leaving at time
-what's the smallest plane that flies from city_name to city_name on day_number day_number
-give me the flights on month_name day_number with the fares from city_name to city_name
-show me all the airline_name flights leaving city_name between integer and integer in the period_of_day
-i want a cost_relative from city_name to city_name
-show all flights from city_name to airport_code
-show me all flights from city_name to city_name on a day_name
-show me the flight_mod flight from city_name to city_name
-i need a airline_name flight from city_name to city_name on day_name
-what are the cost_relative round_trip flights from city_name to city_name
-all flights from city_name to city_name state_code after time on month_name day_number economy
-is there ground transportation in city_name
-list airline_name flights from city_name to city_name on day_name
-what is the cost_relative way to fly from city_name to city_name
-city_name to city_name with flight_stop in city_name please
-i would like to fly airline_name from city_name to city_name in the late period_of_day what do you have available
-what does RARE restriction_code mean
-what are the flight_mod flights that i can take from city_name to city_name
-list flights from city_name to city_name via city_name
-how much does the airline_name flight integer from city_name to city_name cost
-all flights from city_name to city_name which show RARE on day_name period_of_day
-show me flights from city_name to city_name on a day_name with a round_trip fare less than fare_amount
-flight_stop flights from city_name to city_name
-give me the flights and fares on month_name day_number from city_name to city_name
-what flights are available day_name period_of_day from city_name to city_name
-what are the flights from city_name to city_name also on day_name the day_number of month_name
-what's the ground transportation like at city_name
-list flight_days flights from city_name to city_name using airline_name
-in the next two RARE i want to fly from city_name to city_name or to city_name
-how many flights does each airline have with class_type service
-what flights from city_name to city_name on day_name with RARE served
-show flights from city_name to city_name on either day_name the day_number or day_name the day_number
-what are the flights available between time and time between city_name and city_name
-list all flights from city_name to city_name
-airline code as
-show me the flights from city_name to city_name
-show me all flights from city_name to city_name on a manufacturer aircraft_code
-month_name i have a list of flights going from city_name to city_name on the day_number of month_name
-could you tell me the cost_relative fare from city_name to city_name on day_number of month_name
-which airline_name flight flies from city_name to city_name and makes a stopover in city_name
-what are the flight_mod flights from city_name to city_name on the period_of_day of month_name day_number
-can you tell me how to get from the airport in city_name to downtown
-what is airport_code
-now show me the flights from city_name to city_name
-what is the cost of flight airline_code integer from city_name to city_name
-what stops does airline_code integer make from city_name to city_name
-what are the cost_relative round_trip flights from city_name to city_name
-what are the flights from city_name to city_name
-airline_name flights to city_name please
-i would like to know the flight_mod flight on day_name you have leaving from city_name to city_name which offers a meal
-what are the costs of transport_type in city_name
-what airlines fly from city_name to city_name
-can you tell me which flights go from city_name to city_name and make a stop in city_name
-what is the cost_relative round_trip fare between city_name and city_name
-show me ground transportation information for city_name
-all flights and fares from city_name to city_name round_trip after time less than fare_amount
-what is the fare from city_name to city_name on airline_name
-show me the flight_mod flight from city_name to city_name
-show me all the airline_name flights leaving city_name between integer and integer in the period_of_day
-show me flights from city_name to city_name
-flights from city_name to city_name
-what is the first flight from city_name to city_name leaving on day_name month_name day_number
-all airline_name flights with stopovers in city_name
-show flights from city_name to city_name on day_name period_of_day
-show me all the airline_code flights from city_name to city_name that arrive around time
-show me the direct flights from city_name to city_name
-i'd like to find the cost_relative flight from city_name to city_name
-show me round_trip fares from city_name to city_name
-i want to go from city_name to city_name round_trip and make a stop at city_name is this possible
-please tell me which airline has the most RARE from city_name
-what are the flights from city_name to city_name
-show me round_trip fares from city_name to city_name
-RARE the RARE restriction_code
-show me the flights from city_name to city_name
-show me airline_name fares for next day_name from city_name to city_name
-list a round_trip fare from city_name to city_name flights
-show me flights from city_name to city_name
-show me all flights from city_name to city_name
-can you show me the cost_relative round_trip flights between city_name and city_name
-how many passengers fit on a aircraft_code
-i would like a flight from city_name to city_name
-show me the flights from city_name to city_name
-i need a flight from city_name to city_name that leaves after time
-what flights from city_name arrive in city_name before time
-please show me ground transportation in city_name
-find travel arrangements for a round_trip flight from city_name to city_name
-what is the class_type fare between city_name and city_name on airline_name
-list flights from city_name to city_name on the period_of_day of month_name day_number
-i would like your rates between city_name and city_name on month_name day_number
-i would like to fly from city_name to city_name early in the period_of_day
-looking for a flight from city_name to city_name
-show me all the flights from city_name to city_name
-and flight from city_name to city_name leaving after period_of_day
-what does the abbreviation airline_code mean
-could i have a list of flights in class_type on day_name from city_name to city_name RARE at time and RARE
-i would like to fly from city_name to city_name
-what flights from city_name to city_name on day_name arriving around time
-list flight_days flights from city_name to city_name using airline_code
-could you give me the schedule of flights for airline_name and airline_name to airport_code on month_name day_number
-show me class_type flights from city_name to city_name leaving on a day_name
-please show me airfare of flight airline_code integer from city_name to city_name
-is there a airline_name flight from city_name to city_name that stops in city_name
-please list all airline_name flights between city_name and city_name
-find the cost_relative round_trip fare from city_name to city_name
-give me period_of_day flights from city_name to city_name
-please give me round_trip fares from city_name to city_name
-i would like information on ground transportation in the city of city_name from airport to downtown
-i'd like to fly from city_name to city_name to city_name
-what is the cost_relative flight from city_name to city_name leaving on month_name day_number
-what is the price of airline_name flight integer from city_name to city_name
-what's the first flight from city_name to city_name
-i would like information on flights from city_name to city_name leaving after time day_name period_of_day
-what flights go from city_name to city_name leaving after time
-what is the fare code fare_basis_code and what is the fare code fare_basis_code
-RARE i'd like a airline_name flight from city_name to city_name
-what flights are provided by airline_name
-show me the flights from airport_name to other airports
-show me the class_type fares from city_name to city_name
-i want the flights from city_name to city_name that stop in city_name
-day_name or day_name flights between city_name and city_name airline_name
-list the cost_relative round_trip flight from city_name state_name to city_name state_name
-flights from city_name month_name second
-i'd like to fly from city_name to city_name through city_name
-list all flights from city_name to city_name on day_name
-city_name airports
-show me all airline_name flights from city_name to city_name for month_name first year
-what is the flight_mod flight departing city_name and arriving in city_name on month_name day_number
-from city_name to city_name on day_name period_of_day
-cost_relative flight from city_name to city_name
-which airlines fly from city_name to city_name state_code but stopover in some other city
-please list all airline flights between city_name and city_name
-i am interested in a flight from city_name to city_name the flight should be airline_name and leave in the period_of_day i need to know the aircraft and flight number
-flights from city_name to city_name
-list flights from city_name to city_name that serve only meal_description
-how many airlines have flights with service class fare_basis_code
-could you please give me a round_trip fare from city_name to city_name
-okay i'd like to fly from city_name to city_name
-i'd like a flight from city_name to city_name for day_name
-i need a flight from city_name state_name to city_name state_name leaving this day_name
-give me a list of all the flights from city_name to city_name or city_name to city_name or city_name to city_name
-tell me about ground transportation in airport_name
-how many airline_name flights are there from city_name please
-i need a listing of flights from city_name to city_name country_name departing day_name in the period_of_day
-show me all the flights from city_name to city_name
-how can i go from the airport_name to downtown city_name
-i would like to fly from city_name to city_name by way of city_name
-give me fares from city_name to city_name
-city_name to city_name
-give me flights from city_name to city_name
-the flight will RARE from city_name
-flights from city_name to city_name and price
-on day_name what flights leave city_name to city_name state_name and leave after time
-what is the cost_relative fare from city_name to city_name on flight airline_name integer and airline_name integer
-list flights from city_name to city_name on day_name
-what flights are there from city_name to city_name
-what flights go from city_name to city_name with a stopover in city_name
-show flights from city_name to city_name that arrive after time
-find me the flight_mod flight from city_name to city_name on day_name of the week
-what is the airfare between city_name and city_name
-show me all flights from city_name to city_name which leave next day_name period_of_day
-show me flights from city_name to city_name city_name and city_name
+i want to fly from city_name at time and arrive in city_name at integer in the period_of_day period_of_day
+what flights are available from city_name to city_name on day_name period_of_day period_of_day
+what is the flight_time in city_name for the time flight leaving city_name city_name
+cost_relative airfare from city_name to city_name city_name
+round_trip fares from city_name to city_name under fare_amount fare_amount
+i need a flight today_relative from city_name to city_name city_name
+what kind of aircraft is used on a flight from city_name to city_name city_name
+show me the flights from city_name to city_name on day_name day_name
+all flights from city_name to city_name city_name
+what kind of ground transportation is available in city_name city_name
+show me the flights from city_name to city_name city_name
+show me the flights from city_name to city_name by way of city_name city_name
+what's the airport at city_name city_name
+what is the cost_relative flight from city_name to airport_code airport_code
+all flights to city_name after time time
+show me the class_type fares from city_name to city_name city_name
+show me the ground transportation in city_name city_name
+all flights from city_name to city_name leaving after time and before time time
+i need information on flights for day_name leaving city_name for city_name city_name to city_name and city_name to city_name city_name
+please give me the flights from city_name to city_name on day_name of next week week
+i would like to fly from city_name to city_name on airline_name airline_name
+show me the flights from city_name to city_name city_name
+please list all class_type flights on airline_name from city_name to city_name city_name
+what kinds of planes are used by airline_name airline_name
+i'd like to have some information on a ticket from city_name to city_name and city_name city_name
+i'd like to book a flight from city_name to city_name city_name
+which airline serves city_name city_name and city_name city_name
+show me all flights from city_name to city_name on day_name of next week which leave city_name after time time
+city_name ground transportation transportation
+i also need service from city_name to city_name arriving by time time
+show me the cost_relative round_trip fare from city_name to city_name city_name
+show me all flights from city_name to city_name on airline_name departing at time time
+flights from city_name to city_name city_name
+please find a flight on airline_name from city_name to city_name and give me the flight numbers numbers
+i need a flight from city_name to city_name city_name
+fares and flights from city_name to city_name city_name
+show me the airlines with class_type flights flights
+what are the flights from city_name to city_name day_name period_of_day period_of_day
+i'd like to arrange a flight from city_name to city_name city_name
+show flights from city_name to city_name between time and time on day_name day_name
+how far is it from airport_name to city_name city_name
+i would like a list of round_trip flights between city_name and city_name state_name for the day_number and the day_number of month_name month_name
+which airline has the most arrivals in city_name city_name
+what airlines fly from city_name to city_name to city_name city_name
+city_name to city_name city_name
+which airlines serve city_name city_name
+show me information on ground transportation for city_name city_name
+what is fare code fare_basis_code fare_basis_code
+show me all flights from city_name to city_name both direct and connecting that arrive before time time
+i need a flight from city_name to city_name leaving today_relative period_of_day period_of_day
+what are the times that you have planes leaving from city_name going to city_name on month_name day_number day_number
+flights from city_name to city_name city_name
+what flights go from city_name to city_name after time next day_name day_name
+how much does the transport_type service cost RARE city_name city_name
+does airline_name have any flights out of city_name to city_name city_name
+what is booking class fare_basis_code fare_basis_code
+i'd like to know the flight_mod trip between city_name and city_name city_name
+i would like to see information for flights from city_name leaving after time to city_name on day_name day_name
+what is the cost_relative flight from city_name to city_name city_name
+i need to know information for flights leaving city_name on day_name period_of_day and returning to city_name city_name
+what flight goes from city_name to city_name class_type on airline_name arriving on month_name day_number day_number
+could you please tell me the airlines that fly from city_name to city_name city_name
+what flights do you have from city_name to city_name city_name city_name
+what is the ground transportation from airport_name to the city RARE RARE
+which airlines have class_type flights today_relative today_relative
+find the flight_mod flight from city_name to city_name that serves a meal meal
+i would like to make a reservation for a flight to city_name from city_name on this coming day_name day_name
+give me a list of airports in city_name city_name
+show me flights from city_name to city_name on day_name day_name
+show me the flights from city_name to city_name city_name
+what does fare code fare_basis_code mean mean
+please give me the flights from city_name to city_name state_code state_code
+i need information from city_name to city_name city_name
+from city_name to city_name city_name
+what is the flight_mod flight from city_name to airport_code that serves a meal_description meal_description
+what types of aircraft does airline_name fly fly
+what is the cost of a round_trip flight from city_name to city_name RARE on month_name day_number and returning on month_name day_number day_number
+give me the flights leaving city_name month_name day_number coming back to city_name city_name
+list all the flights that fly into airport_name airport_name
+what flights fly from city_name to city_name on day_name day_name day_name day_name and day_name day_name
+list all flights from city_name to city_name city_name
+in flight meal city_name to city_name day_name day_name
+show me the flights on airline_code from city_name in the period_of_day period_of_day
+i want to find the first flight from city_name to city_name that serves a meal meal
+of all airlines which airline has the most arrivals in city_name city_name
+display all flights from city_name to city_name on month_name day_number day_number
+i want to travel from city_name to city_name early in the period_of_day first flight flight
+i now need a flight from city_name to city_name leaving on day_name the day_number day_number
+what are the flights available after time between city_name and city_name city_name
+what flights depart city_name on day_name and arrive in city_name by time time
+show me flights from city_name to city_name city_name
+list the airline_name flights from city_name to city_name city_name
+show me the fares from city_name to city_name city_name
+what flight_stop flights between city_name and city_name arrive after time time
+what is the RARE from airport_name to city_name city_name
+ground transportation in city_name city_name
+please tell me how many flight_stop flights there are from city_name to city_name city_name
+on the flight_mod flight from city_name to city_name on airline_name is a meal RARE served served
+where does airline_name fly fly
+what flights from city_name to city_name arrive before integer in the period_of_day period_of_day
+find me the flight_mod flight from city_name to city_name city_name
+list flight_stop flights from city_name to city_name which arrive before period_of_day period_of_day
+show me the flights from city_name to city_name that stop in city_name city_name
+show me flights to city_name from city_name stopping in city_name city_name
+what city is the airport airport_code in in
+how much does it cost to rent a transport_type in city_name city_name
+show me flights from city_name to city_name city_name
+show me a list of ground transportation at city_name city_name
+i'd like a flight from city_name to city_name stopping in city_name and serving meal_description what's available available
+also show me flights from city_name to city_name on day_name day_name
+show flights from city_name to city_name city_name
+give me the cost_relative flight from city_name to city_name city_name
+show me all flights from city_name to city_name city_name
+find me a flight on airline_name from city_name to city_name with a stopover in city_name city_name
+show me the last flight from airport_name airport_name
+what flights go from city_name to city_name after time time
+what are all the flights from city_name to city_name city_name
+what is the flight_mod flight departing city_name and arriving in city_name on month_name day_number day_number
+what is the flight_mod flight flying from city_name to city_name on month_name day_number day_number
+please list available flights for next day_name from city_name to city_name city_name
+what flights leave city_name and arrive in city_name after time on day_name day_name
+what is the transportation time from the airport to city_name city_name
+which airline has the smallest plane leaving city_name and arriving in city_name on month_name day_number day_number
+what are the flight_stop flights on airline_name or airline_name air from city_name to city_name on day_name month_name day_number day_number
+what are the classes of service for airline_name airline_name
+i would like to find out what flights there are on day_name month_name day_number from city_name to city_name and then from city_name to city_name thank you you
+all flights from city_name to city_name state_code on month_name day_number day_number
+what are the flights from city_name to city_name city_name
+on the time flight from city_name to city_name what type of aircraft is used used
+which flight is a round_trip fare at fare_amount from city_name to city_name city_name
+what flights leave city_name for city_name after time on day_name day_name
+okay i need to get a flight from city_name to city_name city_name
+please list flights between city_name and city_name city_name
+find me the flights that are flight_stop between city_name and city_name that leave between integer and integer in the period_of_day period_of_day
+i would like some information on flights leaving city_name to city_name city_name
+show me the flight_mod flight_stop flight from city_name to city_name state_code state_code
+what are the flights from city_name to city_name city_name
+i would like a flight_stop flight from city_name to city_name on month_name second second
+RARE i want to go from city_name to city_name city_name
+show me all the period_of_day fares between city_name and city_name city_name
+what kinds of ground transportation is available in city_name city_name
+can you show me economy round_trip fares for flights from city_name to city_name on month_name day_number day_number
+what is fare code fare_basis_code fare_basis_code
+i'd like a flight on month_name day_number from city_name to city_name in the period_of_day period_of_day
+what are the class_type fares from city_name to city_name day_name period_of_day period_of_day
+is there ground transportation available in city_name city_name
+show me flights from city_name to city_name on day_name day_name
+i would like to know the flights available from city_name to city_name arriving in city_name by time day_name period_of_day period_of_day
+i would like to fly the cost_relative RARE available from city_name to city_name on day_name period_of_day period_of_day
+list the flight from city_name to city_name on airline_name airline_name
+flights from city_name to city_name on day_name day_name
+what is the first flight from city_name to city_name on day_name month_name day_number that leaves after time time
+what is the class_type fare on airline_name flight integer from city_name to city_name city_name
+flight from city_name to city_name arriving before time on day_name day_name
+list flights today_relative from city_name to city_name city_name
+show me all flights from city_name to city_name state_code RARE RARE
+RARE i want to go from city_name to city_name city_name
+show me all the airline_name flights leaving city_name city_name
+can you list all the flights between city_name and city_name city_name
+list all flights from city_name to city_name city_name
+round_trip flights from city_name to city_name class_type economy fare fare
+i want to fly from city_name to city_name and i RARE want any stopovers and i'd like to fly only during the period_of_day period_of_day
+flights from city_name to city_name between time and time time
+show me the flights from city_name to city_name city_name
+what flights are there on airline_name from city_name to city_name city_name
+what kind of ground transportation can you offer me in city_name city_name
+leaving city_name going to city_name the flight_mod flight flight
+show me the flights available from city_name to city_name leaving city_name in the period_of_day period_of_day
+round_trip fares city_name to city_name city_name
+which flights are RARE by airline_name airline_name
+how do i get from airport_name to downtown city_name city_name
+does airline_name express serve city_name city_name
+what flights from city_name to city_name on day_name in the period_of_day on airline_name airline_name
+what is the flight_mod flight going from city_name to city_name on day_name month_name day_number day_number
+what flights from city_name to city_name on day_name arriving around time time
+i need a flight from city_name to city_name that leaves day_name and arrives in city_name around time time
+i would like information on any flights from city_name to city_name leaving day_name period_of_day period_of_day
+i need a cost_relative flight from city_name to city_name city_name
+what is the cost of a class_type ticket from city_name to city_name city_name
+what is the economy class_type fare from city_name to city_name city_name
+list the flight_stop flights early day_name period_of_day from city_name to city_name city_name
+what is the flight_mod flight you have that leaves city_name to city_name city_name
+are there any flights from city_name to city_name leaving before time time
+show me all the flights to city_name after time time
+i need a return flight from city_name to city_name city_name
+airline_name flights stopping in city_name before time time
+show me the transport_type in city_name city_name
+what flights go from city_name to city_name after time in the period_of_day period_of_day
+flight_mod period_of_day flight from city_name to city_name city_name
+how much time does it take to go between the airport and downtown by ground transportation in city_name city_name
+flights from city_name to city_name city_name
+i'd like to fly airline_name between city_name and city_name city_name
+i would like to book a flight on airline_name from city_name to city_name on month_name first first
+all flights from city_name to city_name round_trip after time less than integer integer
+show me flights on day_name going from city_name to city_name flight_stop class_type leaving after time time
+from city_name to city_name city_name
+show me flights from city_name to city_name on day_name period_of_day period_of_day
+show me the flight with the smallest seating capacity which leaves city_name and arrives in city_name on month_name day_number day_number
+show all flights from city_name to city_name on month_name day_number day_number
+are there any flights before time on month_name day_number from city_name to city_name city_name
+list flight_days flights from city_name to city_name city_name
+on a flight from city_name to city_name that leaves before time is there RARE a flight flight
+on airline_name give me the flight_time from city_name to city_name city_name
+ground transportation city_name city_name
+show me airline RARE RARE
+how many flights does airline_name have with a class of service code fare_basis_code fare_basis_code
+please list all the arriving and departing flights from airport_name airport_name
+i would like to see the flights from city_name to city_name please please
+does airline_name fly early in the period_of_day between airport_name and airport_code airport_code
+what flights leave city_name on airline_name airline_name
+can you list all the airlines that have flights from city_name to city_name city_name
+flights from city_name to city_name flight_days flight_days
+show me class_type flights from city_name to city_name on day_name day_name
+i need the flight_mod flight from city_name to city_name that serves meal_description meal_description
+from city_name to city_name in the period_of_day period_of_day
+please list the day_name period_of_day flights from city_name to city_name on airline_name airline_name
+is there ground transportation in city_name from the airport airport
+show first flight from city_name to city_name on day_name day_name
+i'm sorry i RARE to fly airline_code is there a flight between city_name and city_name with a stopover in city_name on airline_code airline_code
+show me all flights from city_name to airport_name flight_stop flight_stop
+what flights are there from city_name to city_name city_name
+what kind of ground transportation is there in city_name state_code state_code
+what is the cost_relative flight available from city_name to city_name city_name
+what does the fare code fare_basis_code mean mean
+what's the cost_relative way i can fly to city_name city_name
+what flights from city_name to city_name on day_name on airline_name airline_name
+what is the schedule of ground transportation from the airport in city_name into downtown downtown
+show me a list of flights from city_name to city_name for month_name day_number day_number
+show me the cost_relative flight from city_name to city_name on day_name after time time
+how much does it cost to go from downtown to airport_name airport_name
+what flights are there from city_name to city_name city_name
+i want a flight from city_name to city_name that at least has flight_stop flight_stop
+show flights from city_name to city_name arriving between integer and time time
+what is the fare from city_name to city_name on airline_name flight integer integer
+flights from city_name state_name to city_name state_name state_name
+give me flights from city_name to city_name city_name
+show the flights from city_name to city_name city_name
+show me flights city_name to city_name state_code on day_name day_name
+please list the day_name period_of_day flights from city_name to city_name city_name
+what flight do you have from city_name to city_name on the period_of_day of month_name day_number day_number
+what are the flights from city_name to city_name city_name
+what flights from city_name to city_name arrive before time in city_name city_name
+show me the flights from city_name to city_name for day_name period_of_day or day_name day_name
+get me a class_type flight on airline_name to city_name on day_name next week week
+ground transportation in city_name city_name
+what flights are there from city_name to city_name city_name
+i'd like to fly from city_name to city_name at approximately time time
+list the fares of airline_name flights from city_name to city_name city_name
+list flights from city_name to city_name on day_name month_name day_number day_number
+what flights from city_name to city_name on day_name day_name
+now show me the flights from city_name to city_name city_name
+can you give me information on all the flights from city_name RARE from city_name to city_name on day_name day_name
+could you find me a flight from city_name to city_name that stops in city_name city_name
+flights from city_name to city_name city_name
+give me the flights from city_name to city_name day_name period_of_day period_of_day
+please list all of the flights leaving city_name RARE to city_name after time day_name and before time day_name day_name
+show me flights from city_name to city_name that leave after time time
+show me the flights that go from city_name to city_name city_name
+which airline can fly me from city_name to city_name to city_name city_name
+are there any flights from city_name to city_name with stops in city_name city_name
+list all the flights that arrive at airport_name airport_name
+what is fare code fare_basis_code fare_basis_code
+what flights from city_name to city_name arrive next day_name before time time
+flights from city_name to city_name city_name
+show me fares from city_name to city_name city_name
+i need a flight from city_name to city_name via city_name city_name
+i'd like an period_of_day flight from city_name to city_name with a stopover in city_name arriving i'd say about period_of_day period_of_day
+show me the cost_relative round_trip flight from city_name to city_name city_name
+show me the flights from city_name to city_name city_name
+from city_name to city_name state_code on day_name month_name day_number year year
+please list all the flights from city_name to city_name which serve meals meals
+list aircraft types that fly between city_name and city_name city_name
+what does fare code fare_basis_code mean mean
+i'm interested in a flight on airline_name from city_name to city_name city_name
+give me flights from city_name to city_name city_name
+how much is a round_trip fare from city_name to city_name city_name
+what is the cost_relative flight from city_name to city_name city_name
+which airline RARE class_type flights flights
+city_name to city_name city_name
+which airlines fly between city_name and city_name city_name
+list the flights arriving in city_name from city_name before time on month_name day_number day_number
+give me the flights for airline_name from city_name to city_name city_name
+i need a flight this day_name from city_name to city_name and i would RARE a period_of_day flight flight
+flights from city_name to city_name city_name
+which flights go from city_name to city_name in the period_of_day period_of_day
+show me the fares from city_name to city_name city_name
+give me airline_name flights from city_name to city_name on day_name and on day_name day_name
+list all flights that leave from city_name or city_name or city_name and arrive in city_name city_name
+show me the flights from city_name to city_name city_name
+show me the flight_mod flight from city_name to city_name city_name
+show me flights from city_name to city_name on day_name period_of_day period_of_day
+month_name i have a listing of flights from city_name to city_name city_name departing in the period_of_day period_of_day
+what period_of_day flights do you have between city_name and city_name city_name
+i'd like a flight from city_name that stops in city_name and goes on to city_name city_name
+show me all flights from city_name to city_name today_relative today_relative
+all round_trip flights between city_name and city_name city_name
+what flights go to city_name from city_name city_name
+what flights are there from city_name to city_name flight_days with economy economy
+first flights from city_name to city_name on a day_name day_name
+show me the flights from city_name to city_name city_name
+tell me about flights from city_name to city_name leaving after time time
+show me the flights from city_name to city_name with round_trip fares less than integer integer
+i need a flight from city_name to city_name that leaves early in the period_of_day period_of_day
+what is the first flight from city_name to city_name that serves meal_description meal_description
+show me the flights from city_name to city_name city_name
+all flights from city_name to city_name city_name
+city_name to city_name day_name day_name
+give me the flight_mod flight today_relative on airline_name from city_name to city_name city_name
+show me flights on day_name from city_name to city_name after time time
+show me all the flights leaving city_name city_name
+show me the flights from city_name to city_name city_name
+is there a plane from city_name to city_name city_name
+i need to go from city_name to city_name and back in the same day find me the flight_mod flight from city_name city_name
+what are flights between city_name and city_name on month_name day_number day_number
+what are the schedule of flights from city_name to city_name for month_name first first
+show me round_trip flights from city_name to city_name day_name day_name
+show me all flights from city_name to city_name today_relative which serve a meal meal
+give me flights on airline_name from city_name to city_name city_name
+show all flights from city_name to city_name city_name
+i RARE to fly from city_name to city_name please find an airline for me me
+please list the flights from city_name to state_code city_name on month_name day_number day_number
+which flights from city_name to city_name also stop in city_name city_name
+show me the flights on day_name period_of_day from city_name to city_name city_name
+i need integer class_type tickets from city_name to city_name city_name
+are there any flights from city_name to city_name which stop in city_name city_name
+flights to city_name city_name
+what does airport_code stand for for
+what is the cost_relative way to fly from city_name to city_name city_name
+list all flight_stop flights from city_name to city_name before time on day_name day_name
+how many booking classes are there there
+flight numbers from city_name to city_name today_relative today_relative
+give me the airline_name flights from city_name to city_name on day_name day_name
+what are the airline_name flights between city_name and city_name on month_name day_number day_number
+show me the flights next day_name between city_name and city_name city_name
+find a flight on airline_name from city_name to city_name that makes a stopover in city_name city_name
+show me the fares on all flights round_trip from city_name to city_name city_name
+what's the RARE between fare code fare_basis_code and fare code fare_basis_code fare_basis_code
+flights from city_name to city_name city_name
+ground transportation city_name city_name
+show me flights from city_name to city_name state_code on day_name day_name
+find a flight between city_name and city_name the flight should be in the period_of_day and arrive close to time the flight should be flight_stop flight_stop
+show me all flights from city_name to city_name with prices prices
+flights between city_name and city_name city_name
+please list the day_name period_of_day flights from city_name to city_name city_name
+list all airline_name flights from city_name to city_name which arrive on day_name after time time
+what round_trip tickets are there from city_name to city_name on airline_name that arrive before time time
+i'd like to go from city_name to city_name at time day_name period_of_day period_of_day
+show me the airline_name flights from city_name to city_name city_name
+what is the available ground transportation between the airport in city_name and downtown downtown
+on month_name four city_name to city_name airline_name flight integer integer
+show me all flights from city_name city_name
+which airlines have flights between city_name and city_name city_name
+which are the flights from city_name to city_name or city_name state_code state_code
+list the number of flights leaving city_name for city_name before time in the period_of_day period_of_day
+are there airline_name flights leaving city_name city_name
+can you list all round_trip flights from city_name to city_name and then to city_name city_name
+i would like to find a flight from city_name to city_name on airline_name and arriving at about time in the period_of_day could you please tell me the aircraft and the flight number thank you you
+i would like a flight from city_name to city_name leaving at integer on month_name day_number day_number
+how much is a flight from city_name to city_name city_name
+show me all flights from city_name to city_name on a manufacturer aircraft_code aircraft_code
+what flights are there on day_name from city_name to city_name city_name
+where is airport_code airport_code
+show me all flights from city_name to city_name city_name
+which airline_name flight flies RARE this RARE and leaves from city_name goes to city_name and makes a stopover in city_name city_name
+list flight_days flights of airline_name from city_name to city_name with class_type service service
+show me flights from city_name to city_name on day_name period_of_day period_of_day
+all flights city_name to airport_code airport_code
+i want to travel from city_name state_code to city_name on day_name period_of_day period_of_day
+what is the fare going from city_name to city_name round_trip on month_name day_number day_number
+is there a flight on airline_name from city_name to city_name city_name
+what flights are available from city_name to city_name on day_name period_of_day period_of_day
+do you have an period_of_day flight leaving in the period_of_day going from city_name to city_name with a stopover in city_name city_name
+show the flights from city_name to city_name RARE on day_name day_name
+show me a list of flights on airline_name from city_name to state_code on month_name day_number day_number
+now i'd like flights from city_name to city_name leaving between integer and time time
+what economy flights are available from city_name to city_name on month_name day_number day_number
+please show me flights from city_name to city_name city_name
+please show me all the flights from city_name to city_name today_relative today_relative
+what does flight code airline_code mean mean
+i would like a flight from city_name to city_name city_name
+what is the flight_time of the aircraft_code from city_name to city_name city_name
+looking for a flight from state_code to state_name state_name
+how many airline_name flights leave from city_name city_name
+show me times for flights from city_name to city_name city_name
+what flights are there on day_name period_of_day or day_name period_of_day from city_name to airport_code airport_code
+how many flights go from city_name to city_name on month_name day_number day_number
+could you show me all the flights from city_name to city_name city_name
+find me a flight from city_name to city_name with layover in city_name on airline_name airline_name
+what flights are available between city_name and city_name arriving in city_name at integer integer
+show me the airlines between city_name and city_name city_name
+what flights do you have between city_name and city_name city_name
+show me the flights from city_name to city_name city_name
+i need information for a flight from city_name to city_name city_name
+what is the cost_relative flight from city_name to city_name city_name
+what is the cost_relative flight from city_name to city_name round_trip round_trip
+show me all RARE flights from city_name state_code to city_name and list RARE fares fares
+round_trip flights between city_name and city_name city_name
+show me the round_trip flight from city_name to city_name with the cost_relative fare fare
+what flights are there from city_name to city_name on airline_name airline_name
+i'm trying to make a RARE between city_name and city_name does airline_name fly between those two two
+what is the flight_mod airline_name flight leaving city_name and returning to city_name city_name
+what flights does airline_name have from city_name to city_name on day_name day_name
+can i fly from city_name to city_name city_name city_name
+what is airport_code airport_code
+flights from city_name to city_name city_name
+i would like to leave around time in the period_of_day period_of_day
+show me fares from city_name to city_name city_name
+flights from city_name to city_name city_name
+please show me flights from city_name to city_name on day_name period_of_day serving meal_description meal_description
+flights from city_name month_name second second
+does airline_name fly from city_name to city_name city_name
+yes i'd like a flight from city_name to city_name by way of city_name city_name
+i'd like to know if you have any flights from city_name to city_name city_name
+what are the cost_relative round_trip flights from city_name to city_name city_name
+what is the first flight after time from city_name for city_name city_name
+how many airline_name flights leave from city_name city_name
+now list for me only the airline_name flights that flight from city_name to city_name city_name
+from city_name to city_name city_name
+i am interested in a flight on airline_name from city_name to city_name city_name
+what airplane types fly from city_name to city_name city_name
+what is the fare_basis_code code code
+i would like the flight_mod period_of_day flight from city_name to city_name on day_name period_of_day period_of_day
+how many RARE in a integer integer
+month_name i have a listing of flights from city_name to city_name state_name on day_name day_name
+what flights leave from city_name to city_name on airline_name airline_name
+show me all round_trip from city_name to city_name leaving on day_name day_name
+list all flight_stop flights on day_name from city_name to city_name city_name
+list all flights from city_name to city_name city_name
+what are the round_trip fares for flights from city_name to city_name arriving after integer on airline_name airline_name
+i'd like to see flights from city_name to city_name city_name
+please show me the flights from city_name to city_name on the day_number day_number
+what is airport_code airport_code
+what type of ground transportation is available between the airport and downtown city_name city_name
+is the airline_name flight integer from city_name to city_name a flight_stop flight flight
+give me the flights from city_name state_code to city_name for month_name second second
+show all connecting flights from city_name to city_name city_name
+list flight_days flights from city_name to city_name using airline_code airline_code
+i would like the cost_relative airfare flight on day_name to city_name from city_name city_name
+i need a flight from city_name to city_name leaving in the period_of_day on day_name day_name
+can you give me the period_of_day flight on day_name from city_name to city_name RARE RARE
+i would like to book a flight from city_name to city_name on month_name first first
+what flights from city_name to city_name city_name
+show me all flights direct only from city_name to city_name or city_name that arrive before time RARE time time
+class_type round_trip airfare from city_name to city_name city_name
+flights from city_name to city_name on airline_name airline_name
+list all flights on airline_name leaving city_name on day_name after integer integer
+show me all flights from city_name city_name
+show me all airline_name flights from city_name city_name
+what are the fares from city_name to city_name day_name and day_name day_name
+show me flights from city_name to city_name on month_name day_number day_number
+please show me round_trip tickets from city_name to city_name city_name
+list all flights on airline_name from city_name to city_name with fare code fare_basis_code fare_basis_code
+how many flights does airline_code have in class_type class_type
+list all flights going from city_name to city_name after time on day_name and before time on day_name day_name
+show me the flights to airport_name airport_name
+show me flights from city_name to city_name city_name
+show me the flights from city_name to city_name city_name
+city_name to city_name arriving before integer in the period_of_day period_of_day
+i need a flight from city_name to city_name city_name
+please give me flights leaving city_name and going to city_name city_name
+what do you have from city_name to city_name on day_name period_of_day period_of_day
+flight leaving from city_name to city_name city_name
+tell me about flights on airline_name from city_name to city_name on month_name day_number day_number
+list all flights from city_name to city_name with the flight_stop flight_stop
+are there any flights from city_name to city_name city_name
+what are the flights city_name to city_name on day_name period_of_day period_of_day
+show me flights leaving from city_name state_name to city_name state_name on day_name after time time
+i need flight information between city_name and city_name city_name
+what are my RARE of flights from city_name to city_name city_name
+what is the cost_relative flight from city_name to city_name city_name
+on airline_name any class service from city_name to city_name city_name
+find the cost_relative flight from city_name to city_name with a stopover in city_name city_name
+what are the cost_relative round_trip fares from city_name to city_name city_name
+are there any flights from city_name to city_name stopping in city_name city_name
+flights from city_name to city_name on day_name day_name
+how much is a round_trip fare from city_name to city_name city_name
+show me the flights into airport_name airport_name
+i'd like to fly from city_name to city_name through city_name city_name
+information on flights from city_name to city_name city_name
+what flights does airline_name fly from city_name to city_name city_name
+i want to travel from city_name to city_name round_trip leaving day_name month_name day_number arriving in city_name at around time in the period_of_day and returning the next day arriving in city_name at around time in the period_of_day which airlines fly that RARE RARE
+i would like the time of all flights from city_name to city_name on day_name day_name
+show me ground transportation in city_name please please
+are there any flight_stop flights leaving from city_name arriving in city_name on month_name day_number day_number
+how much does airline_code integer cost cost
+what is the flight_mod flight from city_name to city_name on airline_name airline_name
+please list ground transport in city_name city_name
+i need a flight from city_name to city_name on a day_name day_name
+show me flights from all airports to airport_name airport_name
+list the flights from city_name to city_name on day_name day_name
+what flights are available from city_name to city_name class_type on airline_name arriving month_name day_number before time time
+which airlines are RARE in the RARE RARE
+which flight between city_name and city_name on month_name day_number has the smallest seating capacity capacity
+list all airline_name flights from city_name to city_name that arrive in city_name between time and time time
+what flights are there from city_name to city_name city_name
+is there ground transportation from airport_name to the downtown RARE RARE
+flight_mod period_of_day flights from city_name to city_name city_name
+what's the last flight from city_name to city_name city_name
+is there a flight from city_name to city_name on day_name period_of_day period_of_day
+what is airline airline_code airline_code
+what's the cost_relative round_trip fare from city_name to city_name city_name
+find me the flight_mod flight from city_name to city_name on day_name of the week week
+display all flights from city_name to city_name on month_name day_number day_number
+economy fares city_name to city_name round_trip round_trip
+i need to fly from city_name to city_name on to city_name and back back
+i RARE to book a flight from city_name to city_name class_type RARE fare fare
+show me flights to city_name from city_name and city_name and city_name city_name
+tell me RARE from airport_name to the city city
+hi i need to get a flight from city_name to city_name departing before time time
+what is the cost_relative fare i can get from city_name to city_name city_name
+i would like a flight from city_name to city_name arrive city_name about time time
+airline_name next day_name from city_name to city_name city_name
+could you please find me the cost_relative round_trip fare from city_name to city_name city_name
+i'd like a flight from city_name to city_name for day_name day_name
+return from city_name to city_name on airline_name on day_name day_name
+show me ground transportation in city_name city_name
+please give me the flight_mod flight today_relative from city_name to city_name city_name
+i need ground transportation in city_name please show me what's available available
+what's fare code fare_basis_code fare_basis_code
+the cost_relative flights from city_name to city_name that arrive after time on a day_name day_name
+is there an period_of_day airline_name flight between city_name and city_name city_name
+what flights from city_name to city_name on day_name day_name
+show me all flights both direct and connecting from city_name to either city_name or city_name that depart after time time
+give me flights from city_name to city_name on day_name period_of_day period_of_day
+okay tell me what the flight_mod flight is that leaves between city_name and city_name city_name
+i want a flight from city_name to city_name that leaves early day_name period_of_day period_of_day
+what class_type flights are available from city_name to city_name on month_name day_number year year
+show me the airlines from airport_name airport_name
+what's the cost_relative round_trip ticket from city_name to city_name city_name
+a class_type flight on airline_name to city_name on day_name in the next week week
+what airlines fly between city_name and city_name and stop in city_name city_name
+RARE the flights from city_name to city_name that arrive on a day_name day_name
+flights on day_name from city_name to city_name city_name
+flights from city_name month_name one one
+how many stops on airline_name integer from city_name to city_name city_name
+on flight airline_name integer from city_name to city_name what time and what city does the plane stop in between between
+i need a flight from city_name to city_name which will get me into city_name by time or time_mod time_mod
+i want a round_trip ticket from city_name to city_name city_name
+find me the flight_mod flight leaving city_name month_name day_number and arriving in city_name city_name
+what's the cost_relative round_trip fare from city_name to city_name city_name
+show me flights from city_name to city_name on day_name period_of_day period_of_day
+show me the flights from city_name to city_name state_code state_code
+show me flights from city_name to city_name city_name
+show me the flight_mod flight from city_name to city_name which arrives in city_name day_name before time time
+what are the flights from city_name to city_name city_name
+show me flights from city_name to city_name on day_name day_name
+day_name flights from city_name to city_name city_name
+i need a flight from city_name to city_name leaving at time time
+what's the smallest plane that flies from city_name to city_name on day_number day_number day_number
+give me the flights on month_name day_number with the fares from city_name to city_name city_name
+show me all the airline_name flights leaving city_name between integer and integer in the period_of_day period_of_day
+i want a cost_relative from city_name to city_name city_name
+show all flights from city_name to airport_code airport_code
+show me all flights from city_name to city_name on a day_name day_name
+show me the flight_mod flight from city_name to city_name city_name
+i need a airline_name flight from city_name to city_name on day_name day_name
+what are the cost_relative round_trip flights from city_name to city_name city_name
+all flights from city_name to city_name state_code after time on month_name day_number economy economy
+is there ground transportation in city_name city_name
+list airline_name flights from city_name to city_name on day_name day_name
+what is the cost_relative way to fly from city_name to city_name city_name
+city_name to city_name with flight_stop in city_name please please
+i would like to fly airline_name from city_name to city_name in the late period_of_day what do you have available available
+what does RARE restriction_code mean mean
+what are the flight_mod flights that i can take from city_name to city_name city_name
+list flights from city_name to city_name via city_name city_name
+how much does the airline_name flight integer from city_name to city_name cost cost
+all flights from city_name to city_name which show RARE on day_name period_of_day period_of_day
+show me flights from city_name to city_name on a day_name with a round_trip fare less than fare_amount fare_amount
+flight_stop flights from city_name to city_name city_name
+give me the flights and fares on month_name day_number from city_name to city_name city_name
+what flights are available day_name period_of_day from city_name to city_name city_name
+what are the flights from city_name to city_name also on day_name the day_number of month_name month_name
+what's the ground transportation like at city_name city_name
+list flight_days flights from city_name to city_name using airline_name airline_name
+in the next two RARE i want to fly from city_name to city_name or to city_name city_name
+how many flights does each airline have with class_type service service
+what flights from city_name to city_name on day_name with RARE served served
+show flights from city_name to city_name on either day_name the day_number or day_name the day_number day_number
+what are the flights available between time and time between city_name and city_name city_name
+list all flights from city_name to city_name city_name
+airline code as as
+show me the flights from city_name to city_name city_name
+show me all flights from city_name to city_name on a manufacturer aircraft_code aircraft_code
+month_name i have a list of flights going from city_name to city_name on the day_number of month_name month_name
+could you tell me the cost_relative fare from city_name to city_name on day_number of month_name month_name
+which airline_name flight flies from city_name to city_name and makes a stopover in city_name city_name
+what are the flight_mod flights from city_name to city_name on the period_of_day of month_name day_number day_number
+can you tell me how to get from the airport in city_name to downtown downtown
+what is airport_code airport_code
+now show me the flights from city_name to city_name city_name
+what is the cost of flight airline_code integer from city_name to city_name city_name
+what stops does airline_code integer make from city_name to city_name city_name
+what are the cost_relative round_trip flights from city_name to city_name city_name
+what are the flights from city_name to city_name city_name
+airline_name flights to city_name please please
+i would like to know the flight_mod flight on day_name you have leaving from city_name to city_name which offers a meal meal
+what are the costs of transport_type in city_name city_name
+what airlines fly from city_name to city_name city_name
+can you tell me which flights go from city_name to city_name and make a stop in city_name city_name
+what is the cost_relative round_trip fare between city_name and city_name city_name
+show me ground transportation information for city_name city_name
+all flights and fares from city_name to city_name round_trip after time less than fare_amount fare_amount
+what is the fare from city_name to city_name on airline_name airline_name
+show me the flight_mod flight from city_name to city_name city_name
+show me all the airline_name flights leaving city_name between integer and integer in the period_of_day period_of_day
+show me flights from city_name to city_name city_name
+flights from city_name to city_name city_name
+what is the first flight from city_name to city_name leaving on day_name month_name day_number day_number
+all airline_name flights with stopovers in city_name city_name
+show flights from city_name to city_name on day_name period_of_day period_of_day
+show me all the airline_code flights from city_name to city_name that arrive around time time
+show me the direct flights from city_name to city_name city_name
+i'd like to find the cost_relative flight from city_name to city_name city_name
+show me round_trip fares from city_name to city_name city_name
+i want to go from city_name to city_name round_trip and make a stop at city_name is this possible possible
+please tell me which airline has the most RARE from city_name city_name
+what are the flights from city_name to city_name city_name
+show me round_trip fares from city_name to city_name city_name
+RARE the RARE restriction_code restriction_code
+show me the flights from city_name to city_name city_name
+show me airline_name fares for next day_name from city_name to city_name city_name
+list a round_trip fare from city_name to city_name flights flights
+show me flights from city_name to city_name city_name
+show me all flights from city_name to city_name city_name
+can you show me the cost_relative round_trip flights between city_name and city_name city_name
+how many passengers fit on a aircraft_code aircraft_code
+i would like a flight from city_name to city_name city_name
+show me the flights from city_name to city_name city_name
+i need a flight from city_name to city_name that leaves after time time
+what flights from city_name arrive in city_name before time time
+please show me ground transportation in city_name city_name
+find travel arrangements for a round_trip flight from city_name to city_name city_name
+what is the class_type fare between city_name and city_name on airline_name airline_name
+list flights from city_name to city_name on the period_of_day of month_name day_number day_number
+i would like your rates between city_name and city_name on month_name day_number day_number
+i would like to fly from city_name to city_name early in the period_of_day period_of_day
+looking for a flight from city_name to city_name city_name
+show me all the flights from city_name to city_name city_name
+and flight from city_name to city_name leaving after period_of_day period_of_day
+what does the abbreviation airline_code mean mean
+could i have a list of flights in class_type on day_name from city_name to city_name RARE at time and RARE RARE
+i would like to fly from city_name to city_name city_name
+what flights from city_name to city_name on day_name arriving around time time
+list flight_days flights from city_name to city_name using airline_code airline_code
+could you give me the schedule of flights for airline_name and airline_name to airport_code on month_name day_number day_number
+show me class_type flights from city_name to city_name leaving on a day_name day_name
+please show me airfare of flight airline_code integer from city_name to city_name city_name
+is there a airline_name flight from city_name to city_name that stops in city_name city_name
+please list all airline_name flights between city_name and city_name city_name
+find the cost_relative round_trip fare from city_name to city_name city_name
+give me period_of_day flights from city_name to city_name city_name
+please give me round_trip fares from city_name to city_name city_name
+i would like information on ground transportation in the city of city_name from airport to downtown downtown
+i'd like to fly from city_name to city_name to city_name city_name
+what is the cost_relative flight from city_name to city_name leaving on month_name day_number day_number
+what is the price of airline_name flight integer from city_name to city_name city_name
+what's the first flight from city_name to city_name city_name
+i would like information on flights from city_name to city_name leaving after time day_name period_of_day period_of_day
+what flights go from city_name to city_name leaving after time time
+what is the fare code fare_basis_code and what is the fare code fare_basis_code fare_basis_code
+RARE i'd like a airline_name flight from city_name to city_name city_name
+what flights are provided by airline_name airline_name
+show me the flights from airport_name to other airports airports
+show me the class_type fares from city_name to city_name city_name
+i want the flights from city_name to city_name that stop in city_name city_name
+day_name or day_name flights between city_name and city_name airline_name airline_name
+list the cost_relative round_trip flight from city_name state_name to city_name state_name state_name
+flights from city_name month_name second second
+i'd like to fly from city_name to city_name through city_name city_name
+list all flights from city_name to city_name on day_name day_name
+city_name airports airports
+show me all airline_name flights from city_name to city_name for month_name first year year
+what is the flight_mod flight departing city_name and arriving in city_name on month_name day_number day_number
+from city_name to city_name on day_name period_of_day period_of_day
+cost_relative flight from city_name to city_name city_name
+which airlines fly from city_name to city_name state_code but stopover in some other city city
+please list all airline flights between city_name and city_name city_name
+i am interested in a flight from city_name to city_name the flight should be airline_name and leave in the period_of_day i need to know the aircraft and flight number number
+flights from city_name to city_name city_name
+list flights from city_name to city_name that serve only meal_description meal_description
+how many airlines have flights with service class fare_basis_code fare_basis_code
+could you please give me a round_trip fare from city_name to city_name city_name
+okay i'd like to fly from city_name to city_name city_name
+i'd like a flight from city_name to city_name for day_name day_name
+i need a flight from city_name state_name to city_name state_name leaving this day_name day_name
+give me a list of all the flights from city_name to city_name or city_name to city_name or city_name to city_name city_name
+tell me about ground transportation in airport_name airport_name
+how many airline_name flights are there from city_name please please
+i need a listing of flights from city_name to city_name country_name departing day_name in the period_of_day period_of_day
+show me all the flights from city_name to city_name city_name
+how can i go from the airport_name to downtown city_name city_name
+i would like to fly from city_name to city_name by way of city_name city_name
+give me fares from city_name to city_name city_name
+city_name to city_name city_name
+give me flights from city_name to city_name city_name
+the flight will RARE from city_name city_name
+flights from city_name to city_name and price price
+on day_name what flights leave city_name to city_name state_name and leave after time time
+what is the cost_relative fare from city_name to city_name on flight airline_name integer and airline_name integer integer
+list flights from city_name to city_name on day_name day_name
+what flights are there from city_name to city_name city_name
+what flights go from city_name to city_name with a stopover in city_name city_name
+show flights from city_name to city_name that arrive after time time
+find me the flight_mod flight from city_name to city_name on day_name of the week week
+what is the airfare between city_name and city_name city_name
+show me all flights from city_name to city_name which leave next day_name period_of_day period_of_day
+show me flights from city_name to city_name city_name and city_name city_name
 round_trip
-list all flights on day_name from city_name to city_name flight_stop
-how many airports does city_name have
-can you give me a list of the flights from city_name to city_name
-please give me a list of flights leaving city_name going to city_name
-RARE leaving city_name to city_name before time what type of aircraft is used
-what is the flight_mod flight from city_name to city_name leaving on day_name month_name day_number
-show me all flights from city_name to city_name round_trip less than fare_amount
-what flights return from city_name to city_name on a day_name
-flights from city_name to city_name in the period_of_day
-what are your flights from city_name to city_name
-first flights and fares from city_name to city_name on a day_name
-the flight_mod flight from city_name to city_name please that will be serving a meal
-what type of aircraft flies from city_name to city_name
-show me the cost_relative round_trip tickets from city_name to city_name
-give me day_name flight_stop flights from city_name to city_name
-on the flight from city_name to city_name on airline_name leaving at integer what type of aircraft is used
-i want a period_of_day flight from city_name to city_name
-let's RARE at city_name to city_name RARE
-what are the prices of the flights from city_name to city_name
-what kind of airplane is flight airline_code integer from city_name to city_name
-how many class_type flights does airline_name have today_relative
-what does airline_code stand for
-can i go from city_name to city_name with a stopover in city_name
-can you tell me which flight from city_name to city_name has the cost_relative fare
-show me the flight_mod flight to airport_name
-what type of plane is an aircraft_code
-what is the flight_mod flight that i can take from city_name to city_name
-list the flight_stop flights on day_name month_name second from city_name to city_name arriving in city_name between time and time
-i would like to fly from city_name to city_name day_name period_of_day from city_name to city_name day_name period_of_day and from city_name to city_name on day_name period_of_day
-what is fare code RARE
-show me ground transportation in city_name
-what are all the flights on airline_name in and out of city_name
-show me all the flights from city_name to city_name
-i want to fly from city_name to city_name i would like the cost_relative fare please
-would you tell me the cost_relative round_trip fare from city_name to city_name
-is there ground transportation from the airport to downtown city_name
-does the airport_name have ground transportation to and from downtown
-give me the flights from city_name to city_name leaving day_name period_of_day
-what is days_code
-a flight on airline_name leaving city_name and going to city_name
-show me all meals on flights from city_name to city_name
-day_name flights from city_name to city_name
-i would like to find the cost_relative flight from city_name to city_name
-show me flights arriving in city_name from city_name between integer and time
-i need a flight airline_name city_name to city_name
-can you list all flights from city_name to city_name
-show all flight_stop flights from city_name to city_name
-show flights between city_name and city_name
-show me the flights between city_name and city_name city_name and city_name city_name and city_name
-ground transportation city_name
-show me all flight_days flights between city_name and city_name
-what flights from city_name to city_name arriving before time on day_name
-what flights leave city_name for city_name and depart before time on airline_name
-airlines that fly to city_name from city_name on day_name
-what flights leave city_name on day_name on airline_name after time
-what is the flight_mod flight from city_name to city_name on day_name that serves meal_description
-what do you have going from city_name to city_name serving meal_description
-i'd like to see flights from city_name to city_name
-what flights are available with fare_basis_code from city_name to city_name
-is there ground transportation from the airport_name to the downtown RARE
-flights from city_name to city_name
-i want to go between city_name and city_name
-show RARE from city_name for airline_name
-show me the flights available from city_name to city_name month_name day_number
-show me fares from city_name to city_name on day_name period_of_day
-please list the flight_time from city_name to city_name
-how far is downtown from the airport in city_name
-what flights from any city RARE at airport_name
-show me ground transportation information for city_name
-could you find me the cost_relative fare from city_name to city_name
-please list information RARE airport_name
-show me flights between city_name and city_name on day_name or day_name airline_name
-i'd like a class_type flight from city_name to city_name on month_name first
-what's the name of the airport_name
-list all the takeoffs and landings at airport_name
-show me the flights arriving around time in city_name from city_name
-on day_name i'd like to find a flight from city_name to city_name that arrives before time
-i'd like a flight today_relative from city_name to city_name in the period_of_day
-list the flights from city_name to city_name which have a layover in city_name
-now i need a flight leaving city_name and arriving in city_name time_relative time next day_name
-flights from city_name to city_name
-i want information on flights from city_name to city_name state_code give me information on flights after time on day_name
-show ground transportation for city_name
-what is the flight_mod flight in the period_of_day from city_name to city_name
-period_of_day flight from city_name to city_name
-what are the cost_relative flights from city_name to city_name
-show period_of_day flights from city_name to city_name
-what are the class_type and class_type fares for flights from city_name to city_name arriving around time next day_name
-show me all flights from city_name to city_name on day_name which leave after time
-find me the cost_relative round_trip fare i can get from city_name to city_name
-show me the flights from city_name to city_name on day_name
-what's the cost_relative flight from city_name to city_name
-please list the flight_time from city_name to city_name
-is there a flight between city_name state_code and city_name on airline_name at time
-show me all flights from city_name which leave today_relative and arrive in city_name
-how many RARE in a aircraft_code
-what does fare_basis_code under fare code mean
-all am flights departing city_name arriving city_name
-what flights leave after time from city_name to city_name
-show flights from city_name to city_name
-what flights leave city_name and arrive in city_name around time next day_name
-what does it cost to fly from city_name to city_name on airline_name
-how much is a flight from city_name to city_name
-is there transport_type service available at airport_name
-what are the period_of_day flights in the next two RARE from city_name to city_name
-what is the last flight leaving city_name going to city_name on day_name
-what are the flights from city_name to city_name on day_name month_name first
-does airline_name fly from city_name to city_name
-please list the flight_time from city_name to city_name on day_name period_of_day
-flights from city_name to city_name on day_name
-i would like to find a flight that goes from city_name to city_name i would like it to have a stop in city_name and i would like a flight that serves meal_description
-what are the cost_relative round_trip fares from city_name to city_name
-okay and then from city_name i'd like to travel to city_name on month_name day_number
-what flights go from city_name to city_name after time next day_name
-how much does it cost to get downtown from the airport_name by transport_type
-i would like to fly from city_name to city_name
-show me the airfare from city_name to city_name
-are there any flights on month_name day_number from city_name to city_name
-what is airline_code
-show me the type of aircraft that airline_code uses
-show me flights from city_name to city_name on day_name
-what type of aircraft does airline_name fly from city_name to city_name before time
-can you list all flights from city_name to city_name
-display all flights from city_name to city_name on month_name RARE
-what are the cost_relative class_type tickets between city_name and city_name
-which of the flights from city_name to city_name on month_name day_number year carries the smallest number of passengers
-show me all the flights to city_name after time
-what airlines go from city_name to city_name
-what does fare code fare_basis_code mean
-show me flights from city_name to city_name
-what does the abbreviation airline_code mean
-can you list all flights between city_name and city_name
-what are the air RARE on flights from city_name to city_name for the airfare of fare_amount
-last flight_stop flight from city_name to city_name on day_name period_of_day
-what is the flight_mod flight from city_name to city_name
-i would like an period_of_day flight from city_name into city_name on month_name first on airline_name
-what would be cost of a round_trip from city_name to city_name
-show me the flights from city_name to city_name
-give me the flights from city_name to city_name
-please list the flights from city_name to city_name arriving after period_of_day
-what flights are available between city_name and city_name on month_name day_number
-what type of aircraft leaving after time from city_name to city_name
-i would like the cost_relative flight from city_name to city_name
-are there any flights from city_name to city_name that stop
-i would like to find a flight from city_name to city_name on day_name and i have to be in city_name by one so i'd like a flight out of here time_relative time
-i need information on a flight from city_name to city_name
-can you tell me what flights you have from city_name to city_name
-what are the ground transportation services in city_name
-give me flights from city_name to city_name on airline_name that offer class_type
-does airline_name have a flight from city_name to city_name
-all flights and fares from city_name to city_name round_trip after time less than fare_amount
-list flights from city_name to city_name
-i would like a list of the round_trip flights between city_name and city_name on the day_number or the day_number of month_name
-i need a return flight from city_name to city_name
-i'd like a flight from city_name to city_name city_name
-what flights from city_name to city_name
-please list all flights from city_name to city_name on day_name and day_name
-what is the flight_mod flight between city_name and city_name
-RARE the RARE restriction_code
-the flight_mod flight from city_name to city_name please and i'd like a meal with that
-what are the flights on month_name first year from city_name to city_name
-on month_name day_number what flights are available between city_name and city_name
-list flight_stop flights on day_name from city_name to city_name and list flight_stop flights on day_name from city_name to city_name
-show me the list of flights from city_name to city_name on airline_name and airline_name
-what does airline_code stand for
-could you show me all weekday flights from city_name to city_name
-show me all airline_name class_type flights
-what is airline_code
-what is the price of a class_type ticket from city_name to city_name round_trip
-find a flight on airline_name from city_name to city_name
-i'm trying to find the flight number from a flight from city_name to city_name on airline_name and it arrives around time
-what are the costs of flights from city_name to city_name today_relative
-what flights go from city_name to city_name via city_name
-what's the cost_relative round_trip fare between city_name and city_name
-what are the flights between city_name and city_name on month_name day_number
-show me flights from city_name to city_name on day_name period_of_day
-what flights are available from city_name to city_name
-i want to leave city_name at integer
-RARE give me the type of aircraft used to fly from city_name to city_name
-can you show me flights from city_name to city_name on day_name period_of_day
-is there ground transportation from airport_name to downtown city_name
-are there any transport_type or transport_type services available at the airport_name
-on airline_name flight integer flying from city_name to city_name can you tell me what type of aircraft is used on a flight RARE it leaves at integer
-how do i get from the airport to downtown in city_name
-day_name period_of_day flights between city_name and city_name
-show me flights from city_name to city_name
-show me all flights from city_name to city_name which leave city_name after time today_relative
-round_trip fares from city_name to city_name less than fare_amount
-i want to fly from city_name to city_name on day_name period_of_day
-how many flight_days airline_name flights are there between city_name and city_name
-show me all the airline_name flights from city_name to city_name that leave at time
-how long does it take to get from airport_name into the city of city_name
-what's the cost_relative way to fly between city_name and city_name
-what are the fares for flights from city_name to city_name leaving day_name period_of_day
-give me the list of flights for airline_name between city_name and city_name
-can i see ground transportation from city_name airport to downtown
-i want a flight from city_name to city_name
-airline_code integer
-what flights are available from city_name to airport_name
-period_of_day flight from city_name to city_name
-show me all the flights from city_name to city_name
-show me the flights on airline_code to city_name in the period_of_day
-do all the flights to city_name RARE at the same RARE
-show me the flights from city_name to city_name that arrive before time
-how much is a class_type ticket from city_name to city_name
-please give me all flights from city_name to city_name
-i want to fly flight_stop from city_name to city_name
-what is the flight_mod flight leaving city_name on month_name first to city_name on month_name first
-i'd like a flight today_relative period_of_day from city_name to city_name that RARE meal_description for today_relative
-show me the flights from city_name to city_name leaving after time
-what flights go from city_name to city_name via city_name
-can you help me with ground transportation information i need to get from the airport in city_name to downtown city_name
-show me the flight_mod flight on day_name from city_name to city_name
-could you please give me the round_trip fare from city_name to city_name
-show day_name flights from city_name to city_name
-what flights depart from city_name and arrive in city_name state_name
-flights from city_name to city_name departing after time
-i would like a flight from city_name to city_name on month_name day_number
-show me flights from city_name to city_name
-please give all flights from city_name to city_name state_name day_name
-what flights are available day_name period_of_day from city_name to city_name
-show me the flights from city_name to city_name arriving in city_name on month_name day_number
-list the period_of_day flights at a fare_amount from city_name to city_name
-show me the flights from city_name to city_name on a day_name
-i need to fly from city_name to city_name and then to city_name and back to city_name
-what is the cost_relative flight on airline_name from city_name to city_name
-show me flights available from city_name to city_name leaving on day_name period_of_day
-what's the flight_mod flight from city_name to city_name on day_name period_of_day
-what ground transportation is available in city_name
-what is the flight_mod flight leaving city_name returning to city_name
-does airline_name fly between city_name and city_name
-show me flights from city_name to city_name leaving month_name day_number
-list all the landings at airport_name
-how many class_type flights does airline_name have today_relative
-are there any flight_stop flights from city_name to city_name on day_name month_name day_number
-what are the flights which depart from city_name fly to city_name via city_name and arrive by time
-please list the flights from city_name to city_name on month_name day_number
-RARE i would like to RARE a flight on airline_name from city_name to city_name
-what are the two airline_name flights that leave from city_name to city_name in the period_of_day
-what flights do you have from city_name to city_name
-i'd like a flight_stop flight from city_name to city_name that serves meal_description what's available
-what times on day_name could i take a plane from city_name to city_name
-show me ground transportation for city_name
-are there any flights from city_name to city_name which stop in city_name
-what airlines have class_type
-please give me all flights from city_name to city_name
-flight from city_name to city_name
-list flights from city_name to city_name
-i'd like to know what type of plane flies from city_name to city_name after integer
-please tell me the times of the flights between city_name and city_name
-find a flight from city_name to city_name please on airline_name
-what is the cost of a ticket going from city_name to city_name month_name day_number year
-flight numbers from city_name to city_name on month_name day_number
-i'm looking for a flight from city_name to city_name with a stopover in city_name
-show me class_type airlines from city_name to city_name on next day_name class_type only
-what flights are there on day_name from city_name to city_name
-i need a flight from city_name to city_name state_code on day_name
-show me the flights from city_name to city_name
-RARE let's see does airline_name have a flight from city_name to city_name
-what is the price of class_type from city_name to city_name on airline_code
-flights from city_name to city_name in the period_of_day
-airline_name flight integer from city_name to city_name leaving at integer what type of aircraft is used on that flight
-what are all the flights between city_name and city_name
-define airline airline_code
-i want to fly city_name to city_name on month_name day_number
-find a flight from city_name to city_name on day_name
-give me information on flights from city_name to city_name state_code on day_name after time and day_name before time
-find the flights from city_name to city_name leaving after time
-show me the cost_relative fare from city_name to city_name
-i live in city_name and i'd like to make a trip to city_name
-give me flights that arrive in city_name from city_name city_name and city_name
-RARE i'm trying to find a flight that goes from city_name to city_name after time
-what airlines fly between city_name and city_name
-code airline_code
-what is the flight_mod flight from city_name to city_name on month_name day_number
-list all flights from city_name to city_name on airline_name
-i would like a list of flights from city_name to city_name
-on month_name day_number of this year year i'd like to fly from city_name to city_name and i'd like to fly on airline_name
-do you have any airlines that would stop at city_name on the way from city_name to city_name
-list all flights from city_name state_name to city_name that are the cost_relative round_trip
-list the flight_stop flights on day_name month_name second from city_name to city_name arriving in city_name between time and time
-give me flights from city_name to city_name on day_name period_of_day
-city_name to city_name
-what's the last flight leaving from city_name to city_name
-does any airline have an period_of_day flight from city_name to city_name
-do you have a flight from city_name to city_name with a stopover in city_name
-i want to make a trip from city_name to city_name
-i would like information on flights leaving city_name in the period_of_day arriving in city_name
-show me all flights from city_name to city_name flight_stop
-show me all flights with fares from city_name to city_name
+round_trip
+list all flights on day_name from city_name to city_name flight_stop flight_stop
+how many airports does city_name have have
+can you give me a list of the flights from city_name to city_name city_name
+please give me a list of flights leaving city_name going to city_name city_name
+RARE leaving city_name to city_name before time what type of aircraft is used used
+what is the flight_mod flight from city_name to city_name leaving on day_name month_name day_number day_number
+show me all flights from city_name to city_name round_trip less than fare_amount fare_amount
+what flights return from city_name to city_name on a day_name day_name
+flights from city_name to city_name in the period_of_day period_of_day
+what are your flights from city_name to city_name city_name
+first flights and fares from city_name to city_name on a day_name day_name
+the flight_mod flight from city_name to city_name please that will be serving a meal meal
+what type of aircraft flies from city_name to city_name city_name
+show me the cost_relative round_trip tickets from city_name to city_name city_name
+give me day_name flight_stop flights from city_name to city_name city_name
+on the flight from city_name to city_name on airline_name leaving at integer what type of aircraft is used used
+i want a period_of_day flight from city_name to city_name city_name
+let's RARE at city_name to city_name RARE RARE
+what are the prices of the flights from city_name to city_name city_name
+what kind of airplane is flight airline_code integer from city_name to city_name city_name
+how many class_type flights does airline_name have today_relative today_relative
+what does airline_code stand for for
+can i go from city_name to city_name with a stopover in city_name city_name
+can you tell me which flight from city_name to city_name has the cost_relative fare fare
+show me the flight_mod flight to airport_name airport_name
+what type of plane is an aircraft_code aircraft_code
+what is the flight_mod flight that i can take from city_name to city_name city_name
+list the flight_stop flights on day_name month_name second from city_name to city_name arriving in city_name between time and time time
+i would like to fly from city_name to city_name day_name period_of_day from city_name to city_name day_name period_of_day and from city_name to city_name on day_name period_of_day period_of_day
+what is fare code RARE RARE
+show me ground transportation in city_name city_name
+what are all the flights on airline_name in and out of city_name city_name
+show me all the flights from city_name to city_name city_name
+i want to fly from city_name to city_name i would like the cost_relative fare please please
+would you tell me the cost_relative round_trip fare from city_name to city_name city_name
+is there ground transportation from the airport to downtown city_name city_name
+does the airport_name have ground transportation to and from downtown downtown
+give me the flights from city_name to city_name leaving day_name period_of_day period_of_day
+what is days_code days_code
+a flight on airline_name leaving city_name and going to city_name city_name
+show me all meals on flights from city_name to city_name city_name
+day_name flights from city_name to city_name city_name
+i would like to find the cost_relative flight from city_name to city_name city_name
+show me flights arriving in city_name from city_name between integer and time time
+i need a flight airline_name city_name to city_name city_name
+can you list all flights from city_name to city_name city_name
+show all flight_stop flights from city_name to city_name city_name
+show flights between city_name and city_name city_name
+show me the flights between city_name and city_name city_name and city_name city_name and city_name city_name
+ground transportation city_name city_name
+show me all flight_days flights between city_name and city_name city_name
+what flights from city_name to city_name arriving before time on day_name day_name
+what flights leave city_name for city_name and depart before time on airline_name airline_name
+airlines that fly to city_name from city_name on day_name day_name
+what flights leave city_name on day_name on airline_name after time time
+what is the flight_mod flight from city_name to city_name on day_name that serves meal_description meal_description
+what do you have going from city_name to city_name serving meal_description meal_description
+i'd like to see flights from city_name to city_name city_name
+what flights are available with fare_basis_code from city_name to city_name city_name
+is there ground transportation from the airport_name to the downtown RARE RARE
+flights from city_name to city_name city_name
+i want to go between city_name and city_name city_name
+show RARE from city_name for airline_name airline_name
+show me the flights available from city_name to city_name month_name day_number day_number
+show me fares from city_name to city_name on day_name period_of_day period_of_day
+please list the flight_time from city_name to city_name city_name
+how far is downtown from the airport in city_name city_name
+what flights from any city RARE at airport_name airport_name
+show me ground transportation information for city_name city_name
+could you find me the cost_relative fare from city_name to city_name city_name
+please list information RARE airport_name airport_name
+show me flights between city_name and city_name on day_name or day_name airline_name airline_name
+i'd like a class_type flight from city_name to city_name on month_name first first
+what's the name of the airport_name airport_name
+list all the takeoffs and landings at airport_name airport_name
+show me the flights arriving around time in city_name from city_name city_name
+on day_name i'd like to find a flight from city_name to city_name that arrives before time time
+i'd like a flight today_relative from city_name to city_name in the period_of_day period_of_day
+list the flights from city_name to city_name which have a layover in city_name city_name
+now i need a flight leaving city_name and arriving in city_name time_relative time next day_name day_name
+flights from city_name to city_name city_name
+i want information on flights from city_name to city_name state_code give me information on flights after time on day_name day_name
+show ground transportation for city_name city_name
+what is the flight_mod flight in the period_of_day from city_name to city_name city_name
+period_of_day flight from city_name to city_name city_name
+what are the cost_relative flights from city_name to city_name city_name
+show period_of_day flights from city_name to city_name city_name
+what are the class_type and class_type fares for flights from city_name to city_name arriving around time next day_name day_name
+show me all flights from city_name to city_name on day_name which leave after time time
+find me the cost_relative round_trip fare i can get from city_name to city_name city_name
+show me the flights from city_name to city_name on day_name day_name
+what's the cost_relative flight from city_name to city_name city_name
+please list the flight_time from city_name to city_name city_name
+is there a flight between city_name state_code and city_name on airline_name at time time
+show me all flights from city_name which leave today_relative and arrive in city_name city_name
+how many RARE in a aircraft_code aircraft_code
+what does fare_basis_code under fare code mean mean
+all am flights departing city_name arriving city_name city_name
+what flights leave after time from city_name to city_name city_name
+show flights from city_name to city_name city_name
+what flights leave city_name and arrive in city_name around time next day_name day_name
+what does it cost to fly from city_name to city_name on airline_name airline_name
+how much is a flight from city_name to city_name city_name
+is there transport_type service available at airport_name airport_name
+what are the period_of_day flights in the next two RARE from city_name to city_name city_name
+what is the last flight leaving city_name going to city_name on day_name day_name
+what are the flights from city_name to city_name on day_name month_name first first
+does airline_name fly from city_name to city_name city_name
+please list the flight_time from city_name to city_name on day_name period_of_day period_of_day
+flights from city_name to city_name on day_name day_name
+i would like to find a flight that goes from city_name to city_name i would like it to have a stop in city_name and i would like a flight that serves meal_description meal_description
+what are the cost_relative round_trip fares from city_name to city_name city_name
+okay and then from city_name i'd like to travel to city_name on month_name day_number day_number
+what flights go from city_name to city_name after time next day_name day_name
+how much does it cost to get downtown from the airport_name by transport_type transport_type
+i would like to fly from city_name to city_name city_name
+show me the airfare from city_name to city_name city_name
+are there any flights on month_name day_number from city_name to city_name city_name
+what is airline_code airline_code
+show me the type of aircraft that airline_code uses uses
+show me flights from city_name to city_name on day_name day_name
+what type of aircraft does airline_name fly from city_name to city_name before time time
+can you list all flights from city_name to city_name city_name
+display all flights from city_name to city_name on month_name RARE RARE
+what are the cost_relative class_type tickets between city_name and city_name city_name
+which of the flights from city_name to city_name on month_name day_number year carries the smallest number of passengers passengers
+show me all the flights to city_name after time time
+what airlines go from city_name to city_name city_name
+what does fare code fare_basis_code mean mean
+show me flights from city_name to city_name city_name
+what does the abbreviation airline_code mean mean
+can you list all flights between city_name and city_name city_name
+what are the air RARE on flights from city_name to city_name for the airfare of fare_amount fare_amount
+last flight_stop flight from city_name to city_name on day_name period_of_day period_of_day
+what is the flight_mod flight from city_name to city_name city_name
+i would like an period_of_day flight from city_name into city_name on month_name first on airline_name airline_name
+what would be cost of a round_trip from city_name to city_name city_name
+show me the flights from city_name to city_name city_name
+give me the flights from city_name to city_name city_name
+please list the flights from city_name to city_name arriving after period_of_day period_of_day
+what flights are available between city_name and city_name on month_name day_number day_number
+what type of aircraft leaving after time from city_name to city_name city_name
+i would like the cost_relative flight from city_name to city_name city_name
+are there any flights from city_name to city_name that stop stop
+i would like to find a flight from city_name to city_name on day_name and i have to be in city_name by one so i'd like a flight out of here time_relative time time
+i need information on a flight from city_name to city_name city_name
+can you tell me what flights you have from city_name to city_name city_name
+what are the ground transportation services in city_name city_name
+give me flights from city_name to city_name on airline_name that offer class_type class_type
+does airline_name have a flight from city_name to city_name city_name
+all flights and fares from city_name to city_name round_trip after time less than fare_amount fare_amount
+list flights from city_name to city_name city_name
+i would like a list of the round_trip flights between city_name and city_name on the day_number or the day_number of month_name month_name
+i need a return flight from city_name to city_name city_name
+i'd like a flight from city_name to city_name city_name city_name
+what flights from city_name to city_name city_name
+please list all flights from city_name to city_name on day_name and day_name day_name
+what is the flight_mod flight between city_name and city_name city_name
+RARE the RARE restriction_code restriction_code
+the flight_mod flight from city_name to city_name please and i'd like a meal with that that
+what are the flights on month_name first year from city_name to city_name city_name
+on month_name day_number what flights are available between city_name and city_name city_name
+list flight_stop flights on day_name from city_name to city_name and list flight_stop flights on day_name from city_name to city_name city_name
+show me the list of flights from city_name to city_name on airline_name and airline_name airline_name
+what does airline_code stand for for
+could you show me all weekday flights from city_name to city_name city_name
+show me all airline_name class_type flights flights
+what is airline_code airline_code
+what is the price of a class_type ticket from city_name to city_name round_trip round_trip
+find a flight on airline_name from city_name to city_name city_name
+i'm trying to find the flight number from a flight from city_name to city_name on airline_name and it arrives around time time
+what are the costs of flights from city_name to city_name today_relative today_relative
+what flights go from city_name to city_name via city_name city_name
+what's the cost_relative round_trip fare between city_name and city_name city_name
+what are the flights between city_name and city_name on month_name day_number day_number
+show me flights from city_name to city_name on day_name period_of_day period_of_day
+what flights are available from city_name to city_name city_name
+i want to leave city_name at integer integer
+RARE give me the type of aircraft used to fly from city_name to city_name city_name
+can you show me flights from city_name to city_name on day_name period_of_day period_of_day
+is there ground transportation from airport_name to downtown city_name city_name
+are there any transport_type or transport_type services available at the airport_name airport_name
+on airline_name flight integer flying from city_name to city_name can you tell me what type of aircraft is used on a flight RARE it leaves at integer integer
+how do i get from the airport to downtown in city_name city_name
+day_name period_of_day flights between city_name and city_name city_name
+show me flights from city_name to city_name city_name
+show me all flights from city_name to city_name which leave city_name after time today_relative today_relative
+round_trip fares from city_name to city_name less than fare_amount fare_amount
+i want to fly from city_name to city_name on day_name period_of_day period_of_day
+how many flight_days airline_name flights are there between city_name and city_name city_name
+show me all the airline_name flights from city_name to city_name that leave at time time
+how long does it take to get from airport_name into the city of city_name city_name
+what's the cost_relative way to fly between city_name and city_name city_name
+what are the fares for flights from city_name to city_name leaving day_name period_of_day period_of_day
+give me the list of flights for airline_name between city_name and city_name city_name
+can i see ground transportation from city_name airport to downtown downtown
+i want a flight from city_name to city_name city_name
+airline_code integer integer
+what flights are available from city_name to airport_name airport_name
+period_of_day flight from city_name to city_name city_name
+show me all the flights from city_name to city_name city_name
+show me the flights on airline_code to city_name in the period_of_day period_of_day
+do all the flights to city_name RARE at the same RARE RARE
+show me the flights from city_name to city_name that arrive before time time
+how much is a class_type ticket from city_name to city_name city_name
+please give me all flights from city_name to city_name city_name
+i want to fly flight_stop from city_name to city_name city_name
+what is the flight_mod flight leaving city_name on month_name first to city_name on month_name first first
+i'd like a flight today_relative period_of_day from city_name to city_name that RARE meal_description for today_relative today_relative
+show me the flights from city_name to city_name leaving after time time
+what flights go from city_name to city_name via city_name city_name
+can you help me with ground transportation information i need to get from the airport in city_name to downtown city_name city_name
+show me the flight_mod flight on day_name from city_name to city_name city_name
+could you please give me the round_trip fare from city_name to city_name city_name
+show day_name flights from city_name to city_name city_name
+what flights depart from city_name and arrive in city_name state_name state_name
+flights from city_name to city_name departing after time time
+i would like a flight from city_name to city_name on month_name day_number day_number
+show me flights from city_name to city_name city_name
+please give all flights from city_name to city_name state_name day_name day_name
+what flights are available day_name period_of_day from city_name to city_name city_name
+show me the flights from city_name to city_name arriving in city_name on month_name day_number day_number
+list the period_of_day flights at a fare_amount from city_name to city_name city_name
+show me the flights from city_name to city_name on a day_name day_name
+i need to fly from city_name to city_name and then to city_name and back to city_name city_name
+what is the cost_relative flight on airline_name from city_name to city_name city_name
+show me flights available from city_name to city_name leaving on day_name period_of_day period_of_day
+what's the flight_mod flight from city_name to city_name on day_name period_of_day period_of_day
+what ground transportation is available in city_name city_name
+what is the flight_mod flight leaving city_name returning to city_name city_name
+does airline_name fly between city_name and city_name city_name
+show me flights from city_name to city_name leaving month_name day_number day_number
+list all the landings at airport_name airport_name
+how many class_type flights does airline_name have today_relative today_relative
+are there any flight_stop flights from city_name to city_name on day_name month_name day_number day_number
+what are the flights which depart from city_name fly to city_name via city_name and arrive by time time
+please list the flights from city_name to city_name on month_name day_number day_number
+RARE i would like to RARE a flight on airline_name from city_name to city_name city_name
+what are the two airline_name flights that leave from city_name to city_name in the period_of_day period_of_day
+what flights do you have from city_name to city_name city_name
+i'd like a flight_stop flight from city_name to city_name that serves meal_description what's available available
+what times on day_name could i take a plane from city_name to city_name city_name
+show me ground transportation for city_name city_name
+are there any flights from city_name to city_name which stop in city_name city_name
+what airlines have class_type class_type
+please give me all flights from city_name to city_name city_name
+flight from city_name to city_name city_name
+list flights from city_name to city_name city_name
+i'd like to know what type of plane flies from city_name to city_name after integer integer
+please tell me the times of the flights between city_name and city_name city_name
+find a flight from city_name to city_name please on airline_name airline_name
+what is the cost of a ticket going from city_name to city_name month_name day_number year year
+flight numbers from city_name to city_name on month_name day_number day_number
+i'm looking for a flight from city_name to city_name with a stopover in city_name city_name
+show me class_type airlines from city_name to city_name on next day_name class_type only only
+what flights are there on day_name from city_name to city_name city_name
+i need a flight from city_name to city_name state_code on day_name day_name
+show me the flights from city_name to city_name city_name
+RARE let's see does airline_name have a flight from city_name to city_name city_name
+what is the price of class_type from city_name to city_name on airline_code airline_code
+flights from city_name to city_name in the period_of_day period_of_day
+airline_name flight integer from city_name to city_name leaving at integer what type of aircraft is used on that flight flight
+what are all the flights between city_name and city_name city_name
+define airline airline_code airline_code
+i want to fly city_name to city_name on month_name day_number day_number
+find a flight from city_name to city_name on day_name day_name
+give me information on flights from city_name to city_name state_code on day_name after time and day_name before time time
+find the flights from city_name to city_name leaving after time time
+show me the cost_relative fare from city_name to city_name city_name
+i live in city_name and i'd like to make a trip to city_name city_name
+give me flights that arrive in city_name from city_name city_name and city_name city_name
+RARE i'm trying to find a flight that goes from city_name to city_name after time time
+what airlines fly between city_name and city_name city_name
+code airline_code airline_code
+what is the flight_mod flight from city_name to city_name on month_name day_number day_number
+list all flights from city_name to city_name on airline_name airline_name
+i would like a list of flights from city_name to city_name city_name
+on month_name day_number of this year year i'd like to fly from city_name to city_name and i'd like to fly on airline_name airline_name
+do you have any airlines that would stop at city_name on the way from city_name to city_name city_name
+list all flights from city_name state_name to city_name that are the cost_relative round_trip round_trip
+list the flight_stop flights on day_name month_name second from city_name to city_name arriving in city_name between time and time time
+give me flights from city_name to city_name on day_name period_of_day period_of_day
+city_name to city_name city_name
+what's the last flight leaving from city_name to city_name city_name
+does any airline have an period_of_day flight from city_name to city_name city_name
+do you have a flight from city_name to city_name with a stopover in city_name city_name
+i want to make a trip from city_name to city_name city_name
+i would like information on flights leaving city_name in the period_of_day arriving in city_name city_name
+show me all flights from city_name to city_name flight_stop flight_stop
+show me all flights with fares from city_name to city_name city_name
 what are the flights from city_name to city_name

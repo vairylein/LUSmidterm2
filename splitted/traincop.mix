@@ -1,0 +1,1001 @@
+<unk> null <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> null <unk> at <unk> null null <unk> <unk>
+null <unk> null null from <unk> to <unk> null <unk> depart_time.period_of_day depart_time.period_of_day
+null null null <unk> null <unk> null null <unk> <unk> <unk> <unk> <unk>
+<unk> <unk> from <unk> to <unk> <unk>
+<unk> <unk> from fromloc.city_name to <unk> cost_relative <unk> <unk>
+null null null flight <unk> from <unk> to <unk> <unk>
+null <unk> null <unk> null null null null flight from <unk> to <unk> <unk>
+<unk> null null flights from fromloc.city_name to <unk> null depart_date.day_name depart_date.day_name
+null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null kind null <unk> <unk> null null null city_name city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from <unk> to <unk> null null null <unk> <unk>
+null null <unk> at city_name city_name
+null null null cost_relative flight from fromloc.city_name to <unk> <unk>
+null flights to toloc.city_name <unk> <unk> <unk>
+show null null <unk> fares from fromloc.city_name to toloc.city_name toloc.city_name
+show null null ground transportation null city_name city_name
+null flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time and <unk> <unk> <unk>
+null null <unk> null flights null <unk> leaving fromloc.city_name null toloc.city_name fromloc.city_name to toloc.city_name and fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> null null flights from fromloc.city_name to toloc.city_name null depart_date.day_name null depart_date.date_relative <unk> <unk>
+null null null to fly from fromloc.city_name to toloc.city_name null <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> null class_type flights null <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> null <unk> null null null <unk> <unk>
+null null to null null information null null <unk> from fromloc.city_name to toloc.city_name and <unk> <unk>
+null null to <unk> null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> <unk> fromloc.city_name fromloc.city_name and fromloc.city_name fromloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null <unk> null depart_date.date_relative week null <unk> fromloc.city_name depart_time.time_relative <unk> <unk>
+city_name ground transportation transportation
+null null null <unk> from fromloc.city_name to toloc.city_name <unk> arrive_time.time_relative <unk> <unk>
+show null null cost_relative round_trip <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from <unk> to <unk> null <unk> <unk> at <unk> <unk>
+flights from fromloc.city_name to <unk> <unk>
+null <unk> null flight null <unk> from fromloc.city_name to toloc.city_name and give null null flight <unk> <unk>
+null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+fares and flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null <unk> null class_type flights flights
+null null null flights from <unk> to <unk> <unk> <unk> <unk>
+null null to <unk> null flight from fromloc.city_name to toloc.city_name toloc.city_name
+show flights from fromloc.city_name to toloc.city_name <unk> depart_time.start_time and <unk> null <unk> <unk>
+null null null null from <unk> to toloc.city_name toloc.city_name
+null null null null list null round_trip flights between <unk> and toloc.city_name <unk> null null <unk> and null <unk> null <unk> <unk>
+null airline null null mod <unk> null toloc.city_name toloc.city_name
+null airlines fly from fromloc.city_name to stoploc.city_name to toloc.city_name toloc.city_name
+fromloc.city_name to toloc.city_name toloc.city_name
+null airlines <unk> city_name city_name
+show null information null ground transportation null city_name city_name
+null null fare <unk> <unk> <unk>
+show null null flights from fromloc.city_name to <unk> null <unk> and <unk> null arrive arrive_time.time_relative arrive_time.time arrive_time.time
+null null null flight from <unk> to toloc.city_name leaving <unk> depart_time.period_of_day depart_time.period_of_day
+null null null <unk> null null null planes leaving from fromloc.city_name <unk> to toloc.city_name null <unk> <unk> <unk>
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights <unk> from fromloc.city_name to toloc.city_name depart_time.time_relative <unk> depart_date.date_relative depart_date.day_name depart_date.day_name
+null null null null <unk> service <unk> null city_name city_name
+null <unk> null null flights null null fromloc.city_name to toloc.city_name toloc.city_name
+null null <unk> <unk> fare_basis_code fare_basis_code
+null null to null null <unk> <unk> between fromloc.city_name and toloc.city_name toloc.city_name
+null null null to null information null flights from fromloc.city_name leaving depart_time.time_relative <unk> to toloc.city_name null <unk> <unk>
+null null null <unk> flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null to null information null flights leaving fromloc.city_name null depart_date.day_name depart_time.period_of_day and <unk> to toloc.city_name toloc.city_name
+null flight <unk> from fromloc.city_name to toloc.city_name class_type null airline_name arriving null arrive_date.month_name arrive_date.day_number arrive_date.day_number
+null null null null null null airlines null fly from <unk> to toloc.city_name toloc.city_name
+null flights null null null from fromloc.city_name to toloc.city_name toloc.state_name toloc.state_name
+null null null ground transportation from <unk> to null <unk> <unk> <unk>
+null airlines null class_type flights depart_date.today_relative depart_date.today_relative
+find null <unk> flight from fromloc.city_name to toloc.city_name null serves null <unk> <unk>
+null null null to <unk> null <unk> null null flight to toloc.city_name from fromloc.city_name null depart_date.date_relative <unk> depart_date.day_name depart_date.day_name
+give null null list null <unk> null city_name city_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null fare code <unk> null null
+null give null null flights from fromloc.city_name to toloc.city_name <unk> <unk>
+null null information from fromloc.city_name to toloc.city_name toloc.city_name
+from <unk> to <unk> <unk>
+null null null <unk> flight from fromloc.city_name to toloc.airport_code null serves null <unk> <unk>
+null <unk> null aircraft null airline_name fly fly
+null null null cost null null round_trip flight from fromloc.city_name to toloc.city_name <unk> null <unk> <unk> and return null return_date.month_name <unk> <unk>
+give null null flights leaving fromloc.city_name <unk> <unk> coming <unk> to toloc.city_name toloc.city_name
+list null null flights null fly null <unk> <unk>
+null flights fly from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name depart_date.day_name depart_date.day_name and depart_date.day_name depart_date.day_name
+list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flight meal <unk> to toloc.city_name <unk> <unk>
+show null null flights null <unk> from fromloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+null null to find null flight_mod flight from fromloc.city_name to toloc.city_name null serves null meal meal
+null null airlines null airline null null mod arrivals null toloc.city_name toloc.city_name
+<unk> null flights from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+null null to <unk> from fromloc.city_name to toloc.city_name <unk> null null depart_time.period_of_day flight_mod flight flight
+null null null null flight from <unk> to toloc.city_name leaving null depart_date.day_name null <unk> <unk>
+null null null flights null depart_time.time_relative depart_time.time between fromloc.city_name and toloc.city_name toloc.city_name
+null flights <unk> fromloc.city_name null depart_date.day_name and arrive null toloc.city_name arrive_time.time_relative arrive_time.time arrive_time.time
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+list null <unk> flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null fares from fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> flights between fromloc.city_name and toloc.city_name arrive arrive_time.time_relative <unk> <unk>
+null null null <unk> from <unk> to toloc.city_name toloc.city_name
+ground transportation null city_name city_name
+null null null null null flight_stop flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null flight_mod flight from fromloc.city_name to toloc.city_name null airline_name null null meal null <unk> <unk>
+null null <unk> fly fly
+null flights from fromloc.city_name to toloc.city_name arrive arrive_time.time_relative <unk> null null arrive_time.period_of_day arrive_time.period_of_day
+find null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+list flight_stop flights from fromloc.city_name to toloc.city_name null arrive arrive_time.time_relative <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name null <unk> null stoploc.city_name stoploc.city_name
+show null flights to toloc.city_name from fromloc.city_name <unk> null stoploc.city_name stoploc.city_name
+null city null null airport <unk> null null
+null null null null cost to <unk> null <unk> null city_name city_name
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null list null ground transportation at city_name city_name
+null null null flight from fromloc.city_name to <unk> stopping null <unk> and <unk> <unk> null null null
+null show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+show flights from fromloc.city_name to toloc.city_name toloc.city_name
+give null null cost_relative flight from fromloc.city_name to <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+find null null flight null airline_name from fromloc.city_name to toloc.city_name null null <unk> null stoploc.city_name stoploc.city_name
+show null null flight_mod flight from <unk> <unk>
+null flights go from fromloc.city_name to toloc.city_name depart_time.time_relative <unk> <unk>
+null null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_mod flight departing fromloc.city_name and arriving null toloc.city_name null <unk> arrive_date.day_number arrive_date.day_number
+null null null flight_mod flight <unk> from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null list null flights null depart_date.date_relative depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+null flights leave fromloc.city_name and arrive null toloc.city_name arrive_time.time_relative arrive_time.time null arrive_date.day_name arrive_date.day_name
+null null null transportation <unk> from null airport to toloc.city_name toloc.city_name
+null airline null null <unk> <unk> leaving fromloc.city_name and arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number arrive_date.day_number
+null null null flight_stop flights null <unk> null <unk> <unk> from <unk> to toloc.city_name null arrive_date.day_name arrive_date.month_name <unk> <unk>
+null null null <unk> null service null airline_name airline_name
+null null null to find null null flights null null null depart_date.day_name <unk> <unk> from <unk> to toloc.city_name and null from fromloc.city_name to toloc.city_name null null null
+null flights from fromloc.city_name to toloc.city_name toloc.state_code null depart_date.month_name <unk> <unk>
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null <unk> flight from fromloc.city_name to toloc.city_name null <unk> null aircraft null null null
+null flight null null <unk> fare at <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null flights leave fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null depart_date.day_name depart_date.day_name
+null null null to null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null list flights between fromloc.city_name and toloc.city_name toloc.city_name
+find null null flights null null flight_stop between fromloc.city_name and toloc.city_name null leave between <unk> and <unk> null null <unk> <unk>
+null null null null information null flights leaving fromloc.city_name to toloc.city_name toloc.city_name
+show null null flight_mod flight_stop flight from fromloc.city_name to toloc.city_name toloc.state_code toloc.state_code
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null flight_stop flight from fromloc.city_name to <unk> null <unk> arrive_date.day_number arrive_date.day_number
+null null null to go from fromloc.city_name to toloc.city_name toloc.city_name
+show null null null <unk> fares between fromloc.city_name and toloc.city_name toloc.city_name
+null kinds null ground transportation null null null city_name city_name
+null null show null <unk> round_trip fares null flights from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+null null fare code <unk> <unk>
+null null null flight null depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+null null null <unk> fares from fromloc.city_name to <unk> depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null ground transportation null null city_name city_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null to null null flights null from fromloc.city_name to toloc.city_name arriving null toloc.city_name arrive_time.time_relative <unk> arrive_date.day_name arrive_time.period_of_day arrive_time.period_of_day
+null null null to fly null cost_relative <unk> null from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+list null flight from fromloc.city_name to toloc.city_name null airline_name airline_name
+flights from <unk> to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null flight_mod flight from fromloc.city_name to toloc.city_name null depart_date.day_name <unk> depart_date.day_number null <unk> depart_time.time_relative depart_time.time depart_time.time
+null null null class_type fare null airline_name flight <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+flight from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative <unk> null arrive_date.day_name arrive_date.day_name
+list flights depart_date.today_relative from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.state_code <unk> <unk>
+null null null to go from fromloc.city_name to toloc.city_name toloc.city_name
+show null null null airline_name flights leaving fromloc.city_name fromloc.city_name
+null null list null null flights between fromloc.city_name and toloc.city_name toloc.city_name
+list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+round_trip flights from fromloc.city_name to toloc.city_name class_type <unk> fare fare
+null null to fly from fromloc.city_name to toloc.city_name and null null null null <unk> and null null to fly null null null depart_time.period_of_day depart_time.period_of_day
+flights from fromloc.city_name to toloc.city_name between <unk> and <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null null null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+null kind null ground transportation null null <unk> null null city_name city_name
+leaving fromloc.city_name going to toloc.city_name null flight_mod flight flight
+show null null flights null from fromloc.city_name to toloc.city_name leaving fromloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+round_trip fares fromloc.city_name to toloc.city_name toloc.city_name
+null flights null <unk> null airline_name airline_name
+null null null null from <unk> to <unk> toloc.city_name toloc.city_name
+null <unk> <unk> serve city_name city_name
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name null null depart_time.period_of_day null airline_name airline_name
+null null null flight_mod flight going from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.month_name <unk> <unk>
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name arriving <unk> <unk> <unk>
+null null null flight from fromloc.city_name to <unk> null leaves depart_date.day_name and <unk> null toloc.city_name arrive_time.time_relative arrive_time.time arrive_time.time
+null null null information null null flights from fromloc.city_name to toloc.city_name leaving depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null null <unk> flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost null null class_type ticket from fromloc.city_name to toloc.city_name toloc.city_name
+null null null economy <unk> fare from fromloc.city_name to toloc.city_name toloc.city_name
+list null flight_stop flights arrive_time.period_mod arrive_date.day_name arrive_time.period_of_day from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_mod flight null null null leaves fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time depart_time.time
+show null null null flights to toloc.city_name depart_time.time_relative <unk> <unk>
+null null null <unk> flight from fromloc.city_name to toloc.city_name toloc.city_name
+airline_name flights stopping null stoploc.city_name depart_time.time_relative depart_time.time depart_time.time
+show null null <unk> null city_name city_name
+null flights go from fromloc.city_name to toloc.city_name depart_time.time_relative <unk> null null depart_time.period_of_day depart_time.period_of_day
+flight_mod depart_time.period_of_day flight from <unk> to toloc.city_name toloc.city_name
+null null time null null null to go between null airport and downtown null ground transportation null city_name city_name
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to fly <unk> between fromloc.city_name and toloc.city_name toloc.city_name
+null null null to book null flight null airline_name from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null flights from fromloc.city_name to toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null <unk> <unk>
+show null flights null depart_date.day_name going from fromloc.city_name to toloc.city_name flight_stop class_type leaving depart_time.time_relative <unk> <unk>
+from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null null flight null null mod <unk> <unk> null leaves fromloc.city_name and arrives null toloc.city_name null arrive_date.month_name <unk> <unk>
+show null flights from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+null null null flights depart_time.time_relative depart_time.time null depart_date.month_name <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+list <unk> flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null flight from fromloc.city_name to toloc.city_name null leaves depart_time.time_relative depart_time.time null null null null flight flight
+null airline_name give null null <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+ground transportation city_name city_name
+show null airline <unk> <unk>
+null null flights null airline_name null null null class null service code <unk> <unk>
+null list null null arriving and departing flights from fromloc.airport_name fromloc.airport_name
+null null null to null null flights from fromloc.city_name to toloc.city_name null null
+null <unk> fly depart_time.period_mod null null depart_time.period_of_day between <unk> and toloc.airport_code toloc.airport_code
+null flights leave fromloc.city_name null airline_name airline_name
+null null list null null airlines null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+flights from <unk> to toloc.city_name flight_days flight_days
+show null class_type flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null flight_mod flight from fromloc.city_name to toloc.city_name null serves meal_description meal_description
+from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+null list null depart_date.day_name depart_time.period_of_day flights from fromloc.city_name to toloc.city_name null airline_name airline_name
+null null ground transportation null city_name from null airport airport
+show flight_mod flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null <unk> to fly airline_code null null null flight between fromloc.city_name and toloc.city_name null null stopover null stoploc.city_name null airline_code airline_code
+show null null flights from fromloc.city_name to <unk> flight_stop flight_stop
+null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null kind null ground transportation null null null city_name state_code state_code
+null null null cost_relative flight null from fromloc.city_name to toloc.city_name toloc.city_name
+null null null fare code fare_basis_code null null
+null null <unk> null null null fly to toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name null airline_name airline_name
+null null null <unk> null ground transportation from null airport null fromloc.city_name null downtown downtown
+show null null list null flights from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+show null null cost_relative flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.time_relative depart_time.time depart_time.time
+null null null null cost to go from downtown to <unk> <unk>
+null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null at mod null <unk> <unk>
+show flights from fromloc.city_name to toloc.city_name arriving between arrive_time.start_time and <unk> <unk>
+null null null fare from fromloc.city_name to toloc.city_name null airline_name flight <unk> <unk>
+flights from fromloc.city_name <unk> to toloc.city_name <unk> <unk>
+give null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights fromloc.city_name to toloc.city_name toloc.state_code null depart_date.day_name depart_date.day_name
+null list null depart_date.day_name depart_time.period_of_day flights from fromloc.city_name to <unk> <unk>
+null flight null null null from fromloc.city_name to toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name arrive arrive_time.time_relative arrive_time.time null toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day null depart_date.day_name depart_date.day_name
+null null null class_type flight null <unk> to toloc.city_name null depart_date.day_name depart_date.date_relative week week
+ground transportation null <unk> <unk>
+null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null to fly from fromloc.city_name to toloc.city_name at <unk> <unk> <unk>
+list null fares null airline_name flights from fromloc.city_name to toloc.city_name toloc.city_name
+list flights from fromloc.city_name to <unk> null depart_date.day_name depart_date.month_name <unk> <unk>
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null give null information null null null flights from fromloc.city_name null from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null find null null flight from fromloc.city_name to toloc.city_name null <unk> null stoploc.city_name stoploc.city_name
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+give null null flights from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null list null null null flights leaving fromloc.city_name <unk> to toloc.city_name depart_time.time_relative depart_time.time depart_date.day_name and depart_time.time_relative <unk> depart_date.day_name depart_date.day_name
+show null flights from fromloc.city_name to toloc.city_name null leave depart_time.time_relative depart_time.time depart_time.time
+show null null flights null go from fromloc.city_name to toloc.city_name toloc.city_name
+null airline null fly null from fromloc.city_name to toloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null stops null stoploc.city_name stoploc.city_name
+list null null flights null arrive at toloc.airport_name toloc.airport_name
+null null fare code fare_basis_code fare_basis_code
+null flights from fromloc.city_name to <unk> arrive arrive_date.date_relative arrive_date.day_name arrive_time.time_relative arrive_time.time arrive_time.time
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null fares from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null stoploc.city_name stoploc.city_name
+null null null depart_time.period_of_day flight from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name arriving null null arrive_time.time_relative <unk> <unk>
+show null null cost_relative round_trip flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+from fromloc.city_name to toloc.city_name toloc.state_code null depart_date.day_name depart_date.month_name depart_date.day_number <unk> <unk>
+null list null null flights from fromloc.city_name to toloc.city_name null serve <unk> <unk>
+list aircraft types null fly between fromloc.city_name and toloc.city_name toloc.city_name
+null null fare code fare_basis_code null null
+null <unk> null null flight null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+give null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+null airline null <unk> flights flights
+fromloc.city_name to toloc.city_name toloc.city_name
+null airlines fly between fromloc.city_name and toloc.city_name toloc.city_name
+list null flights arriving null toloc.city_name from fromloc.city_name arrive_time.time_relative arrive_time.time null arrive_date.month_name arrive_date.day_number arrive_date.day_number
+give null null flights null <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight null depart_date.day_name from fromloc.city_name to toloc.city_name and null null <unk> null depart_time.period_of_day flight flight
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights go from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+show null null fares from fromloc.city_name to toloc.city_name toloc.city_name
+give null airline_name flights from fromloc.city_name to toloc.city_name null depart_date.day_name and null depart_date.day_name depart_date.day_name
+list null flights null leave from fromloc.city_name null fromloc.city_name null fromloc.city_name and arrive null toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null null null <unk> null flights from fromloc.city_name to toloc.city_name toloc.state_name departing null null depart_time.period_of_day depart_time.period_of_day
+null depart_time.period_of_day flights null null null between fromloc.city_name and toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name null stops null stoploc.city_name and goes null to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name depart_date.today_relative depart_date.today_relative
+null round_trip flights between fromloc.city_name and toloc.city_name toloc.city_name
+null flights go to toloc.city_name from fromloc.city_name fromloc.city_name
+null flights null null from fromloc.city_name to toloc.city_name flight_days null economy economy
+flight_mod flights from fromloc.city_name to toloc.city_name null null depart_date.day_name depart_date.day_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name null round_trip fares cost_relative null <unk> <unk>
+null null null flight from fromloc.city_name to toloc.city_name null leaves depart_time.period_mod null null depart_time.period_of_day depart_time.period_of_day
+null null null flight_mod flight from fromloc.city_name to toloc.city_name null serves <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name toloc.city_name
+fromloc.city_name to toloc.city_name depart_date.day_name depart_date.day_name
+give null null flight_mod flight depart_date.today_relative null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights null depart_date.day_name from fromloc.city_name to toloc.city_name depart_time.time_relative <unk> <unk>
+show null null null flights leaving fromloc.city_name fromloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null plane from fromloc.city_name to toloc.city_name toloc.city_name
+null null to go from fromloc.city_name to toloc.city_name and return null null null <unk> find null null flight_mod flight from fromloc.city_name fromloc.city_name
+null null flights between fromloc.city_name and toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null flight_time null flights from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+show null round_trip flights from fromloc.city_name to toloc.city_name depart_date.day_name depart_date.day_name
+show null null flights from fromloc.city_name to toloc.city_name depart_date.today_relative null serve null meal meal
+give null flights null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to fly from fromloc.city_name to toloc.city_name null find null airline null null null
+null list null flights from fromloc.city_name to toloc.state_code toloc.city_name null depart_date.month_name <unk> <unk>
+null flights from fromloc.city_name to toloc.city_name null stop null stoploc.city_name stoploc.city_name
+show null null flights null depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name toloc.city_name
+null null 2 class_type <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null stop null stoploc.city_name stoploc.city_name
+flights to toloc.city_name toloc.city_name
+null null airport_code <unk> null null
+null null null cost_relative null to fly from fromloc.city_name to toloc.city_name toloc.city_name
+list null flight_stop flights from fromloc.city_name to toloc.city_name arrive_time.time_relative arrive_time.time null arrive_date.day_name arrive_date.day_name
+null null booking classes null null null
+flight numbers from fromloc.city_name to toloc.city_name depart_date.today_relative depart_date.today_relative
+give null null <unk> flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null airline_name flights between fromloc.city_name and toloc.city_name null depart_date.month_name <unk> <unk>
+show null null flights depart_date.date_relative depart_date.day_name between fromloc.city_name and toloc.city_name toloc.city_name
+find null flight null airline_name from fromloc.city_name to toloc.city_name null <unk> null stopover null stoploc.city_name stoploc.city_name
+show null null fares null null flights round_trip from fromloc.city_name to toloc.city_name toloc.city_name
+null null <unk> between fare code fare_basis_code and fare code fare_basis_code fare_basis_code
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+ground transportation city_name city_name
+show null flights from fromloc.city_name to toloc.city_name toloc.state_code null <unk> <unk>
+find null flight between fromloc.city_name and toloc.city_name null flight null null null null depart_time.period_of_day and arrive <unk> to arrive_time.time null flight null null flight_stop flight_stop
+show null null flights from fromloc.city_name to toloc.city_name null <unk> <unk>
+flights between fromloc.city_name and toloc.city_name toloc.city_name
+null list null depart_date.day_name depart_time.period_of_day flights from fromloc.city_name to toloc.city_name toloc.city_name
+list null airline_name flights from fromloc.city_name to toloc.city_name null arrive null arrive_date.day_name arrive_time.time_relative arrive_time.time arrive_time.time
+null round_trip tickets null null from fromloc.city_name to toloc.city_name null airline_name null arrive arrive_time.time_relative arrive_time.time arrive_time.time
+null null to go from fromloc.city_name to toloc.city_name at <unk> depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null null <unk> flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null ground transportation between null airport null fromloc.city_name and downtown downtown
+null depart_date.month_name <unk> fromloc.city_name to toloc.city_name airline_name flight <unk> <unk>
+show null null flights from fromloc.city_name fromloc.city_name
+null airlines null flights between fromloc.city_name and toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null toloc.city_name toloc.state_code toloc.state_code
+list null <unk> null flights leaving fromloc.city_name null toloc.city_name depart_time.time_relative depart_time.time null null depart_time.period_of_day depart_time.period_of_day
+null null airline_name flights leaving fromloc.city_name fromloc.city_name
+null null list null round_trip flights from fromloc.city_name to toloc.city_name and null to toloc.city_name toloc.city_name
+null null null to find null flight from fromloc.city_name to toloc.city_name null airline_name and arriving at arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null null null null null null aircraft and null flight number null null null
+null null null null flight from fromloc.city_name to toloc.city_name leaving at <unk> null depart_date.month_name <unk> <unk>
+null null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null null <unk> <unk> <unk>
+null flights null null null depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+null null airport_code airport_code
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null airline_name flight <unk> null null <unk> and leaves from fromloc.city_name goes to toloc.city_name and makes null stopover null stoploc.city_name stoploc.city_name
+list flight_days flights null <unk> from fromloc.city_name to toloc.city_name null class_type service service
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null flights fromloc.city_name to <unk> <unk>
+null null to travel from fromloc.city_name fromloc.state_code to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null null fare going from fromloc.city_name to toloc.city_name round_trip null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null flight null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null null from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null null null depart_time.period_of_day flight leaving null null depart_time.period_of_day going from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name stoploc.city_name
+show null flights from fromloc.city_name to toloc.city_name null null depart_date.day_name depart_date.day_name
+show null null list null flights null airline_name from fromloc.city_name to toloc.state_code null depart_date.month_name <unk> <unk>
+null null null flights from fromloc.city_name to toloc.city_name leaving between <unk> and depart_time.end_time depart_time.end_time
+null economy flights null null from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+null show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null show null null null flights from fromloc.city_name to toloc.city_name depart_date.today_relative depart_date.today_relative
+null null flight code airline_code null null
+null null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null <unk> null null <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.state_code to <unk> <unk>
+null null airline_name flights leave from fromloc.city_name fromloc.city_name
+show null flight_time null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null null null depart_date.day_name depart_time.period_of_day null depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.airport_code toloc.airport_code
+null null flights go from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null null show null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+find null null flight from fromloc.city_name to toloc.city_name null <unk> null stoploc.city_name null airline_name airline_name
+null flights null null between fromloc.city_name and toloc.city_name arriving null toloc.city_name at <unk> <unk>
+show null null airlines between fromloc.city_name and toloc.city_name toloc.city_name
+null flights null null null between fromloc.city_name and toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null information null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative flight from fromloc.city_name to toloc.city_name round_trip round_trip
+show null null <unk> flights from fromloc.city_name fromloc.state_code to toloc.city_name and list null fares fares
+round_trip flights between fromloc.city_name and toloc.city_name toloc.city_name
+show null null round_trip flight from fromloc.city_name to toloc.city_name null null <unk> fare fare
+null flights null null from fromloc.city_name to toloc.city_name null airline_name airline_name
+null null to make null <unk> between fromloc.city_name and toloc.city_name null <unk> fly between null <unk> <unk>
+null null null flight_mod airline_name flight leaving fromloc.city_name and returning to toloc.city_name toloc.city_name
+null flights null airline_name null from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null fly from fromloc.city_name to toloc.city_name washington washington
+null null airport_code airport_code
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null to leave depart_time.time_relative <unk> null null depart_time.period_of_day depart_time.period_of_day
+show null fares from fromloc.city_name to toloc.city_name toloc.city_name
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day serving <unk> <unk>
+flights from fromloc.city_name depart_date.month_name depart_date.day_number depart_date.day_number
+null airline_name fly from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null flight from fromloc.city_name to toloc.city_name null null null stoploc.city_name stoploc.city_name
+null null to null null null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative round_trip flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_mod flight depart_time.time_relative depart_time.time from fromloc.city_name null toloc.city_name toloc.city_name
+null null airline_name flights leave from fromloc.city_name fromloc.city_name
+null list null null null null airline_name flights null flight from fromloc.city_name to toloc.city_name toloc.city_name
+from fromloc.city_name to toloc.city_name toloc.city_name
+null null interested null null flight null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> types fly from fromloc.city_name to toloc.city_name toloc.city_name
+null null null <unk> code code
+null null null null flight_mod depart_time.period_of_day flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null <unk> null null aircraft_code aircraft_code
+null null null null listing null flights from fromloc.city_name to toloc.city_name toloc.state_name null depart_date.day_name depart_date.day_name
+null flights leave from fromloc.city_name to toloc.city_name null airline_name airline_name
+show null null <unk> from fromloc.city_name to toloc.city_name leaving null depart_date.day_name depart_date.day_name
+list null flight_stop flights null arrive_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null round_trip fares null flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative <unk> null airline_name airline_name
+null null to null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null show null null flights from fromloc.city_name to toloc.city_name null null depart_date.day_number depart_date.day_number
+null null <unk> <unk>
+null type null ground transportation null null between null airport and downtown toloc.city_name toloc.city_name
+null null airline_name flight <unk> from fromloc.city_name to toloc.city_name null flight_stop flight flight
+give null null flights from fromloc.city_name fromloc.state_code to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+show null connect flights from fromloc.city_name to toloc.city_name toloc.city_name
+list flight_days flights from fromloc.city_name to toloc.city_name null airline_code airline_code
+null null null null cost_relative airfare flight null depart_date.day_name to toloc.city_name from fromloc.city_name fromloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name leaving null null depart_time.period_of_day null depart_date.day_name depart_date.day_name
+null null give null null depart_time.period_of_day flight null depart_date.day_name from fromloc.city_name to toloc.city_name null null
+null null null to book null flight from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights connect null from fromloc.city_name to toloc.city_name null toloc.city_name null arrive arrive_time.time_relative 10am <unk> arrive_time.time arrive_time.time
+class_type round_trip airfare from fromloc.city_name to toloc.city_name toloc.city_name
+flights from fromloc.city_name to toloc.city_name null airline_name airline_name
+list null flights null airline_name leaving fromloc.city_name null depart_date.day_name depart_time.time_relative <unk> <unk>
+show null null flights from fromloc.city_name fromloc.city_name
+show null null <unk> flights from fromloc.city_name fromloc.city_name
+null null null fares from fromloc.city_name to toloc.city_name depart_date.day_name and depart_date.day_name depart_date.day_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null show null round_trip tickets from fromloc.city_name to toloc.city_name toloc.city_name
+list null flights null airline_name from fromloc.city_name to toloc.city_name null fare code <unk> <unk>
+null null flights null airline_code null null class_type class_type
+list null flights going from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time null depart_date.day_name and depart_time.time_relative <unk> null depart_date.day_name depart_date.day_name
+show null null flights to toloc.airport_name toloc.airport_name
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+fromloc.city_name to toloc.city_name arriving arrive_time.time_relative <unk> null null arrive_time.period_of_day arrive_time.period_of_day
+null null null flight from fromloc.city_name to <unk> <unk>
+null give null flights leaving fromloc.city_name and going to toloc.city_name toloc.city_name
+null null null null from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+flight leaving from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights null airline_name from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+list null flights from fromloc.city_name to toloc.city_name null null <unk> <unk>
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null flights leaving from fromloc.city_name <unk> to toloc.city_name <unk> null depart_date.day_name depart_time.time_relative depart_time.time depart_time.time
+null null flight information between fromloc.city_name and toloc.city_name toloc.city_name
+null null null <unk> null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+null airline_name null class service from fromloc.city_name to toloc.city_name toloc.city_name
+find null cost_relative flight from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name stoploc.city_name
+null null null <unk> round_trip fares from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name stopping null stoploc.city_name stoploc.city_name
+flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null null round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights null toloc.airport_name toloc.airport_name
+null null to fly from fromloc.city_name to toloc.city_name null stoploc.city_name stoploc.city_name
+information null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null airline_name fly from fromloc.city_name to toloc.city_name toloc.city_name
+null null to travel from fromloc.city_name to toloc.city_name round_trip leaving depart_date.day_name depart_date.month_name depart_date.day_number arriving null toloc.city_name at arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day and return null return_date.date_relative day arriving null toloc.city_name at arrive_time.time_relative arrive_time.time null null arrive_time.period_of_day null airlines fly null <unk> <unk>
+null null null null flight_time null null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+show null ground transportation null city_name null null
+null null null flight_stop flights leaving from fromloc.city_name arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number arrive_date.day_number
+null null null <unk> <unk> cost cost
+null null null flight_mod flight from fromloc.city_name to toloc.city_name null airline_name airline_name
+null list ground <unk> null city_name city_name
+null null null flight from <unk> to toloc.city_name null null depart_date.day_name depart_date.day_name
+show null flights from null airports to toloc.airport_name toloc.airport_name
+list null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null flights null null from fromloc.city_name to toloc.city_name class_type null airline_name arriving arrive_date.month_name arrive_date.day_number arrive_time.time_relative arrive_time.time arrive_time.time
+null airlines null <unk> null null <unk> <unk>
+null flight between fromloc.city_name and toloc.city_name null depart_date.month_name depart_date.day_number null null mod seating capacity capacity
+list null <unk> flights from fromloc.city_name to toloc.city_name null arrive null toloc.city_name between <unk> and <unk> <unk>
+null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null ground transportation from <unk> to null downtown area area
+flight_mod depart_time.period_of_day flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null airline airline_code airline_code
+null null cost_relative round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+find null null flight_mod flight from fromloc.city_name to toloc.city_name null <unk> null null week week
+display null flights from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+economy fares fromloc.city_name to toloc.city_name round_trip round_trip
+null null to fly from fromloc.city_name to toloc.city_name null to toloc.city_name and return return
+null null to book null flight from fromloc.city_name to toloc.city_name class_type <unk> fare fare
+show null flights to toloc.city_name from fromloc.city_name and fromloc.city_name and fromloc.city_name fromloc.city_name
+null null distance from fromloc.airport_name to null city city
+null null null to null null flight from fromloc.city_name to toloc.city_name departing depart_time.time_relative depart_time.time depart_time.time
+null null null cost_relative fare null null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null flight from fromloc.city_name to toloc.city_name arrive toloc.city_name arrive_time.time_relative arrive_time.time arrive_time.time
+airline_name depart_date.date_relative depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+null null null find null null cost_relative round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+return from fromloc.city_name to toloc.city_name null <unk> null <unk> <unk>
+show null ground transportation null city_name city_name
+null give null null flight_mod flight depart_date.today_relative from fromloc.city_name to toloc.city_name toloc.city_name
+null null ground transportation null city_name null show null null null null
+null fare code fare_basis_code fare_basis_code
+null cost_relative flights from fromloc.city_name to toloc.city_name null arrive arrive_time.time_relative arrive_time.time null null arrive_date.day_name arrive_date.day_name
+null null null <unk> airline_name flight between fromloc.city_name and toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+show null null flights null direct and connecting from fromloc.city_name to null toloc.city_name null toloc.city_name null depart depart_time.time_relative depart_time.time depart_time.time
+give null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null null null null flight_mod flight null null leaves between fromloc.city_name and toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null leaves depart_time.period_mod depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null class_type flights null null from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year depart_date.year
+show null null airlines from fromloc.airport_name fromloc.airport_name
+null null cost_relative round_trip ticket from fromloc.city_name to toloc.city_name toloc.city_name
+null class_type flight null airline_name to toloc.city_name null depart_date.day_name null null depart_date.date_relative week week
+null airlines fly between fromloc.city_name and toloc.city_name and stop null stoploc.city_name stoploc.city_name
+<unk> null flights from fromloc.city_name to toloc.city_name null arrive null null arrive_date.day_name arrive_date.day_name
+flights null depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+flights from fromloc.city_name depart_date.month_name <unk> <unk>
+null null stops null airline_name <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null flight airline_name <unk> from fromloc.city_name to toloc.city_name null flight_time and null city null null plane stop null between between
+null null null flight from fromloc.city_name to toloc.city_name null null null null null toloc.city_name arrive_time.time_relative arrive_time.time null <unk> <unk>
+null null null round_trip ticket from fromloc.city_name to toloc.city_name toloc.city_name
+find null null flight_mod flight leaving fromloc.city_name depart_date.month_name depart_date.day_number and arriving null toloc.city_name toloc.city_name
+null null cost_relative round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null null flights from fromloc.city_name to toloc.city_name toloc.state_code toloc.state_code
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flight_mod flight from fromloc.city_name to toloc.city_name null arrives null toloc.city_name arrive_date.day_name arrive_time.time_relative arrive_time.time arrive_time.time
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+depart_date.day_name flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name leaving at depart_time.time depart_time.time
+null null mod plane null flies from fromloc.city_name to toloc.city_name null <unk> <unk> <unk>
+give null null flights null depart_date.month_name depart_date.day_number null null fares from fromloc.city_name to toloc.city_name toloc.city_name
+show null null null airline_name flights leaving fromloc.city_name between depart_time.start_time and <unk> null null depart_time.period_of_day depart_time.period_of_day
+null null null flight_mod from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name null null depart_date.day_name depart_date.day_name
+show null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null airline_name flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null cost_relative round_trip flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name toloc.state_code depart_time.time_relative depart_time.time null depart_date.month_name depart_date.day_number economy economy
+null null ground transportation null city_name city_name
+list airline_name flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null cost_relative null to fly from fromloc.city_name to toloc.city_name toloc.city_name
+fromloc.city_name to toloc.city_name null flight_stop null stoploc.city_name null null
+null null null to fly airline_name from fromloc.city_name to toloc.city_name null null <unk> depart_time.period_of_day null null null null null null
+null null <unk> <unk> null null
+null null null flight_mod flights null null null null from fromloc.city_name to toloc.city_name toloc.city_name
+list flights from fromloc.city_name to toloc.city_name null stoploc.city_name stoploc.city_name
+null null null null airline_name flight <unk> from fromloc.city_name to toloc.city_name cost cost
+null flights from fromloc.city_name to toloc.city_name null show null null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null flights from fromloc.city_name to toloc.city_name null null depart_date.day_name null null round_trip fare cost_relative null <unk> <unk>
+flight_stop flights from fromloc.city_name to toloc.city_name toloc.city_name
+give null null flights and fares null depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null null depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null null depart_date.day_name null <unk> null depart_date.month_name depart_date.month_name
+null null ground transportation null at city_name city_name
+list flight_days flights from fromloc.city_name to toloc.city_name null airline_name airline_name
+null null depart_date.date_relative two <unk> null null to fly from fromloc.city_name to toloc.city_name null to toloc.city_name toloc.city_name
+null null flights null null airline null null class_type service service
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name null <unk> served served
+show flights from fromloc.city_name to toloc.city_name null null depart_date.day_name null depart_date.day_number null depart_date.day_name null depart_date.day_number depart_date.day_number
+null null null flights null between depart_time.start_time and <unk> between fromloc.city_name and <unk> <unk>
+list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+airline code airline_code airline_code
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null null boeing aircraft_code aircraft_code
+null null null null list null flights going from fromloc.city_name to toloc.city_name null null depart_date.day_number null depart_date.month_name depart_date.month_name
+null null null null null cost_relative fare from fromloc.city_name to toloc.city_name null depart_date.day_number null depart_date.month_name depart_date.month_name
+null airline_name flight flies from fromloc.city_name to toloc.city_name and makes null stopover null stoploc.city_name stoploc.city_name
+null null null flight_mod flights from fromloc.city_name to toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null null null to null from null airport null fromloc.city_name to downtown downtown
+null null <unk> <unk>
+null show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost null flight airline_code <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null flight_stop null airline_code <unk> make from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative round_trip flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+airline_name flights to toloc.city_name null null
+null null null to null null flight_mod flight null depart_date.day_name null null leaving from fromloc.city_name to toloc.city_name null <unk> null meal meal
+null null null <unk> null <unk> null city_name city_name
+null airlines fly from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null null flights go from fromloc.city_name to toloc.city_name and make null stop null stoploc.city_name stoploc.city_name
+null null null cost_relative round_trip fare between fromloc.city_name and toloc.city_name toloc.city_name
+show null ground transportation information null city_name city_name
+null flights and fares from fromloc.city_name to toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null <unk> <unk>
+null null null fare from fromloc.city_name to toloc.city_name null airline_name airline_name
+show null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null null null airline_name flights leaving fromloc.city_name between depart_time.start_time and depart_time.end_time null null depart_time.period_of_day depart_time.period_of_day
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_mod flight from fromloc.city_name to toloc.city_name leaving null depart_date.day_name depart_date.month_name depart_date.day_number depart_date.day_number
+null airline_name flights null stopovers null stoploc.city_name stoploc.city_name
+show flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null null null airline_code flights from fromloc.city_name to toloc.city_name null arrive arrive_time.time_relative <unk> <unk>
+show null null connect flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to find null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null round_trip fares from fromloc.city_name to toloc.city_name toloc.city_name
+null null to go from fromloc.city_name to toloc.city_name round_trip and make null stop at stoploc.city_name null null null null
+null null null null airline null null mod <unk> from fromloc.city_name fromloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null round_trip fares from fromloc.city_name to toloc.city_name toloc.city_name
+<unk> null restriction <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null airline_name fares null depart_date.date_relative depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+list null round_trip fare from fromloc.city_name to toloc.city_name flights flights
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null show null null cost_relative round_trip flights between fromloc.city_name and toloc.city_name toloc.city_name
+null null <unk> <unk> null null <unk> <unk>
+null null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null leaves depart_time.time_relative <unk> <unk>
+null flights from fromloc.city_name arrive null toloc.city_name arrive_time.time_relative arrive_time.time arrive_time.time
+null show null ground transportation null city_name city_name
+find travel <unk> null null round_trip flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null class_type fare between fromloc.city_name and toloc.city_name null airline_name airline_name
+list flights from fromloc.city_name to toloc.city_name null null depart_time.period_of_day null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null null <unk> between fromloc.city_name and toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null to fly from fromloc.city_name to toloc.city_name depart_time.period_mod null null depart_time.period_of_day depart_time.period_of_day
+null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+and flight from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.period_of_day depart_time.period_of_day
+null null null <unk> airline_code null null
+null null null null list null flights null class_type null depart_date.day_name from fromloc.city_name to toloc.city_name <unk> at depart_time.time and depart_time.time_relative depart_time.time_relative
+null null null to fly from fromloc.city_name to toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name null depart_date.day_name arriving arrive_time.time_relative arrive_time.time arrive_time.time
+list flight_days flights from fromloc.city_name to toloc.city_name null airline_code airline_code
+null null give null null flight_time null flights null airline_name and airline_name to <unk> null depart_date.month_name depart_date.day_number depart_date.day_number
+show null class_type flights from fromloc.city_name to toloc.city_name leaving null null depart_date.day_name depart_date.day_name
+null show null airfare null flight airline_code <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null null airline_name flight from fromloc.city_name to toloc.city_name null stops null stoploc.city_name stoploc.city_name
+null list null airline_name flights between fromloc.city_name and toloc.city_name toloc.city_name
+find null cost_relative round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+give null depart_time.period_of_day flights from fromloc.city_name to toloc.city_name toloc.city_name
+null give null round_trip fares from fromloc.city_name to toloc.city_name toloc.city_name
+null null null information null ground transportation null null city null city_name from airport to downtown downtown
+null null to fly from fromloc.city_name to toloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative flight from fromloc.city_name to toloc.city_name leaving null <unk> depart_date.day_number depart_date.day_number
+null null null <unk> null airline_name flight <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null information null flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null flights go from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time depart_time.time
+null null null fare code <unk> and null null null fare code fare_basis_code fare_basis_code
+null null null null airline_name flight from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null <unk> null airline_name airline_name
+show null null flights from fromloc.airport_name to null airports airports
+show null null class_type fares from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null stop null stoploc.city_name stoploc.city_name
+depart_date.day_name null depart_date.day_name flights between fromloc.city_name and toloc.city_name airline_name airline_name
+list null cost_relative round_trip flight from fromloc.city_name fromloc.state_name to toloc.city_name <unk> <unk>
+flights from fromloc.city_name depart_date.month_name depart_date.day_number depart_date.day_number
+null null to fly from fromloc.city_name to toloc.city_name null stoploc.city_name stoploc.city_name
+list null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+city_name airports airports
+show null null airline_name flights from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year depart_date.year
+null null null flight_mod flight departing fromloc.city_name and arriving null toloc.city_name null arrive_date.month_name <unk> <unk>
+from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+null airlines fly from fromloc.city_name to toloc.city_name toloc.state_code null stopover null null null city city
+null list null airline flights between fromloc.city_name and toloc.city_name toloc.city_name
+null null interested null null flight from fromloc.city_name to toloc.city_name null flight null null airline_name and leave null null depart_time.period_of_day null null to null null aircraft and flight number number
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+list flights from fromloc.city_name to toloc.city_name null serve null meal_description meal_description
+null null airlines null flights null service class fare_basis_code fare_basis_code
+null null null give null null round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+null null null to fly from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null flight from fromloc.city_name <unk> to toloc.city_name <unk> leaving depart_date.date_relative depart_date.day_name depart_date.day_name
+give null null list null null null flights from fromloc.city_name to toloc.city_name null fromloc.city_name to toloc.city_name null fromloc.city_name to toloc.city_name toloc.city_name
+null null null ground transportation null <unk> <unk>
+null null airline_name flights null null from fromloc.city_name null null
+null null null listing null flights from fromloc.city_name to toloc.city_name <unk> departing depart_date.day_name null null depart_time.period_of_day depart_time.period_of_day
+show null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null go from null <unk> to downtown toloc.city_name toloc.city_name
+null null null to fly from fromloc.city_name to toloc.city_name null null null stoploc.city_name stoploc.city_name
+give null fares from fromloc.city_name to toloc.city_name toloc.city_name
+fromloc.city_name to toloc.city_name toloc.city_name
+give null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flight null <unk> from fromloc.city_name fromloc.city_name
+flights from fromloc.city_name to toloc.city_name and price price
+null depart_date.day_name null flights leave fromloc.city_name to toloc.city_name toloc.state_name and leave depart_time.time_relative depart_time.time depart_time.time
+null null null <unk> fare from fromloc.city_name to toloc.city_name null flight airline_name <unk> and airline_name <unk> <unk>
+list flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null flights go from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name stoploc.city_name
+show flights from fromloc.city_name to toloc.city_name null arrive arrive_time.time_relative <unk> <unk>
+find null null flight_mod flight from fromloc.city_name to toloc.city_name null any-day null null week week
+null null null airfare between fromloc.city_name and toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null leave depart_date.date_relative depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name and toloc.city_name toloc.city_name
+round_trip
+round_trip
+list null flights null depart_date.day_name from fromloc.city_name to toloc.city_name flight_stop flight_stop
+null null airports null city_name null null
+null null give null null list null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null give null null list null flights leaving fromloc.city_name going to toloc.city_name toloc.city_name
+<unk> leaving fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time null type null aircraft null null null
+null null null flight_mod flight from fromloc.city_name to toloc.city_name leaving null depart_date.day_name depart_date.month_name depart_date.day_number depart_date.day_number
+show null null flights from fromloc.city_name to toloc.city_name round_trip cost_relative null fare_amount fare_amount
+null flights return from fromloc.city_name to toloc.city_name null null depart_date.day_name depart_date.day_name
+flights from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+flight_mod flights and fares from fromloc.city_name to toloc.city_name null null depart_date.day_name depart_date.day_name
+null flight_mod flight from fromloc.city_name to toloc.city_name null null null null serving null meal meal
+null type null aircraft flies from fromloc.city_name to toloc.city_name toloc.city_name
+show null null cost_relative round_trip tickets from fromloc.city_name to toloc.city_name toloc.city_name
+give null depart_date.day_name flight_stop flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null flight from fromloc.city_name to toloc.city_name null airline_name leaving at <unk> null type null aircraft null null null
+null null null depart_time.period_of_day flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null at fromloc.city_name to toloc.city_name null null
+null null null prices null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null kind null airplane null flight <unk> <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null class_type flights null airline_name null depart_date.today_relative depart_date.today_relative
+null null airline_code stand null null
+null null go from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name stoploc.city_name
+null null null null null flight from fromloc.city_name to toloc.city_name null null cost_relative fare fare
+show null null flight_mod flight to toloc.airport_name toloc.airport_name
+null type null plane null null <unk> <unk>
+null null null flight_mod flight null null null null from fromloc.city_name to toloc.city_name toloc.city_name
+list null flight_stop flights null arrive_date.day_name arrive_date.month_name arrive_date.day_number from fromloc.city_name to toloc.city_name arriving null toloc.city_name between <unk> and <unk> <unk>
+null null null to fly from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name depart_date.day_name depart_time.period_of_day and from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null fare code <unk> <unk>
+show null ground transportation null city_name city_name
+null null null null flights null airline_name null and null null fromloc.city_name fromloc.city_name
+show null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to fly from fromloc.city_name to toloc.city_name null null null null cost_relative fare null null
+null null null null null cost_relative round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+null null ground transportation from null airport to downtown toloc.city_name toloc.city_name
+null null <unk> null ground transportation to and from downtown downtown
+give null null flights from fromloc.city_name to toloc.city_name leaving depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null <unk> <unk>
+null flight null airline_name leaving fromloc.city_name and going to toloc.city_name toloc.city_name
+show null null meal null flights from fromloc.city_name to toloc.city_name toloc.city_name
+depart_date.day_name flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null to find null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights arriving null toloc.city_name from fromloc.city_name between arrive_time.start_time and arrive_time.end_time arrive_time.end_time
+null null null flight airline_name fromloc.city_name to <unk> <unk>
+null null list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null flight_stop flights from fromloc.city_name to toloc.city_name toloc.city_name
+show flights between fromloc.city_name and toloc.city_name toloc.city_name
+show null null flights between fromloc.city_name and toloc.city_name fromloc.city_name and toloc.city_name fromloc.city_name and toloc.city_name toloc.city_name
+ground transportation city_name city_name
+show null null flight_days flights between fromloc.city_name and toloc.city_name toloc.city_name
+null flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time null arrive_date.day_name arrive_date.day_name
+null flights leave fromloc.city_name null toloc.city_name and depart depart_time.time_relative depart_time.time null airline_name airline_name
+airlines null fly to toloc.city_name from fromloc.city_name null depart_date.day_name depart_date.day_name
+null flights leave fromloc.city_name null depart_date.day_name null airline_name depart_time.time_relative <unk> <unk>
+null null null flight_mod flight from fromloc.city_name to toloc.city_name null depart_date.day_name null serves meal_description meal_description
+null null null null going from fromloc.city_name to toloc.city_name serving meal_description meal_description
+null null to null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights null null null <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null null ground transportation from null <unk> to null downtown area area
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to go between fromloc.city_name and toloc.city_name toloc.city_name
+show departures from fromloc.city_name null airline_name airline_name
+show null null flights null from fromloc.city_name to toloc.city_name depart_date.month_name depart_date.day_number depart_date.day_number
+show null fares from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null list null flight_time from fromloc.city_name to toloc.city_name toloc.city_name
+null null null downtown from null airport null fromloc.city_name fromloc.city_name
+null flights from null city <unk> at toloc.airport_name toloc.airport_name
+show null ground transportation information null city_name city_name
+null null find null null cost_relative fare from fromloc.city_name to toloc.city_name toloc.city_name
+null list information null airport_name airport_name
+show null flights between fromloc.city_name and toloc.city_name null depart_date.day_name null depart_date.day_name airline_name airline_name
+null null null class_type flight from fromloc.city_name to toloc.city_name null <unk> depart_date.day_number depart_date.day_number
+null null null null null <unk> <unk>
+list null null <unk> and <unk> at <unk> <unk>
+show null null flights arriving arrive_time.time_relative arrive_time.time null toloc.city_name from fromloc.city_name fromloc.city_name
+null depart_date.day_name null null to find null flight from fromloc.city_name to toloc.city_name null arrives arrive_time.time_relative arrive_time.time arrive_time.time
+null null null flight depart_date.today_relative from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+list null flights from fromloc.city_name to toloc.city_name null null null layover null stoploc.city_name stoploc.city_name
+null null null null flight leaving fromloc.city_name and arriving null toloc.city_name <unk> arrive_time.time arrive_date.date_relative arrive_date.day_name arrive_date.day_name
+flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null information null flights from fromloc.city_name to toloc.city_name toloc.state_code give null information null flights depart_time.time_relative depart_time.time null depart_date.day_name depart_date.day_name
+show ground transportation null city_name city_name
+null null null flight_mod flight null null depart_time.period_of_day from fromloc.city_name to toloc.city_name toloc.city_name
+depart_time.period_of_day flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null cost_relative flights from fromloc.city_name to toloc.city_name toloc.city_name
+show depart_time.period_of_day flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null class_type and class_type fares null flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative arrive_time.time arrive_date.date_relative arrive_date.day_name arrive_date.day_name
+show null null flights from fromloc.city_name to toloc.city_name null depart_date.day_name null leave depart_time.time_relative <unk> <unk>
+find null null cost_relative round_trip fare null null null from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+null list null flight_time from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight between fromloc.city_name fromloc.state_code and toloc.city_name null airline_name at depart_time.time depart_time.time
+show null null flights from fromloc.city_name null leave depart_date.today_relative and arrive null toloc.city_name toloc.city_name
+null null seats null null <unk> <unk>
+null null <unk> null fare code null null
+null null flights departing fromloc.city_name arriving toloc.city_name toloc.city_name
+null flights leave depart_time.time_relative depart_time.time from fromloc.city_name to toloc.city_name toloc.city_name
+show flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights leave fromloc.city_name and arrive null toloc.city_name arrive_time.time_relative arrive_time.time arrive_date.date_relative arrive_date.day_name arrive_date.day_name
+null null null cost to fly from fromloc.city_name to toloc.city_name null airline_name airline_name
+null null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null transport_type service null at <unk> <unk>
+null null null depart_time.period_of_day flights null null depart_date.date_relative two days from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_mod flight leaving fromloc.city_name going to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.month_name depart_date.day_number depart_date.day_number
+null airline_name fly from fromloc.city_name to toloc.city_name toloc.city_name
+null list null flight_time from fromloc.city_name to toloc.city_name null depart_date.day_name <unk> <unk>
+flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null null null to find null flight null goes from fromloc.city_name to toloc.city_name null null null null to null null stop null stoploc.city_name and null null null null flight null serves meal_description meal_description
+null null null cost_relative round_trip fares from fromloc.city_name to toloc.city_name toloc.city_name
+null and null from fromloc.city_name null null to travel to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null flights go from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time depart_date.date_relative depart_date.day_name depart_date.day_name
+null null null null cost to null downtown from null <unk> null transport_type transport_type
+null null null to fly from fromloc.city_name to toloc.city_name toloc.city_name
+show null null airfare from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights null depart_date.month_name depart_date.day_number from fromloc.city_name to toloc.city_name toloc.city_name
+null null <unk> <unk>
+show null null type null aircraft null <unk> null null
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+null type null aircraft null <unk> fly from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time depart_time.time
+null null list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+display null flights from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+null null null cost_relative class_type tickets between fromloc.city_name and toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.year <unk> null mod number null passengers passengers
+show null null null flights to toloc.city_name depart_time.time_relative depart_time.time depart_time.time
+null airlines go from fromloc.city_name to toloc.city_name toloc.city_name
+null null fare code <unk> null null
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null abbreviation airline_code null null
+null null list null flights between fromloc.city_name and toloc.city_name toloc.city_name
+null null null air <unk> null flights from fromloc.city_name to toloc.city_name null null airfare null <unk> <unk>
+flight_mod flight_stop flight from fromloc.city_name to toloc.city_name null arrive_date.day_name arrive_time.period_of_day arrive_time.period_of_day
+null null null flight_mod flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null depart_time.period_of_day flight from fromloc.city_name null toloc.city_name null depart_date.month_name depart_date.day_number null <unk> <unk>
+null null null cost null null round_trip from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+give null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null list null flights from fromloc.city_name to toloc.city_name arriving arrive_time.time_relative <unk> <unk>
+null flights null null between fromloc.city_name and toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null type null aircraft leaving depart_time.time_relative depart_time.time from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null cost_relative flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name null flight_stop flight_stop
+null null null to find null flight from fromloc.city_name to toloc.city_name null depart_date.day_name and null null to null null toloc.city_name arrive_time.time_relative arrive_time.time null null null null flight null null null depart_time.time_relative 11am 11am
+null null information null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null null ground transportation <unk> null city_name city_name
+give null flights from fromloc.city_name to toloc.city_name null airline_name null offer class_type class_type
+null airline_name null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null flights and fares from fromloc.city_name to toloc.city_name round_trip depart_time.time_relative depart_time.time cost_relative null fare_amount fare_amount
+list flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null list null null round_trip flights between fromloc.city_name and toloc.city_name null null depart_date.day_number null null depart_date.day_number null depart_date.month_name depart_date.month_name
+null null null return flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name toloc.state_name toloc.state_name
+null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null list null flights from fromloc.city_name to toloc.city_name null depart_date.day_name and depart_date.day_name depart_date.day_name
+null null null flight_mod flight between fromloc.city_name and toloc.city_name toloc.city_name
+explain null restriction restriction_code restriction_code
+null flight_mod flight from fromloc.city_name to toloc.city_name null and null null null meal null null null
+null null null flights null depart_date.month_name depart_date.day_number <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+null depart_date.month_name depart_date.day_number null flights null null between fromloc.city_name and toloc.city_name toloc.city_name
+list flight_stop flights null arrive_date.day_name from fromloc.city_name to toloc.city_name and list flight_stop flights null arrive_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+show null null list null flights from fromloc.city_name to toloc.city_name null airline_name and airline_name airline_name
+null null airline_code stand null null
+null null show null null <unk> flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null airline_name class_type flights flights
+null null airline_code airline_code
+null null null price null null class_type ticket from fromloc.city_name to toloc.city_name round_trip round_trip
+find null flight null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+null null to find null flight number from null flight from fromloc.city_name to toloc.city_name null airline_name and null arrives arrive_time.time_relative arrive_time.time arrive_time.time
+null null null costs null flights from fromloc.city_name to toloc.city_name depart_date.today_relative depart_date.today_relative
+null flights go from fromloc.city_name to toloc.city_name null stoploc.city_name stoploc.city_name
+null null cost_relative round_trip fare between fromloc.city_name and toloc.city_name toloc.city_name
+null null null flights between fromloc.city_name and toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null flights null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null to leave fromloc.city_name at depart_time.time depart_time.time
+<unk> give null null type null aircraft null to fly from fromloc.city_name to toloc.city_name toloc.city_name
+null null show null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null ground transportation from fromloc.airport_name to downtown toloc.city_name toloc.city_name
+null null null <unk> null <unk> services null at null <unk> <unk>
+null airline_name flight <unk> flying from fromloc.city_name to toloc.city_name null null null null null type null aircraft null null null null flight null null leaves at <unk> <unk>
+null null null null from null airport to downtown null toloc.city_name toloc.city_name
+depart_date.day_name depart_time.period_of_day flights between fromloc.city_name and toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null leave fromloc.city_name depart_time.time_relative <unk> depart_date.today_relative depart_date.today_relative
+round_trip fares from fromloc.city_name to toloc.city_name cost_relative null fare_amount fare_amount
+null null to fly from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null flight_days airline_name flights null null between fromloc.city_name and toloc.city_name toloc.city_name
+show null null null airline_name flights from fromloc.city_name to toloc.city_name null leave at depart_time.time depart_time.time
+null <unk> null null null to null from fromloc.airport_name null null city null toloc.city_name toloc.city_name
+null null cost_relative null to fly between fromloc.city_name and toloc.city_name toloc.city_name
+null null null fares null flights from fromloc.city_name to toloc.city_name leaving depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+give null null list null flights null airline_name between fromloc.city_name and toloc.city_name toloc.city_name
+null null null ground transportation from fromloc.city_name airport to downtown downtown
+null null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+airline_code <unk> <unk>
+null flights null null from fromloc.city_name to <unk> <unk>
+depart_time.period_of_day flight from fromloc.city_name to toloc.city_name toloc.city_name
+show null null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights null airline_code to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+null null null flights to toloc.city_name land at null null <unk> <unk>
+show null null flights from fromloc.city_name to toloc.city_name null arrive arrive_time.time_relative arrive_time.time arrive_time.time
+null null null null class_type ticket from fromloc.city_name to toloc.city_name toloc.city_name
+null give null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to fly flight_stop from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_mod flight leaving fromloc.city_name null depart_date.month_name depart_date.day_number to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null flight depart_date.today_relative depart_time.period_of_day from fromloc.city_name to toloc.city_name null <unk> meal_description null depart_date.today_relative depart_date.today_relative
+show null null flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time depart_time.time
+null flights go from fromloc.city_name to toloc.city_name null stoploc.city_name stoploc.city_name
+null null null null null ground transportation information null null to null from null airport null fromloc.city_name to downtown toloc.city_name toloc.city_name
+show null null flight_mod flight null depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+null null null give null null round_trip fare from fromloc.city_name to toloc.city_name toloc.city_name
+show depart_date.day_name flights from fromloc.city_name to toloc.city_name toloc.city_name
+null flights depart from fromloc.city_name and arrive null toloc.city_name toloc.state_name toloc.state_name
+flights from fromloc.city_name to toloc.city_name departing depart_time.time_relative <unk> <unk>
+null null null null flight from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+show null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null give null flights from fromloc.city_name to toloc.city_name toloc.state_name depart_date.day_name depart_date.day_name
+null flights null null depart_date.day_name depart_time.period_of_day from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name arriving null toloc.city_name null arrive_date.month_name arrive_date.day_number arrive_date.day_number
+list null depart_time.period_of_day flights at null <unk> from fromloc.city_name to toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name null null depart_date.day_name depart_date.day_name
+null null to fly from fromloc.city_name to toloc.city_name and null to toloc.city_name and return to fromloc.city_name fromloc.city_name
+null null null cost_relative flight null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+show null flights null from fromloc.city_name to toloc.city_name leaving null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null null flight_mod flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+null ground transportation null null null city_name city_name
+null null null flight_mod flight leaving fromloc.city_name returning to toloc.city_name toloc.city_name
+null <unk> fly between fromloc.city_name and toloc.city_name toloc.city_name
+show null flights from fromloc.city_name to toloc.city_name leaving depart_date.month_name <unk> <unk>
+list null null landings at toloc.airport_name toloc.airport_name
+null null class_type flights null airline_name null depart_date.today_relative depart_date.today_relative
+null null null flight_stop flights from fromloc.city_name to toloc.city_name null arrive_date.day_name arrive_date.month_name arrive_date.day_number arrive_date.day_number
+null null null flights null depart from fromloc.city_name fly to toloc.city_name null stoploc.city_name and arrive arrive_time.time_relative arrive_time.time arrive_time.time
+null list null flights from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+null null null null to <unk> null flight null airline_name from fromloc.city_name to toloc.city_name toloc.city_name
+null null null mod airline_name flights null leave from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+null flights null null null from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight_stop flight from fromloc.city_name to toloc.city_name null serves meal_description null null null
+null flight_time null depart_date.day_name null null null null plane from fromloc.city_name to toloc.city_name toloc.city_name
+show null ground transportation null city_name city_name
+null null null flights from fromloc.city_name to toloc.city_name null stop null stoploc.city_name stoploc.city_name
+null airlines null class_type class_type
+null give null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+flight from fromloc.city_name to toloc.city_name toloc.city_name
+list flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null to null null type null plane flies from fromloc.city_name to toloc.city_name depart_time.time_relative <unk> <unk>
+null null null null flight_time null null flights between fromloc.city_name and toloc.city_name toloc.city_name
+find null flight from fromloc.city_name to toloc.city_name null null airline_name airline_name
+null null null cost null null ticket going from fromloc.city_name to toloc.city_name depart_date.month_name depart_date.day_number depart_date.year depart_date.year
+flight numbers from fromloc.city_name to toloc.city_name null depart_date.month_name <unk> <unk>
+null null null null flight from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name stoploc.city_name
+show null class_type airlines from fromloc.city_name to toloc.city_name null depart_date.date_relative depart_date.day_name class_type null null
+null flights null null null depart_date.day_name from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flight from fromloc.city_name to toloc.city_name toloc.state_code null depart_date.day_name depart_date.day_name
+show null null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null <unk> null null flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null price null class_type from fromloc.city_name to toloc.city_name null airline_code airline_code
+flights from fromloc.city_name to toloc.city_name null null depart_time.period_of_day depart_time.period_of_day
+airline_name flight flight_number from fromloc.city_name to toloc.city_name leaving at depart_time.time null type null aircraft null null null null flight flight
+null null null null flights between fromloc.city_name and toloc.city_name toloc.city_name
+<unk> airline airline_code airline_code
+null null to fly fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+find null flight from fromloc.city_name to toloc.city_name null depart_date.day_name depart_date.day_name
+give null information null flights from fromloc.city_name to toloc.city_name toloc.state_code null depart_date.day_name depart_time.time_relative depart_time.time and depart_date.day_name depart_time.time_relative depart_time.time depart_time.time
+find null flights from fromloc.city_name to toloc.city_name leaving depart_time.time_relative depart_time.time depart_time.time
+show null null cost_relative fare from fromloc.city_name to toloc.city_name toloc.city_name
+null <unk> null fromloc.city_name and null null to make null trip to toloc.city_name toloc.city_name
+give null flights null arrive null toloc.city_name from fromloc.city_name denver and fromloc.city_name fromloc.city_name
+null null null to find null flight null goes from fromloc.city_name to toloc.city_name depart_time.time_relative depart_time.time depart_time.time
+null airlines fly between fromloc.city_name and toloc.city_name toloc.city_name
+code <unk> <unk>
+null null null flight_mod flight from fromloc.city_name to toloc.city_name null depart_date.month_name depart_date.day_number depart_date.day_number
+list null flights from fromloc.city_name to toloc.city_name null airline_name airline_name
+null null null null list null flights from fromloc.city_name to toloc.city_name toloc.city_name
+null depart_date.month_name depart_date.day_number null null <unk> 1991 null null to fly from fromloc.city_name to toloc.city_name and null null to fly null airline_name airline_name
+null null null null airlines null null stop at stoploc.city_name null null null from fromloc.city_name to toloc.city_name toloc.city_name
+list null flights from fromloc.city_name fromloc.state_name to toloc.city_name null null null cost_relative round_trip round_trip
+list null flight_stop flights null arrive_date.day_name arrive_date.month_name arrive_date.day_number from fromloc.city_name to toloc.city_name arriving null toloc.city_name between arrive_time.start_time and arrive_time.end_time arrive_time.end_time
+give null flights from fromloc.city_name to toloc.city_name null depart_date.day_name depart_time.period_of_day depart_time.period_of_day
+fromloc.city_name to toloc.city_name toloc.city_name
+null null flight_mod flight leaving from fromloc.city_name to toloc.city_name toloc.city_name
+null null airline null null depart_time.period_of_day flight from fromloc.city_name to toloc.city_name toloc.city_name
+null null null null flight from fromloc.city_name to toloc.city_name null null stopover null stoploc.city_name stoploc.city_name
+null null to make null trip from fromloc.city_name to toloc.city_name toloc.city_name
+null null null information null flights leaving fromloc.city_name null null depart_time.period_of_day arriving null toloc.city_name toloc.city_name
+show null null flights from fromloc.city_name to toloc.city_name flight_stop flight_stop
+show null null flights null fares from fromloc.city_name to toloc.city_name toloc.city_name
+null null null flights from fromloc.city_name to toloc.city_name

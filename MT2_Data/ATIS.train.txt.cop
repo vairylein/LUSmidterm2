@@ -6,7 +6,7 @@ from from null
 boston city_name fromloc.city_name 
 at at null 
 838am time depart_time.time 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 denver city_name toloc.city_name 
@@ -181,7 +181,7 @@ pittsburgh city_name toloc.city_name
 leaving leaving null 
 after after depart_time.time_relative 
 6pm time depart_time.time 
-null null null 
+and and null 
 before before depart_time.time_relative 
 7pm time depart_time.time 
 
@@ -199,7 +199,7 @@ dallas city_name toloc.city_name
 dallas city_name fromloc.city_name 
 to to null 
 boston city_name toloc.city_name 
-null null null 
+and and null 
 boston city_name fromloc.city_name 
 to to null 
 baltimore city_name toloc.city_name 
@@ -274,7 +274,7 @@ from from null
 denver city_name fromloc.city_name 
 to to null 
 pittsburgh city_name toloc.city_name 
-null null null 
+and and null 
 atlanta city_name toloc.city_name 
 
 null null null 
@@ -293,7 +293,7 @@ airline airline null
 serves serves null 
 denver city_name fromloc.city_name 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 atlanta city_name fromloc.city_name 
 
 show show null 
@@ -372,7 +372,7 @@ from from null
 philadelphia city_name fromloc.city_name 
 to to null 
 san-francisco city_name toloc.city_name 
-null null null 
+and and null 
 give give null 
 null null null 
 null null null 
@@ -389,7 +389,7 @@ to to null
 san-francisco city_name toloc.city_name 
 
 fares fares null 
-null null null 
+and and null 
 flights flights null 
 from from null 
 pittsburgh city_name fromloc.city_name 
@@ -434,7 +434,7 @@ to to null
 san-francisco city_name toloc.city_name 
 between between null 
 6pm time depart_time.start_time 
-null null null 
+and and null 
 8pm time depart_time.end_time 
 null null null 
 friday day_name depart_date.day_name 
@@ -458,13 +458,13 @@ round-trip round_trip round_trip
 flights flights null 
 between between null 
 indianapolis city_name fromloc.city_name 
-null null null 
+and and null 
 orlando city_name toloc.city_name 
 florida state_name toloc.state_name 
 null null null 
 null null null 
 twenty-seventh day_number depart_date.day_number 
-null null null 
+and and null 
 null null null 
 twenty-eighth day_number depart_date.day_number 
 null null null 
@@ -523,7 +523,7 @@ to to null
 dallas-fort-worth city_name toloc.city_name 
 null null null 
 direct direct null 
-null null null 
+and and null 
 connecting connecting null 
 null null null 
 arrive arrive null 
@@ -614,7 +614,7 @@ shortest flight_mod flight_mod
 trip trip null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 null null null 
@@ -657,7 +657,7 @@ dallas city_name fromloc.city_name
 null null null 
 tuesday day_name depart_date.day_name 
 evening period_of_day depart_time.period_of_day 
-null null null 
+and and null 
 returning returning null 
 to to null 
 atlanta city_name toloc.city_name 
@@ -850,7 +850,7 @@ beginning RARE null
 null null null 
 april month_name depart_date.month_name 
 twenty-fifth day_number depart_date.day_number 
-null null null 
+and and null 
 returning returning return 
 null null null 
 null month_name return_date.month_name 
@@ -890,7 +890,7 @@ monday day_name depart_date.day_name
 tuesday day_name depart_date.day_name 
 wednesday day_name depart_date.day_name 
 thursday day_name depart_date.day_name 
-null null null 
+and and null 
 friday day_name depart_date.day_name 
 
 list list null 
@@ -999,7 +999,7 @@ after after depart_time.time_relative
 6pm time depart_time.time 
 between between null 
 san-francisco city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 
 null null null 
@@ -1008,7 +1008,7 @@ depart depart null
 baltimore city_name fromloc.city_name 
 null null null 
 friday day_name depart_date.day_name 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 san-francisco city_name toloc.city_name 
@@ -1046,7 +1046,7 @@ nonstop flight_stop flight_stop
 flights flights null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 washington city_name toloc.city_name 
 arrive arrive null 
 after after arrive_time.time_relative 
@@ -1209,7 +1209,7 @@ phoenix city_name toloc.city_name
 stopping stopping null 
 null null null 
 cincinnati city_name stoploc.city_name 
-null null null 
+and and null 
 serving serving null 
 dinner meal_description meal_description 
 null null null 
@@ -1303,7 +1303,7 @@ earliest flight_mod flight_mod
 flight flight null 
 departing departing null 
 san-francisco city_name fromloc.city_name 
-null null null 
+and and null 
 arriving arriving null 
 null null null 
 boston city_name toloc.city_name 
@@ -1341,7 +1341,7 @@ null null null
 flights flights null 
 leave leave null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 los-angeles city_name toloc.city_name 
@@ -1369,7 +1369,7 @@ smallest smallest mod
 plane plane null 
 leaving leaving null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 arriving arriving null 
 null null null 
 baltimore city_name toloc.city_name 
@@ -1423,7 +1423,7 @@ from from null
 st.-petersburg city_name fromloc.city_name 
 to to null 
 milwaukee city_name toloc.city_name 
-null null null 
+and and null 
 null null null 
 from from null 
 milwaukee city_name fromloc.city_name 
@@ -1508,7 +1508,7 @@ list list null
 flights flights null 
 between between null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 
 find find null 
@@ -1520,13 +1520,13 @@ null null null
 nonstop flight_stop flight_stop 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 dallas city_name toloc.city_name 
 null null null 
 leave leave null 
 between between null 
 12 integer depart_time.start_time 
-null null null 
+and and null 
 2 integer depart_time.end_time 
 null null null 
 null null null 
@@ -1597,7 +1597,7 @@ night period_of_day depart_time.period_of_day
 fares fares null 
 between between null 
 philadelphia city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 null null null 
@@ -1822,7 +1822,7 @@ null null null
 flights flights null 
 between between null 
 phoenix city_name fromloc.city_name 
-null null null 
+and and null 
 las-vegas city_name toloc.city_name 
 
 list list null 
@@ -1851,13 +1851,13 @@ from from null
 boston city_name fromloc.city_name 
 to to null 
 denver city_name toloc.city_name 
-null null null 
+and and null 
 null null null 
 null RARE null 
 null null null 
 null null null 
 stopovers stopovers null 
-null null null 
+and and null 
 null null null 
 null null null 
 to to null 
@@ -1874,7 +1874,7 @@ to to null
 baltimore city_name toloc.city_name 
 between between null 
 10am time depart_time.start_time 
-null null null 
+and and null 
 2pm time depart_time.end_time 
 
 show show null 
@@ -2014,7 +2014,7 @@ chicago city_name toloc.city_name
 null null null 
 leaves leaves null 
 wednesday day_name depart_date.day_name 
-null null null 
+and and null 
 arrives arrives null 
 null null null 
 chicago city_name toloc.city_name 
@@ -2174,7 +2174,7 @@ go go null
 between between null 
 null null null 
 airport airport null 
-null null null 
+and and null 
 downtown downtown null 
 null null null 
 ground ground null 
@@ -2195,7 +2195,7 @@ fly fly null
 continental-airlines airline_name airline_name 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 philadelphia city_name toloc.city_name 
 
 null null null 
@@ -2272,7 +2272,7 @@ capacity capacity null
 null null null 
 leaves leaves null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 arrives arrives null 
 null null null 
 baltimore city_name toloc.city_name 
@@ -2369,7 +2369,7 @@ list list null
 null null null 
 null null null 
 arriving arriving null 
-null null null 
+and and null 
 departing departing null 
 flights flights null 
 from from null 
@@ -2397,7 +2397,7 @@ null null null
 morning period_of_day depart_time.period_of_day 
 between between null 
 logan airport_name fromloc.airport_name 
-null null null 
+and and null 
 bwi airport_code toloc.airport_code 
 
 null null null 
@@ -2506,7 +2506,7 @@ null null null
 flight flight null 
 between between null 
 oakland city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 null null null 
 null null null 
@@ -2673,7 +2673,7 @@ oakland city_name toloc.city_name
 arriving arriving null 
 between between null 
 12 integer arrive_time.start_time 
-null null null 
+and and null 
 1-o'clock time arrive_time.end_time 
 
 null null null 
@@ -2931,7 +2931,7 @@ baltimore city_name toloc.city_name
 after after depart_time.time_relative 
 8pm time depart_time.time 
 wednesday day_name depart_date.day_name 
-null null null 
+and and null 
 before before depart_time.time_relative 
 9am time depart_time.time 
 thursday day_name depart_date.day_name 
@@ -3107,7 +3107,7 @@ null null null
 fly fly null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 null null null 
@@ -3173,7 +3173,7 @@ airlines airlines null
 fly fly null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 
 list list null 
@@ -3211,7 +3211,7 @@ from from null
 miami city_name fromloc.city_name 
 to to null 
 las-vegas city_name toloc.city_name 
-null null null 
+and and null 
 null null null 
 null null null 
 prefer RARE null 
@@ -3255,7 +3255,7 @@ to to null
 phoenix city_name toloc.city_name 
 null null null 
 saturday day_name depart_date.day_name 
-null null null 
+and and null 
 null null null 
 sunday day_name depart_date.day_name 
 
@@ -3270,7 +3270,7 @@ null null null
 denver city_name fromloc.city_name 
 null null null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 philadelphia city_name toloc.city_name 
@@ -3330,7 +3330,7 @@ null null null
 null null null 
 between between null 
 oakland city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 null null null 
@@ -3343,7 +3343,7 @@ null null null
 stops stops null 
 null null null 
 denver city_name stoploc.city_name 
-null null null 
+and and null 
 goes goes null 
 null null null 
 to to null 
@@ -3364,7 +3364,7 @@ one-way round_trip round_trip
 flights flights null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 philadelphia city_name toloc.city_name 
 
 null null null 
@@ -3541,7 +3541,7 @@ from from null
 boston city_name fromloc.city_name 
 to to null 
 atlanta city_name toloc.city_name 
-null null null 
+and and null 
 back back return 
 null null null 
 null null null 
@@ -3560,7 +3560,7 @@ null null null
 flights flights null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 null null null 
 august month_name depart_date.month_name 
@@ -3765,7 +3765,7 @@ united-airlines airline_name airline_name
 flights flights null 
 between between null 
 baltimore city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 null null null 
 august month_name depart_date.month_name 
@@ -3779,7 +3779,7 @@ null null depart_date.date_relative
 tuesday day_name depart_date.day_name 
 between between null 
 philadelphia city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 find find null 
@@ -3818,7 +3818,7 @@ between between null
 fare fare null 
 code code null 
 q fare_basis_code fare_basis_code 
-null null null 
+and and null 
 fare fare null 
 code code null 
 f fare_basis_code fare_basis_code 
@@ -3849,7 +3849,7 @@ null null null
 flight flight null 
 between between null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 oakland city_name toloc.city_name 
 null null null 
 flight flight null 
@@ -3858,7 +3858,7 @@ null null null
 null null null 
 null null null 
 afternoon period_of_day depart_time.period_of_day 
-null null null 
+and and null 
 arrive arrive null 
 close close arrive_time.time_relative 
 to to null 
@@ -3883,7 +3883,7 @@ prices prices null
 flights flights null 
 between between null 
 new-york city_name fromloc.city_name 
-null null null 
+and and null 
 miami city_name toloc.city_name 
 
 null null null 
@@ -3962,7 +3962,7 @@ null null null
 airport airport null 
 null null null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 downtown downtown null 
 
 null null null 
@@ -3988,7 +3988,7 @@ null null null
 flights flights null 
 between between null 
 philadelphia city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 
 null null null 
@@ -4035,7 +4035,7 @@ from from null
 orlando city_name fromloc.city_name 
 to to null 
 kansas-city city_name toloc.city_name 
-null null null 
+and and null 
 null null null 
 to to null 
 minneapolis city_name toloc.city_name 
@@ -4053,7 +4053,7 @@ to to null
 salt-lake-city city_name toloc.city_name 
 null null null 
 delta airline_name airline_name 
-null null null 
+and and null 
 arriving arriving null 
 at at null 
 null null arrive_time.time_relative 
@@ -4068,7 +4068,7 @@ null null null
 null null null 
 null null null 
 aircraft aircraft null 
-null null null 
+and and null 
 null null null 
 flight flight null 
 number number null 
@@ -4145,14 +4145,14 @@ flies flies null
 null RARE null 
 null null null 
 continent RARE null 
-null null null 
+and and null 
 leaves leaves null 
 from from null 
 boston city_name fromloc.city_name 
 goes goes null 
 to to null 
 dallas city_name toloc.city_name 
-null null null 
+and and null 
 makes makes null 
 null null null 
 stopover stopover null 
@@ -4298,7 +4298,7 @@ pittsburgh city_name toloc.city_name
 leaving leaving null 
 between between null 
 430 integer depart_time.start_time 
-null null null 
+and and null 
 530pm time depart_time.end_time 
 
 null null null 
@@ -4451,7 +4451,7 @@ null null null
 null null null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 washington city_name toloc.city_name 
 arriving arriving null 
 null null null 
@@ -4465,7 +4465,7 @@ null null null
 airlines airlines null 
 between between null 
 toronto city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 null null null 
@@ -4475,7 +4475,7 @@ null null null
 null null null 
 between between null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 atlanta city_name toloc.city_name 
 
 show show null 
@@ -4529,7 +4529,7 @@ washington city_name fromloc.city_name
 dc state_code fromloc.state_code 
 to to null 
 san-francisco city_name toloc.city_name 
-null null null 
+and and null 
 list list null 
 null RARE null 
 fares fares null 
@@ -4538,7 +4538,7 @@ round-trip round_trip round_trip
 flights flights null 
 between between null 
 new-york city_name fromloc.city_name 
-null null null 
+and and null 
 miami city_name toloc.city_name 
 
 show show null 
@@ -4574,7 +4574,7 @@ null null null
 connection RARE null 
 between between null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 null null null 
 delta-airline airline_name airline_name 
@@ -4591,7 +4591,7 @@ us-air airline_name airline_name
 flight flight null 
 leaving leaving null 
 philadelphia city_name fromloc.city_name 
-null null null 
+and and null 
 returning returning null 
 to to null 
 boston city_name toloc.city_name 
@@ -4919,7 +4919,7 @@ null null null
 between between null 
 null null null 
 airport airport null 
-null null null 
+and and null 
 downtown downtown null 
 san-francisco city_name toloc.city_name 
 
@@ -5105,7 +5105,7 @@ newark city_name fromloc.city_name
 to to null 
 la city_name toloc.city_name 
 monday day_name depart_date.day_name 
-null null null 
+and and null 
 wednesday day_name depart_date.day_name 
 
 show show null 
@@ -5164,7 +5164,7 @@ after after depart_time.time_relative
 6-o'clock time depart_time.time 
 null null null 
 wednesday day_name depart_date.day_name 
-null null null 
+and and null 
 before before depart_time.time_relative 
 7-o'clock-am time depart_time.time 
 null null null 
@@ -5219,7 +5219,7 @@ null null null
 flights flights null 
 leaving leaving null 
 san-francisco city_name fromloc.city_name 
-null null null 
+and and null 
 going going null 
 to to null 
 pittsburgh city_name toloc.city_name 
@@ -5309,7 +5309,7 @@ flight flight null
 information information null 
 between between null 
 atlanta city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 
 null null null 
@@ -5457,7 +5457,7 @@ around around arrive_time.time_relative
 null null null 
 null null null 
 evening period_of_day arrive_time.period_of_day 
-null null null 
+and and null 
 returning returning return 
 null null null 
 null null return_date.date_relative 
@@ -5601,7 +5601,7 @@ null null null
 flight flight null 
 between between null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 baltimore city_name toloc.city_name 
 null null null 
 july month_name depart_date.month_name 
@@ -5626,7 +5626,7 @@ null null null
 houston city_name toloc.city_name 
 between between null 
 1030am time arrive_time.start_time 
-null null null 
+and and null 
 1130am time arrive_time.end_time 
 
 null null null 
@@ -5737,7 +5737,7 @@ denver city_name toloc.city_name
 null null null 
 to to null 
 san-francisco city_name toloc.city_name 
-null null null 
+and and null 
 back back return 
 
 null null null 
@@ -5761,9 +5761,9 @@ to to null
 dallas city_name toloc.city_name 
 from from null 
 san-francisco city_name fromloc.city_name 
-null null null 
+and and null 
 atlanta city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name fromloc.city_name 
 
 null null null 
@@ -5919,7 +5919,7 @@ delta-airlines airline_name airline_name
 flight flight null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 washington city_name toloc.city_name 
 
 null null null 
@@ -5937,7 +5937,7 @@ null null null
 flights flights null 
 null null null 
 direct direct null 
-null null null 
+and and null 
 connecting connecting null 
 from from null 
 dallas-fort-worth city_name fromloc.city_name 
@@ -5974,7 +5974,7 @@ null null null
 leaves leaves null 
 between between null 
 atlanta city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 null null null 
@@ -6041,9 +6041,9 @@ airlines airlines null
 fly fly null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
-null null null 
+and and null 
 stop stop null 
 null null null 
 denver city_name stoploc.city_name 
@@ -6096,7 +6096,7 @@ to to null
 baltimore city_name toloc.city_name 
 null null null 
 time time flight_time 
-null null null 
+and and null 
 null null null 
 city city null 
 null null null 
@@ -6144,7 +6144,7 @@ leaving leaving null
 atlanta city_name fromloc.city_name 
 august month_name depart_date.month_name 
 seventh day_number depart_date.day_number 
-null null null 
+and and null 
 arriving arriving null 
 null null null 
 denver city_name toloc.city_name 
@@ -6282,7 +6282,7 @@ leaving leaving null
 pittsburgh city_name fromloc.city_name 
 between between null 
 12 integer depart_time.start_time 
-null null null 
+and and null 
 4 integer depart_time.end_time 
 null null null 
 null null null 
@@ -6506,7 +6506,7 @@ give give null
 null null null 
 null null null 
 flights flights null 
-null null null 
+and and null 
 fares fares null 
 null null null 
 december month_name depart_date.month_name 
@@ -6624,11 +6624,11 @@ flights flights null
 null null null 
 between between null 
 10am time depart_time.start_time 
-null null null 
+and and null 
 3pm time depart_time.end_time 
 between between null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 fort-worth city_name toloc.city_name 
 
 list list null 
@@ -6707,7 +6707,7 @@ from from null
 boston city_name fromloc.city_name 
 to to null 
 san-francisco city_name toloc.city_name 
-null null null 
+and and null 
 makes makes null 
 null null null 
 stopover stopover null 
@@ -6859,7 +6859,7 @@ from from null
 memphis city_name fromloc.city_name 
 to to null 
 tacoma city_name toloc.city_name 
-null null null 
+and and null 
 make make null 
 null null null 
 stop stop null 
@@ -6874,7 +6874,7 @@ round-trip round_trip round_trip
 fare fare null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 show show null 
@@ -6887,7 +6887,7 @@ pittsburgh city_name city_name
 
 null null null 
 flights flights null 
-null null null 
+and and null 
 fares fares null 
 from from null 
 atlanta city_name fromloc.city_name 
@@ -6931,7 +6931,7 @@ leaving leaving null
 pittsburgh city_name fromloc.city_name 
 between between null 
 12 integer depart_time.start_time 
-null null null 
+and and null 
 4 integer depart_time.end_time 
 null null null 
 null null null 
@@ -7039,7 +7039,7 @@ denver city_name fromloc.city_name
 to to null 
 atlanta city_name toloc.city_name 
 round-trip round_trip round_trip 
-null null null 
+and and null 
 make make null 
 null null null 
 stop stop null 
@@ -7142,7 +7142,7 @@ round-trip round_trip round_trip
 flights flights null 
 between between null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 
 null null null 
@@ -7222,7 +7222,7 @@ coach class_type class_type
 fare fare null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 atlanta city_name toloc.city_name 
 null null null 
 delta airline_name airline_name 
@@ -7247,7 +7247,7 @@ null null null
 rates rates null 
 between between null 
 atlanta city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 null null null 
 september month_name depart_date.month_name 
@@ -7286,7 +7286,7 @@ columbus city_name fromloc.city_name
 to to null 
 baltimore city_name toloc.city_name 
 
-null null null 
+and and null 
 flight flight null 
 from from null 
 oakland city_name fromloc.city_name 
@@ -7321,7 +7321,7 @@ pittsburgh city_name toloc.city_name
 starting RARE null 
 at at null 
 noon time depart_time.time 
-null null null 
+and and null 
 null RARE depart_time.time_relative 
 
 null null null 
@@ -7366,7 +7366,7 @@ null null null
 flights flights null 
 null null null 
 american airline_name airline_name 
-null null null 
+and and null 
 delta airline_name airline_name 
 to to null 
 dfw airport_code toloc.airport_code 
@@ -7421,7 +7421,7 @@ united airline_name airline_name
 flights flights null 
 between between null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 baltimore city_name toloc.city_name 
 
 find find null 
@@ -7550,7 +7550,7 @@ null null null
 fare fare null 
 code code null 
 y fare_basis_code fare_basis_code 
-null null null 
+and and null 
 null null null 
 null null null 
 null null null 
@@ -7615,7 +7615,7 @@ sunday day_name depart_date.day_name
 flights flights null 
 between between null 
 milwaukee city_name fromloc.city_name 
-null null null 
+and and null 
 phoenix city_name toloc.city_name 
 american-airlines airline_name airline_name 
 
@@ -7682,7 +7682,7 @@ earliest flight_mod flight_mod
 flight flight null 
 departing departing null 
 san-francisco city_name fromloc.city_name 
-null null null 
+and and null 
 arriving arriving null 
 null null null 
 oakland city_name toloc.city_name 
@@ -7727,7 +7727,7 @@ airline airline null
 flights flights null 
 between between null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 
 null null null 
@@ -7745,7 +7745,7 @@ flight flight null
 null null null 
 null null null 
 american airline_name airline_name 
-null null null 
+and and null 
 leave leave null 
 null null null 
 null null null 
@@ -7756,7 +7756,7 @@ to to null
 null null null 
 null null null 
 aircraft aircraft null 
-null null null 
+and and null 
 flight flight null 
 number number null 
 
@@ -7958,7 +7958,7 @@ from from null
 kansas-city city_name fromloc.city_name 
 to to null 
 cleveland city_name toloc.city_name 
-null null null 
+and and null 
 price price null 
 
 null null null 
@@ -7970,7 +7970,7 @@ phoenix city_name fromloc.city_name
 to to null 
 st.-paul city_name toloc.city_name 
 minnesota state_name toloc.state_name 
-null null null 
+and and null 
 leave leave null 
 after after depart_time.time_relative 
 noon time depart_time.time 
@@ -7988,7 +7988,7 @@ null null null
 flight flight null 
 delta airline_name airline_name 
 82 integer flight_number 
-null null null 
+and and null 
 delta airline_name airline_name 
 139 integer flight_number 
 
@@ -8055,7 +8055,7 @@ null null null
 airfare airfare null 
 between between null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 
 show show null 
@@ -8080,7 +8080,7 @@ atlanta city_name fromloc.city_name
 to to null 
 baltimore city_name toloc.city_name 
 denver city_name toloc.city_name 
-null null null 
+and and null 
 dallas city_name toloc.city_name 
 
 one-way round_trip round_trip 
@@ -8203,7 +8203,7 @@ baltimore city_name toloc.city_name
 
 null null flight_mod 
 flights flights null 
-null null null 
+and and null 
 fares fares null 
 from from null 
 pittsburgh city_name fromloc.city_name 
@@ -8411,7 +8411,7 @@ null null null
 washington city_name toloc.city_name 
 between between null 
 1115am time arrive_time.start_time 
-null null null 
+and and null 
 1245pm time arrive_time.end_time 
 
 null null null 
@@ -8431,7 +8431,7 @@ to to null
 houston city_name toloc.city_name 
 tuesday day_name depart_date.day_name 
 morning period_of_day depart_time.period_of_day 
-null null null 
+and and null 
 from from null 
 houston city_name fromloc.city_name 
 to to null 
@@ -8461,7 +8461,7 @@ flights flights null
 null null null 
 delta airline_name airline_name 
 null null null 
-null null null 
+and and null 
 null null null 
 null null null 
 fort-worth city_name fromloc.city_name 
@@ -8523,7 +8523,7 @@ null null null
 ground ground null 
 transportation transportation null 
 to to null 
-null null null 
+and and null 
 from from null 
 downtown downtown null 
 
@@ -8549,7 +8549,7 @@ null null null
 continental-airlines airline_name airline_name 
 leaving leaving null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 going going null 
 to to null 
 denver city_name toloc.city_name 
@@ -8595,7 +8595,7 @@ from from null
 pittsburgh city_name fromloc.city_name 
 between between null 
 4 integer arrive_time.start_time 
-null null null 
+and and null 
 5pm time arrive_time.end_time 
 
 null null null 
@@ -8630,7 +8630,7 @@ show show null
 flights flights null 
 between between null 
 toronto city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 show show null 
@@ -8639,13 +8639,13 @@ null null null
 flights flights null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 ground ground null 
@@ -8659,7 +8659,7 @@ daily flight_days flight_days
 flights flights null 
 between between null 
 milwaukee city_name fromloc.city_name 
-null null null 
+and and null 
 orlando city_name toloc.city_name 
 
 null null null 
@@ -8680,7 +8680,7 @@ leave leave null
 philadelphia city_name fromloc.city_name 
 null null null 
 dallas city_name toloc.city_name 
-null null null 
+and and null 
 depart depart null 
 before before depart_time.time_relative 
 noon time depart_time.time 
@@ -8780,7 +8780,7 @@ to to null
 go go null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 show show null 
@@ -8872,7 +8872,7 @@ null null null
 flights flights null 
 between between null 
 milwaukee city_name fromloc.city_name 
-null null null 
+and and null 
 phoenix city_name toloc.city_name 
 null null null 
 saturday day_name depart_date.day_name 
@@ -8904,7 +8904,7 @@ list list null
 null null null 
 null null null 
 takeoffs takeoffs null 
-null null null 
+and and null 
 landings landings null 
 at at null 
 general-mitchell-airport airport_name airport_name 
@@ -8972,7 +8972,7 @@ null null null
 flight flight null 
 leaving leaving null 
 fort-worth city_name fromloc.city_name 
-null null null 
+and and null 
 arriving arriving null 
 null null null 
 denver city_name toloc.city_name 
@@ -9055,7 +9055,7 @@ null null null
 null null null 
 null null null 
 first-class class_type class_type 
-null null null 
+and and null 
 coach class_type class_type 
 fares fares null 
 null null null 
@@ -9135,7 +9135,7 @@ flight flight null
 between between null 
 washington city_name fromloc.city_name 
 dc state_code fromloc.state_code 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 null null null 
 us-air airline_name airline_name 
@@ -9151,7 +9151,7 @@ pittsburgh city_name fromloc.city_name
 null null null 
 leave leave null 
 tomorrow today_relative depart_date.today_relative 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 boston city_name toloc.city_name 
@@ -9200,7 +9200,7 @@ null null null
 flights flights null 
 leave leave null 
 chicago city_name fromloc.city_name 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 detroit city_name toloc.city_name 
@@ -9332,7 +9332,7 @@ null null null
 stop stop null 
 null null null 
 new-york city_name stoploc.city_name 
-null null null 
+and and null 
 null null null 
 null null null 
 null null null 
@@ -9354,7 +9354,7 @@ to to null
 pittsburgh city_name toloc.city_name 
 
 null null null 
-null null null 
+and and null 
 null null null 
 from from null 
 pittsburgh city_name fromloc.city_name 
@@ -9492,7 +9492,7 @@ first-class class_type class_type
 tickets tickets null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 null null null 
@@ -9561,7 +9561,7 @@ null null null
 flights flights null 
 between between null 
 milwaukee city_name fromloc.city_name 
-null null null 
+and and null 
 chicago city_name toloc.city_name 
 
 null null null 
@@ -9666,7 +9666,7 @@ null null null
 null null null 
 between between null 
 philadelphia city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 null null null 
 september month_name depart_date.month_name 
@@ -9719,7 +9719,7 @@ to to null
 boston city_name toloc.city_name 
 null null null 
 wednesday day_name depart_date.day_name 
-null null null 
+and and null 
 null null null 
 null null null 
 to to null 
@@ -9797,7 +9797,7 @@ atlanta city_name toloc.city_name
 
 null null null 
 flights flights null 
-null null null 
+and and null 
 fares fares null 
 from from null 
 atlanta city_name fromloc.city_name 
@@ -9828,7 +9828,7 @@ round-trip round_trip round_trip
 flights flights null 
 between between null 
 indianapolis city_name fromloc.city_name 
-null null null 
+and and null 
 orlando city_name toloc.city_name 
 null null null 
 null null null 
@@ -9876,7 +9876,7 @@ to to null
 baltimore city_name toloc.city_name 
 null null null 
 wednesday day_name depart_date.day_name 
-null null null 
+and and null 
 thursday day_name depart_date.day_name 
 
 null null null 
@@ -9886,7 +9886,7 @@ latest flight_mod flight_mod
 flight flight null 
 between between null 
 washington city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 
 explain RARE null 
@@ -9902,7 +9902,7 @@ baltimore city_name fromloc.city_name
 to to null 
 oakland city_name toloc.city_name 
 null null null 
-null null null 
+and and null 
 null null null 
 null null null 
 null null null 
@@ -9932,7 +9932,7 @@ null null null
 null null null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 list list null 
@@ -9944,7 +9944,7 @@ from from null
 new-york city_name fromloc.city_name 
 to to null 
 las-vegas city_name toloc.city_name 
-null null null 
+and and null 
 list list null 
 nonstop flight_stop flight_stop 
 flights flights null 
@@ -9967,7 +9967,7 @@ to to null
 baltimore city_name toloc.city_name 
 null null null 
 american airline_name airline_name 
-null null null 
+and and null 
 delta-airlines airline_name airline_name 
 
 null null null 
@@ -10039,7 +10039,7 @@ to to null
 cleveland city_name toloc.city_name 
 null null null 
 us-air airline_name airline_name 
-null null null 
+and and null 
 null null null 
 arrives arrives null 
 around around arrive_time.time_relative 
@@ -10074,7 +10074,7 @@ round-trip round_trip round_trip
 fare fare null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 washington city_name toloc.city_name 
 
 null null null 
@@ -10083,7 +10083,7 @@ null null null
 flights flights null 
 between between null 
 dallas city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 null null null 
 july month_name depart_date.month_name 
@@ -10212,7 +10212,7 @@ morning period_of_day depart_time.period_of_day
 flights flights null 
 between between null 
 charlotte city_name fromloc.city_name 
-null null null 
+and and null 
 baltimore city_name toloc.city_name 
 
 show show null 
@@ -10269,7 +10269,7 @@ null null null
 null null null 
 between between null 
 philadelphia city_name fromloc.city_name 
-null null null 
+and and null 
 pittsburgh city_name toloc.city_name 
 
 show show null 
@@ -10310,7 +10310,7 @@ to to null
 fly fly null 
 between between null 
 atlanta city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 null null null 
@@ -10337,7 +10337,7 @@ null null null
 continental-airlines airline_name airline_name 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 denver city_name toloc.city_name 
 
 null null null 
@@ -10570,7 +10570,7 @@ flights flights null
 depart depart null 
 from from null 
 pittsburgh city_name fromloc.city_name 
-null null null 
+and and null 
 arrive arrive null 
 null null null 
 oakland city_name toloc.city_name 
@@ -10675,11 +10675,11 @@ from from null
 boston city_name fromloc.city_name 
 to to null 
 denver city_name toloc.city_name 
-null null null 
+and and null 
 null null null 
 to to null 
 san-francisco city_name toloc.city_name 
-null null null 
+and and null 
 back back return 
 to to null 
 boston city_name fromloc.city_name 
@@ -10745,7 +10745,7 @@ lufthansa airline_name airline_name
 fly fly null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 oakland city_name toloc.city_name 
 
 show show null 
@@ -10802,7 +10802,7 @@ to to null
 washington city_name toloc.city_name 
 null null null 
 indianapolis city_name stoploc.city_name 
-null null null 
+and and null 
 arrive arrive null 
 null null arrive_time.time_relative 
 9pm time arrive_time.time 
@@ -10963,7 +10963,7 @@ null null null
 flights flights null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 baltimore city_name toloc.city_name 
 
 find find null 
@@ -11126,7 +11126,7 @@ null null null
 flights flights null 
 between between null 
 san-francisco city_name fromloc.city_name 
-null null null 
+and and null 
 boston city_name toloc.city_name 
 
 define define null 
@@ -11168,7 +11168,7 @@ null null null
 wednesday day_name depart_date.day_name 
 after after depart_time.time_relative 
 4pm time depart_time.time 
-null null null 
+and and null 
 thursday day_name depart_date.day_name 
 before before depart_time.time_relative 
 9am time depart_time.time 
@@ -11198,7 +11198,7 @@ null null null
 live live null 
 null null null 
 denver city_name fromloc.city_name 
-null null null 
+and and null 
 null null null 
 null null null 
 to to null 
@@ -11218,7 +11218,7 @@ baltimore city_name toloc.city_name
 from from null 
 atlanta city_name fromloc.city_name 
 denver city_name null 
-null null null 
+and and null 
 pittsburgh city_name fromloc.city_name 
 
 null RARE null 
@@ -11242,7 +11242,7 @@ airlines airlines null
 fly fly null 
 between between null 
 boston city_name fromloc.city_name 
-null null null 
+and and null 
 san-francisco city_name toloc.city_name 
 
 code code null 
@@ -11298,7 +11298,7 @@ from from null
 atlanta city_name fromloc.city_name 
 to to null 
 denver city_name toloc.city_name 
-null null null 
+and and null 
 null null null 
 null null null 
 to to null 
@@ -11355,7 +11355,7 @@ null null null
 baltimore city_name toloc.city_name 
 between between null 
 1115am time arrive_time.start_time 
-null null null 
+and and null 
 1245pm time arrive_time.end_time 
 
 give give null 
